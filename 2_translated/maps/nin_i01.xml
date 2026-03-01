@@ -1,0 +1,1499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>317220,317304</PointerOffset>
+      <JapaneseText>ワンダーシェフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>304288,304352,304416,304480,304544,304608,304672,304736</PointerOffset>
+      <MaxLen>48</MaxLen>
+      <JapaneseText>側近の仁蔵</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>304800,304864,304928,304992,305056,305120,305184,305248</PointerOffset>
+      <MaxLen>48</MaxLen>
+      <JapaneseText>下働きの彗蔵</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>305312,305376,305440,305504,305568,305632</PointerOffset>
+      <MaxLen>48</MaxLen>
+      <JapaneseText>風呂好きの大蔵</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>ref:Speaker:8</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>ref:Speaker:19</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311012,311250,311315,311351,311422,311488,311527,311603,311674,311740,311751,311869,311955,312036,312112,312183,312249,312260,312429,312462,312473,312541,312577,312588,312659,312698,312709,312783,312825,312836,312879,313028,313064,313109,313166,313199,313240,313828,313839,313994,314102,314276,314352,314450,314556,314622,314675,314789,314986,315228,315293,315358,315423,316097,316438,316639</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312949,313001,313397,313982,314777,315080,315134,315190,315488,315536,315584,315638,315698,315752,315806,315909,315967,317358,317406,317458,317506,317554,317606,317654,317702,317758,317814,317866,317920,317968,318020,318072,318120,318172,318228,318288,318386</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>ref:Speaker:14</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>ref:Speaker:12</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318576</PointerOffset>
+      <JapaneseText>すず</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Place</Section>
+    <Entry>
+      <PointerOffset>318489</PointerOffset>
+      <JapaneseText>忍者の里　頭領の屋敷</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>317224</PointerOffset>
+      <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317224</PointerOffset>
+      <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
+      <JapaneseText>見つけてくれて
+サンキュー！ご褒美よ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317308</PointerOffset>
+      <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
+      <JapaneseText>……では、サラバっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Npc</Section>
+    <Entry>
+      <PointerOffset>308592</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308592</PointerOffset>
+      <JapaneseText>私は頭領の右腕を
+務めさせてもらっているこのたびは大変失礼した。
+本来は我らの失態、頭領のお手を
+煩わせるのは不本意だが……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308596</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308596</PointerOffset>
+      <JapaneseText>プルートの居場所をつきとめ、
+討伐が目的、参謀である私が
+ここを動くわけにはいかぬかと言って、頭領に
+動かれるのもマズイが、
+この際仕方がない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308600</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308600</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308600</PointerOffset>
+      <JapaneseText>このたびは、我が采配の
+不徳の致すところ……皆様のお手をお借りすることに
+なろうとは……よろしくお願いする……
+この世界のため、なにとぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308604</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308604</PointerOffset>
+      <JapaneseText>我らはこの里を守るため、
+ここにとどまっておるすべてお任せすることになり、
+大変無念で、大変申し訳ないが、
+後はお願いした……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308608</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308608</PointerOffset>
+      <JapaneseText>頭領はわずか１２歳にして
+この里をとりまとめる
+頭領をしっかり務めてらっしゃるしかし、時折１２歳の
+子どもらしい顔も見せられるのが
+魅力でもあるのだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308612</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308612</PointerOffset>
+      <JapaneseText>私のような大人でも時々、
+舌を巻くような力を頭領が
+発揮されることがあるそんなすごい頭領のそばに
+お仕えできてまったく光栄である</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308616</PointerOffset>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308616</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308616</PointerOffset>
+      <JapaneseText>様、銅蔵様と二代に渡り、
+おそばに仕えしている。
+銅蔵様のことは残念だったが……そのことについて、あまり
+ご本人の口から話されることは
+ないが、おそらく……いや、忘れてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308620</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308620</PointerOffset>
+      <JapaneseText>頭領のご両親のことは……
+知らぬのか……？そうだな、頭領が自ら話すことも
+ないだろう、いや、忘れてくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308624</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308624</PointerOffset>
+      <JapaneseText>最近ようやく、頭領直下の
+戦闘部隊に配属になった
+彗蔵でござるでござるが、こたびの戦いでは、
+この村を守る後衛に
+配されたでござるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308628</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308628</PointerOffset>
+      <JapaneseText>それでも拙者は拙者に与えれた
+任務を忠実にこなすだけに
+ござるよ不満を申すなどとんでもない。
+若輩たる我も里のために戦える
+なら本望にござる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308632</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308632</PointerOffset>
+      <JapaneseText>我らの仲間がプルートの本拠で
+命を落としたでござるよ。
+残念無念、恐縮至極にござるもし、あの場に拙者がいたなら
+あのようなことになっていない
+……こともないでござるかな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308636</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308636</PointerOffset>
+      <JapaneseText>もはや、我が里にプルートの
+魔物の軍勢に立ち向かえるだけの
+力があるかどうか……残された者たちも決して
+弱くはないでござるが、
+頭領がどう判断されるか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308640</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308640</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308640</PointerOffset>
+      <JapaneseText>ようやく世界にも
+平和が訪れたでござるだが、いつの世もどこにでも
+謀議を持つ者がいるもの我らは常に
+気が抜けぬでござる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308644</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308644</PointerOffset>
+      <JapaneseText>我らが願いはこの世界の
+安寧でござるそのため、我らは未知なる敵と
+戦うのでござる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308648</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308648</PointerOffset>
+      <JapaneseText>戦闘要員が、対プルート戦で
+ずいぶん減ってしまったでござる来る次なる戦いには
+おそらく拙者も前線に投入される
+でござろうな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308652</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308652</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308652</PointerOffset>
+      <JapaneseText>次なる戦いのために
+鍛錬の日々は死ぬその日まで
+続くのでござる明日、どこで果てるとも
+悔いはござらん。
+任務の果てに命尽きるのならばプルートを倒せず、
+志半ばにして果てた仲間たちは
+無念であったでござろうな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308656</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308656</PointerOffset>
+      <JapaneseText>ここは風呂です。
+戦いに傷を負ったならば
+ぜひ、癒していってください……いえ、覗こうなど、
+そんな滅相もない……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308660</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308660</PointerOffset>
+      <JapaneseText>ここの風呂は、地下から
+湧いて出ている温泉です血行不良・関節痛・火傷
+慢性頭痛・悪性腫瘍などの
+治療によく効きます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308664</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>41</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308664</PointerOffset>
+      <JapaneseText>ここは風呂です。
+手前が女風呂、
+奥が男風呂です女性の方は手前へ、
+男性の方は奥へ、
+お間違えなきよう……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>41</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308668</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>43</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308668</PointerOffset>
+      <JapaneseText>私は男風呂と女風呂を
+間違える人がいないか、
+ここで見張っておりますいえ、私が覗くなど、
+そんなことは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>43</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308672</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>45</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308672</PointerOffset>
+      <JapaneseText>ここは風呂です。
+温かいお湯は体だけでなく
+心も癒してくれますご要望あらば、
+お背中も流しますよ。
+ご遠慮なく申しつけください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>45</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308676</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>47</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308676</PointerOffset>
+      <JapaneseText>風呂の中ではみな裸、
+つまりみな同等の立場です。
+まさに裸のつきあい、無礼講です時々、森の動物たちが
+入っていることもあるかも
+しれませんが仲良くお願いします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>47</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+    <Entry>
+      <PointerOffset>310974</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>ref:Notice:126</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>310993</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>ref:Notice:126</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311023</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>ref:Notice:91</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311228</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>ref:Notice:79</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311261</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>ref:Notice:110</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311326</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>ref:Notice:77</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311362</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>ref:Notice:108</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311433</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>ref:Notice:109</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311499</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>ref:Notice:75</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311538</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>ref:Notice:107</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311614</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>ref:Notice:108</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311685</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>ref:Notice:109</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311762</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>ref:Notice:118</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311789</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>ref:Notice:104</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311880</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>ref:Notice:105</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311966</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>ref:Notice:106</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312047</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>ref:Notice:107</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312123</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>ref:Notice:108</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312194</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>ref:Notice:109</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312271</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>ref:Notice:89</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312407</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312440</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312484</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>ref:Notice:116</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311228</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>ref:Notice:79</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311326</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>ref:Notice:77</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312599</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>ref:Notice:116</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312440</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312670</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>ref:Notice:76</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312720</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>ref:Notice:116</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311326</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>ref:Notice:77</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311499</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>ref:Notice:75</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312847</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>ref:Notice:116</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312890</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>ref:Notice:94</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312909</PointerOffset>
+      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
+%s×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312909</PointerOffset>
+      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
+%s×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312909</PointerOffset>
+      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
+%s×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>313039</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>ref:Notice:73</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312407</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312909</PointerOffset>
+      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
+%s×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312407</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312407</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>ref:Notice:80</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>313409</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>ref:Notice:21</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>313462</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>ref:Notice:132</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>313774</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>ref:Notice:110</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>313850</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>ref:Notice:123</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311538</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>ref:Notice:107</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314005</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>ref:Notice:102</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314113</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>ref:Notice:111</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314287</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>ref:Notice:101</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314363</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>ref:Notice:112</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314461</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>ref:Notice:103</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314567</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>ref:Notice:98</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314633</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>ref:Notice:121</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314686</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>ref:Notice:85</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>311614</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>ref:Notice:108</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314800</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>ref:Notice:88</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>314997</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>ref:Notice:117</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315047</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>ref:Notice:9</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315092</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>ref:Notice:7</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315146</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>ref:Notice:6</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315239</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>ref:Notice:119</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315304</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>ref:Notice:119</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315369</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>ref:Notice:119</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315434</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>ref:Notice:119</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315500</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>ref:Notice:36</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315548</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>ref:Notice:18</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315596</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>ref:Notice:60</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315650</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>ref:Notice:52</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315710</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>ref:Notice:60</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315764</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>ref:Notice:51</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315818</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>ref:Notice:60</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315921</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>ref:Notice:38</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315979</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>ref:Notice:39</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>316108</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>ref:Notice:113</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>316449</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>ref:Notice:115</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>316650</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>ref:Notice:114</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317370</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>ref:Notice:18</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317418</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>ref:Notice:41</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317470</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>ref:Notice:30</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317518</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>ref:Notice:53</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317566</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>ref:Notice:35</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317618</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>ref:Notice:40</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317666</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>ref:Notice:43</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317714</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>ref:Notice:49</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317770</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>ref:Notice:45</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317826</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>ref:Notice:31</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317878</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>ref:Notice:44</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317932</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>ref:Notice:17</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317980</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>ref:Notice:48</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318032</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>ref:Notice:24</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318084</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>ref:Notice:19</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318132</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>ref:Notice:23</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318184</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>ref:Notice:50</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318240</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>ref:Notice:46</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318300</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>ref:Notice:47</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318351</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>ref:Notice:130</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318398</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>ref:Notice:60</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318581</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>ref:Notice:71</Status>
+    </Entry>
+  </Strings>
+</SceneText>

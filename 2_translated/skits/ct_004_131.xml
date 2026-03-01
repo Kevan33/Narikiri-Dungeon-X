@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45156,45316,45532,45784,45952,46128</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45240,45624</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45452,45884</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46052</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45160</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_001&gt;</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45244</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_002&gt;</VoiceId>
+      <JapaneseText>どーしたんだ？　腹へってんのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45320</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_003&gt;</VoiceId>
+      <JapaneseText>クルール！　クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45456</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_004&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;じゃあ、の大好物、フルーツパスタサラダ
+作ってあげるから。ちょっと待っててね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45536</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_005&gt;</VoiceId>
+      <JapaneseText>クルッ！　クルッ！　クルー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45628</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_006&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;あ！　だけずりーっ！
+オレにも！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45788</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_007&gt;</VoiceId>
+      <JapaneseText>クルッ！　クルールッ！　クルッ！　クル、クルール！
+クルール！　クルッ！　クルクル、クルールッ！　クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45888</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_008&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;、そんなに動くと
+もっとお腹すいちゃうよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45956</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_009&gt;</VoiceId>
+      <JapaneseText>クルールゥ～……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46056</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_010&gt;</VoiceId>
+      <JapaneseText>……ふたりにちゃんと
+援護してもらいたいんだね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46132</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_131_011&gt;</VoiceId>
+      <JapaneseText>クルール！　クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

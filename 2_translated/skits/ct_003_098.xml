@@ -1,24 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>37468,38840</PointerOffset>
-      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <PointerOffset>46440,46656</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37788,39140,40636,41264,44284</PointerOffset>
+      <PointerOffset>46576,46776,46988,47128,47592</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText>Albert</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>40180</PointerOffset>
+      <PointerOffset>46844</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,7 +27,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>42708</PointerOffset>
+      <PointerOffset>47192</PointerOffset>
       <JapaneseText>一同</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,16 +35,16 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>43596</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <PointerOffset>47388</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>43844</PointerOffset>
-      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <PointerOffset>47460</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,191 +52,124 @@
     </Entry>
   </Speakers>
   <Strings>
-    <Section>Story</Section>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>37468</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_001&gt;</VoiceId>
+      <PointerOffset>46444</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_001&gt;</VoiceId>
       <JapaneseText>アルベルトさんの体って、木でできてるんですよね？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
+      <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37788</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_002&gt;</VoiceId>
-      <JapaneseText>おぉ、そうだど、&lt;MEL&gt;&lt;MEL&gt;。
+      <PointerOffset>46580</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おぉ、そうだど、。
 ただ木っつても、そんじょそこらの木とは違うだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
+      <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>38840</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_003&gt;</VoiceId>
+      <PointerOffset>46660</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_003&gt;</VoiceId>
       <JapaneseText>それは、材質が特別ってこと？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
+      <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>39140</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_004&gt;</VoiceId>
+      <PointerOffset>46780</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_004&gt;</VoiceId>
       <JapaneseText>そーいうこった。
 おらの体は世界樹のご神木からできてるだーよ。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
+      <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>40180</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_005&gt;</VoiceId>
+      <PointerOffset>46848</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_005&gt;</VoiceId>
       <JapaneseText>え？　うソ！？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
+      <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>40636</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_006&gt;</VoiceId>
+      <PointerOffset>46992</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_006&gt;</VoiceId>
       <JapaneseText>ま、ほんとかどうかは、おらも知らんが。
-た〜ぶん、そんぐらい貴重なもんを使ってるはずだ</JapaneseText>
+た～ぶん、そんぐらい貴重なもんを使ってるはずだ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
+      <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>41264</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_007&gt;</VoiceId>
+      <PointerOffset>47132</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_007&gt;</VoiceId>
       <JapaneseText>んで、そのたいそう立派なご神木使って、
 ノルン様が日曜大工して、おらを作っただーよ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
+      <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>42708</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_008&gt;</VoiceId>
+      <PointerOffset>47196</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_008&gt;</VoiceId>
       <JapaneseText>日曜大工ー！？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>0</UnknownPointer>
+      <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>43596</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_011&gt;</VoiceId>
+      <PointerOffset>47392</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_011&gt;</VoiceId>
       <JapaneseText>クルゥ？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
+      <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>43844</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_012&gt;</VoiceId>
+      <PointerOffset>47464</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_012&gt;</VoiceId>
       <JapaneseText>ほんとかよ、それ？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>6</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
+      <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>44284</PointerOffset>
-      <VoiceId>&lt;VCT_003_098_013&gt;</VoiceId>
+      <PointerOffset>47596</PointerOffset>
+      <VoiceId>&lt;audio:VCT_003_098_013&gt;</VoiceId>
       <JapaneseText>アホかぁ？　作るところ見たわけじゃねぇから、
 おらだって、わかるわけねぇべ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
+      <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Other Strings</Section>
-    <Entry>
-      <PointerOffset>12684</PointerOffset>
-      <JapaneseText>
-【あなたのwTime設定は失敗致しました】
-
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>12</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>33512</PointerOffset>
-      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>13</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>34140</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>14</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>34324</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>15</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>35564</PointerOffset>
-      <JapaneseText>sleep多すぎ %d フレーム減らせ！
- </JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>16</Id>
-      <Status>To Do</Status>
-    </Entry>
+    <Section>Notice</Section>
   </Strings>
 </SceneText>

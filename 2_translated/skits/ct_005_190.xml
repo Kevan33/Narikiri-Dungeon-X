@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>42720,42928,43148,43452,43620</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42820,43064,43260,43364,43516,43700</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>42724</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_001&gt;</VoiceId>
+      <JapaneseText>ずいぶん料理のレパートリーが増えたね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42824</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_002&gt;</VoiceId>
+      <JapaneseText>食うもんが増えんのはいいよな、
+もっと増やそうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42932</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_003&gt;</VoiceId>
+      <JapaneseText>でも今は研究してるヒマないし、
+教えてもらわないとね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43068</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_004&gt;</VoiceId>
+      <JapaneseText>でもさ、教えてくれるヤツいんだろ、
+あの……なんだっけ？　すばらしきワンダーシェフ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43152</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_005&gt;</VoiceId>
+      <JapaneseText>『すばらしき味の世界』、でしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43264</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_006&gt;</VoiceId>
+      <JapaneseText>どっちでもいいけど、あいつら、
+変装して待ち伏せしてんなら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43368</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_007&gt;</VoiceId>
+      <JapaneseText>一緒に来てくれればいいのに、
+オレらの料理番としてさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43456</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_008&gt;</VoiceId>
+      <JapaneseText>……でも、歩きづらいかもしれない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43520</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_009&gt;</VoiceId>
+      <JapaneseText>歩きづらい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43624</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_010&gt;</VoiceId>
+      <JapaneseText>だって、あんな変装の人と
+街とか一緒に歩けないよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43704</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_190_011&gt;</VoiceId>
+      <JapaneseText>見た目よりうまい飯、だろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

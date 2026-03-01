@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45500,45732,45844,46292,46792</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45584,45948,46368,46724</PointerOffset>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45660,46224,46868</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46136</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46460,46564,46664</PointerOffset>
+      <JapaneseText>ノーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45504</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_001&gt;</VoiceId>
+      <JapaneseText>精霊って召喚されるたびに疲れねのかな。
+なんか食わせてやろうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45588</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_002&gt;</VoiceId>
+      <JapaneseText>精霊がものを食べるわけないだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45664</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_003&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;じゃあるまいシ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45736</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_004&gt;</VoiceId>
+      <JapaneseText>マジでそうなのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45848</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_005&gt;</VoiceId>
+      <JapaneseText>……ほれ、ほれほれ、肉だぞ。
+ノーム、イフリート見えっか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45952</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_006&gt;</VoiceId>
+      <JapaneseText>おい、やめるんだ。
+こんなところで肉を出すなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46140</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_009&gt;</VoiceId>
+      <JapaneseText>グルルル。グルルル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46228</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_010&gt;</VoiceId>
+      <JapaneseText>ファァァァ……
+野犬に食べられちゃう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46296</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_011&gt;</VoiceId>
+      <JapaneseText>うわっ！！アブね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46372</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_012&gt;</VoiceId>
+      <JapaneseText>危ない！！いでよノーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46464</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_013&gt;</VoiceId>
+      <JapaneseText>倒してやったぞ～。
+ありがたく思うのら～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46568</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_014&gt;</VoiceId>
+      <JapaneseText>ふざけすぎなのら。
+ボクたちは肉なんて食べないのら～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46668</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_015&gt;</VoiceId>
+      <JapaneseText>あんまりナメると
+『野良』を呼んじゃう『のら』～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46728</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_016&gt;</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46796</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_017&gt;</VoiceId>
+      <JapaneseText>さむっ…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46872</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_143_018&gt;</VoiceId>
+      <JapaneseText>&lt;Cless&gt;……さん２号……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

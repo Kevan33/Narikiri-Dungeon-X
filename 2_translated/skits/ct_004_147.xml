@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>43844,44220</PointerOffset>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43928,44152</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44008,44292</PointerOffset>
+      <JapaneseText>&lt;Cless&gt;&lt;Mint&gt;＆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44460,44636</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44532,44728</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>43848</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_000&gt;</VoiceId>
+      <JapaneseText>&lt;Mint&gt;ありがとう、。
+君のおかげでいつも助かってるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43932</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_001&gt;</VoiceId>
+      <JapaneseText>&lt;Cless&gt;そんな…いいんですよ、さん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_002&gt;</VoiceId>
+      <JapaneseText>……あのっ、あ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44156</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_004&gt;</VoiceId>
+      <JapaneseText>&lt;Cless&gt;さんからどうぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44224</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_005&gt;</VoiceId>
+      <JapaneseText>いや、君から…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44296</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_006&gt;</VoiceId>
+      <JapaneseText>………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44464</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_008&gt;</VoiceId>
+      <JapaneseText>ああ！　もう見てらんない！
+何、この甘酸っぱいの！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44536</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_009&gt;</VoiceId>
+      <JapaneseText>ひがむな、ひがむな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44640</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_010&gt;</VoiceId>
+      <JapaneseText>ち、違うってば！
+年寄りのひがみとかじゃないからね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44732</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_147_011&gt;</VoiceId>
+      <JapaneseText>いや、オレ、そんなこと言ってないし……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

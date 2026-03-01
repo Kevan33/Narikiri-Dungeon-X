@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>41248,41452,41628,41800</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41340,41572,41736</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>41252</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_001&gt;</VoiceId>
+      <JapaneseText>な、なに？　なに、じっと見てんの……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41344</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_002&gt;</VoiceId>
+      <JapaneseText>おまえ……なんで急に接近戦始めてんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41456</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_003&gt;</VoiceId>
+      <JapaneseText>どーしてって……
+いろいろ学んどいたほうがいいと思って……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41576</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_004&gt;</VoiceId>
+      <JapaneseText>ウ、ウソだ！　そーやって腕力強化して、
+オレぶっ飛ばす気だなー！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41632</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_005&gt;</VoiceId>
+      <JapaneseText>？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41740</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_006&gt;</VoiceId>
+      <JapaneseText>くそー！　ならオレは
+素早くなってそれをよけてやるっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41804</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_158_007&gt;</VoiceId>
+      <JapaneseText>？？？？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

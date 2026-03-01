@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>46324,46548</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46428,47016</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46668</PointerOffset>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46764</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46884</PointerOffset>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46952</PointerOffset>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47128</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47200</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47280</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>46328</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_001&gt;</VoiceId>
+      <JapaneseText>おまえはもう料理すんな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46432</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_002&gt;</VoiceId>
+      <JapaneseText>なんでさ。あたしだって、
+みんなの役に立ちたいのに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46552</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_003&gt;</VoiceId>
+      <JapaneseText>役に立ちたいってんなら、お願いだから、
+おとなしく座っててくれ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46672</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_004&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;は他のところで、
+みんなの役に立ってくれてるからいいんだって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46768</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_005&gt;</VoiceId>
+      <JapaneseText>そ、そうですよ……
+ここは私たちに任せて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46888</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_006&gt;</VoiceId>
+      <JapaneseText>どうだ、この本、面白いぞ、
+暇つぶしにちょうどいいから貸してやろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46956</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_007&gt;</VoiceId>
+      <JapaneseText>私もご一緒します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47020</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_008&gt;</VoiceId>
+      <JapaneseText>何よぉ、ブー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47132</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_009&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;５人がかりでさんを
+食事当番から引きずりおろした……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47204</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_010&gt;</VoiceId>
+      <JapaneseText>……すごい団結力だね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47284</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_188_011&gt;</VoiceId>
+      <JapaneseText>……こんな団結力とかって……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

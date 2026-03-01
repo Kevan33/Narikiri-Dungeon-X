@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>52732,53636,54412</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52832,53128,54064,54484</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52920,53380,53784,54804</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53008,53504</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53256,54704</PointerOffset>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53700,53948,54216,54324,54612</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>52736</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_001&gt;</VoiceId>
+      <JapaneseText>ふー、温まりましたねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52836</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_002&gt;</VoiceId>
+      <JapaneseText>ほんとほんと。何度入っても温泉って気持ちいいね∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52924</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_003&gt;</VoiceId>
+      <JapaneseText>&lt;Mint&gt;相変わらず、の胸が大きいけどね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_004&gt;</VoiceId>
+      <JapaneseText>そ、それ、関係ないじゃないですか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53132</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_005&gt;</VoiceId>
+      <JapaneseText>&lt;Suzu&gt;でも、ビックリしたよ～
+ちゃん堂々と男湯に入って行くんだもん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53260</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_006&gt;</VoiceId>
+      <JapaneseText>昔からお酒を持っていくのを手伝わされていたので
+特別意識したことはありません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53384</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_007&gt;</VoiceId>
+      <JapaneseText>&lt;Suzu&gt;男子たちもちゃんぐらいの年の子なら、
+見られても平気なんじゃない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53508</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_008&gt;</VoiceId>
+      <JapaneseText>私も教会でお手伝いをしている時は、
+小さい男の子たちと一緒に入りますよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53640</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_009&gt;</VoiceId>
+      <JapaneseText>&lt;Mint&gt;へぇー、さんってすごいですね。
+お風呂の時までみんなのお世話してるなんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53704</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_010&gt;</VoiceId>
+      <JapaneseText>あぁ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53788</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_011&gt;</VoiceId>
+      <JapaneseText>なによ、急に大きな声出さないでよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53952</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_012&gt;</VoiceId>
+      <JapaneseText>いや、思い出しただ！　思い出しただよ。おら、実は３歳だど。
+つーことは、全然、女湯に入れるっちゅーことだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54068</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_013&gt;</VoiceId>
+      <JapaneseText>あははは、あんたのどこをどう取っても、
+年齢なんか関係ないから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54220</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_014&gt;</VoiceId>
+      <JapaneseText>おらは実年齢も若いだが、心はもっと若いだ！
+常に少年の心を持ってるだよ！　だから女湯に入れるだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54328</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_015&gt;</VoiceId>
+      <JapaneseText>だから、お風呂に入るだ。みんなでもう一度入るだぁ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54416</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_016&gt;</VoiceId>
+      <JapaneseText>いくらなんでも、また入るなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54488</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_017&gt;</VoiceId>
+      <JapaneseText>放っとこ放っとこ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54616</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_018&gt;</VoiceId>
+      <JapaneseText>イデーーー！　オー、イデーーーーー！！！
+思いきし、打ってしまった……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54708</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_019&gt;</VoiceId>
+      <JapaneseText>今は、お湯を抜いて掃除する時間なんです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54808</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_204_020&gt;</VoiceId>
+      <JapaneseText>空の湯船に飛び込んだってわけか。そりゃ、痛いわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

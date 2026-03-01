@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45452,45608</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45524,45948,46036</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45696,45816</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46228</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45456</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_001&gt;</VoiceId>
+      <JapaneseText>はぐはぐはぐ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45528</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_002&gt;</VoiceId>
+      <JapaneseText>ホント、よく食うよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45612</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_003&gt;</VoiceId>
+      <JapaneseText>だって、おなか空いてるんだもん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45700</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_004&gt;</VoiceId>
+      <JapaneseText>成長期だし、好き嫌いなく食べないとね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45820</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_005&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;みたいにあれも嫌い、
+これも嫌いって言ってたら大きくなれないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45952</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_006&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;その割になんて、出るところ出ないで、
+出なくていいとこ、出てんじゃねーか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46040</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_007&gt;</VoiceId>
+      <JapaneseText>……うぉおっ！！
+お、おまえ……！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46232</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_178_009&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;ほんと、お約束だね～、くん。
+今のわざとでしょ？　ね？　わざと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

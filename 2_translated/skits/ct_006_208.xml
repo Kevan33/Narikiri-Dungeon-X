@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>48544,48740,48968,49232,49644,49748</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48628,48840,49052,49468</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49160,49368,49552,49824</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>48548</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_001&gt;</VoiceId>
+      <JapaneseText>オレら、今までけっこう金使ったよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48632</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_002&gt;</VoiceId>
+      <JapaneseText>そっか、
+そういえばそうだね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48744</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_003&gt;</VoiceId>
+      <JapaneseText>その金を戦うためと違くて、
+貯金してたら、オレら今ごろ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48844</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_004&gt;</VoiceId>
+      <JapaneseText>でも戦わなかったら
+お金も入ってこなかったよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48972</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_005&gt;</VoiceId>
+      <JapaneseText>ぐあ～っ！　そっか、今からでも
+ごーゆーできると思ったのに！　ごーゆーっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49056</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_006&gt;</VoiceId>
+      <JapaneseText>もう最初から全部間違ってるよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49164</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_007&gt;</VoiceId>
+      <JapaneseText>よっし！　ここまで貯まった記念に
+ぱーっと使おうぜっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49236</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_008&gt;</VoiceId>
+      <JapaneseText>おおっ！　マジで！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49372</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_009&gt;</VoiceId>
+      <JapaneseText>今日は贅沢に超高級レストランだね！
+どーせ敵を倒して得たあぶく銭！　使ってナンボ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49472</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_010&gt;</VoiceId>
+      <JapaneseText>だ、ダメですッ！！
+まったく、なんですか、もう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49556</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_011&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ちゃん、お顔が怖いってば♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49648</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_012&gt;</VoiceId>
+      <JapaneseText>な、なぁ、ちょっとくらいはよくないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49752</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_013&gt;</VoiceId>
+      <JapaneseText>は、ははははは。
+ウソだよウソ！　マジにとんなよ～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49828</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_208_014&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;……恐ろしい子！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

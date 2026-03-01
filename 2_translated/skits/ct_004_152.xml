@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>40980,41524</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41080,41352,41440</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41204</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>40984</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_001&gt;</VoiceId>
+      <JapaneseText>ね、ここまでグミ使ってないけど、
+無理しないでグミ使った方がよくない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41084</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ん？　無理なんかしてねーぞ？
+……なあ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41208</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_003&gt;</VoiceId>
+      <JapaneseText>えっと……わたしは使ったほうが
+もっと効率よく戦えると思うんだけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41356</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_004&gt;</VoiceId>
+      <JapaneseText>戦ってっ時にあわてて食べて、喉に詰まらせたら、
+逆にピンチになんだろ？　そしたらどーすんだよ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41444</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_005&gt;</VoiceId>
+      <JapaneseText>オレ、あんなおっきいの丸のみできねし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41528</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_152_006&gt;</VoiceId>
+      <JapaneseText>ちゃんと噛めばいいんだと思う……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>44464,44644,44896,45136,45284,45420,45560</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44568,44780,44996,45200,45352,45488</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>44468</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_001&gt;</VoiceId>
+      <JapaneseText>なぁなぁなぁ、
+オレら大金持ちなんじゃねか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44572</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_002&gt;</VoiceId>
+      <JapaneseText>たくさん貯まったね。
+でも、無駄遣いしちゃダメだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44648</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_003&gt;</VoiceId>
+      <JapaneseText>……わ、わかってるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44784</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_004&gt;</VoiceId>
+      <JapaneseText>お金は計画的に使わないと。アレもこれもって
+買ってたらすぐに無くなっちゃうんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44900</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_005&gt;</VoiceId>
+      <JapaneseText>でもちょっとだけいいか？
+どーしても欲しいものがあんだけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45000</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_006&gt;</VoiceId>
+      <JapaneseText>物と値段によっては少しはいいけど……
+……なに？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45140</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_007&gt;</VoiceId>
+      <JapaneseText>オンドゥオオカブトと、ダディヤオオクワガタ。
+これでリアル『バトル昆虫ファイト』したい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45204</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_008&gt;</VoiceId>
+      <JapaneseText>いくら……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45288</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_009&gt;</VoiceId>
+      <JapaneseText>……合わせて、に、２５万ガルド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45356</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_010&gt;</VoiceId>
+      <JapaneseText>……………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45424</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_011&gt;</VoiceId>
+      <JapaneseText>……………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45492</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_012&gt;</VoiceId>
+      <JapaneseText>……………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45564</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_207_013&gt;</VoiceId>
+      <JapaneseText>……やっぱ、いいです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

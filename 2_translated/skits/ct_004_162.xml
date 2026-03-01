@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>50724,50916,51088,51260,51352,51552,51784</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50808,51008,51644,51856</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51172,51920,52056</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51436</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52144</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;&lt;Mel&gt;＆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>50728</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_001&gt;</VoiceId>
+      <JapaneseText>あ！　お金みっけ！　ラッキー！！
+……って、あ……ビンのふたか。ちっ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50812</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_002&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;よしなよ、、みっともない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50920</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_003&gt;</VoiceId>
+      <JapaneseText>うるせー！　今のオレは盗賊！
+金目のものは見逃がさねーぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_004&gt;</VoiceId>
+      <JapaneseText>……いつもとそんなにかわらないじゃない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51092</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_005&gt;</VoiceId>
+      <JapaneseText>そんなことない！　な、エト？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51176</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_006&gt;</VoiceId>
+      <JapaneseText>え？　そ、そう、だった、かな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51264</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_007&gt;</VoiceId>
+      <JapaneseText>ちょっ、エト……！　目そらすなよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51356</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_008&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;……あ！　おまえならわかるよな、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51440</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_009&gt;</VoiceId>
+      <JapaneseText>クルール？　クル？　クルルン？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51556</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_010&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;ほら、もこう言ってんぞ。
+盗賊のオレの目にくるいはねーぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51648</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_011&gt;</VoiceId>
+      <JapaneseText>……そのでまかせっぷりが盗賊っぽいよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51788</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_012&gt;</VoiceId>
+      <JapaneseText>なんだと！　おまえ、盗賊をバカにすんなよ！
+盗賊はひとすじの流れ星の男の美学なんだぞ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51860</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_013&gt;</VoiceId>
+      <JapaneseText>……意味わかんないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51924</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_014&gt;</VoiceId>
+      <JapaneseText>いいじゃない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52060</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_015&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;&lt;Dio&gt;今のは盗賊だからお金にせこい。
+いつものはお金にせこい、これでＯＫでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52148</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_162_016&gt;</VoiceId>
+      <JapaneseText>はーい
+は～い……ん？？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

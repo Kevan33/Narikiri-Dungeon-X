@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45076,45164,45460,45716</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45264</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45348,45936</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45544,45640,45824</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45080</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_001&gt;</VoiceId>
+      <JapaneseText>わたしの大好物のメロン……っと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45168</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mint&gt;の好きなのは、リンゴ、だっけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45268</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_003&gt;</VoiceId>
+      <JapaneseText>え、ええ……
+で、ですが、それは、ちょっと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45352</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_004&gt;</VoiceId>
+      <JapaneseText>……な、なんか焦げくさいぞ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45464</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_005&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;香ばしいの間違いでしょ？
+これぞ、特製フルーツ焼き！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45548</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_006&gt;</VoiceId>
+      <JapaneseText>ヤバいぞ！　誰か水持ってこい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45644</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_007&gt;</VoiceId>
+      <JapaneseText>ふぅ……なんとか
+延焼は防げたみたいだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45720</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_008&gt;</VoiceId>
+      <JapaneseText>&lt;Chester&gt;……あんたは……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45828</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_009&gt;</VoiceId>
+      <JapaneseText>おまえ、もう少し自分の料理の腕を
+自覚した方がいいぞ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45940</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_180_010&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;……のマシュマロ入りカレーと
+どっこいどっこいかな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

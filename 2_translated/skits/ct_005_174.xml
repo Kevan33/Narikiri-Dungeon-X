@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>43348,43504,43700,43800</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43420,43568,43632,43888,43964</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44068</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>43352</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_001&gt;</VoiceId>
+      <JapaneseText>はぐはぐはぐ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43424</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;よく食べんな、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43508</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_003&gt;</VoiceId>
+      <JapaneseText>えぇ？　そうかな？
+はぐはぐ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43572</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_004&gt;</VoiceId>
+      <JapaneseText>………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43636</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_005&gt;</VoiceId>
+      <JapaneseText>……太るぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43704</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_006&gt;</VoiceId>
+      <JapaneseText>へ、平気だもん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43804</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_007&gt;</VoiceId>
+      <JapaneseText>その分、戦ってるもん！
+その分、歩いてるもん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43892</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_008&gt;</VoiceId>
+      <JapaneseText>じゃあ、今の体重
+なんキロなんだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43968</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_009&gt;</VoiceId>
+      <JapaneseText>……あ、いってぇ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44072</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_174_010&gt;</VoiceId>
+      <JapaneseText>繊細な乙女に一番
+聞いてはいけないことを聞いたね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

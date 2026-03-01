@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>47484</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47572</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47688,48620</PointerOffset>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47812,48680</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47908</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48008</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48096</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48248,48376</PointerOffset>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48484</PointerOffset>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>47488</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_000&gt;</VoiceId>
+      <JapaneseText>ずいぶん、お金たまってたけど、
+使うのもあっという間だね～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47576</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_001&gt;</VoiceId>
+      <JapaneseText>わおぅ、ほんとだ。使うの早いかも？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47692</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_002&gt;</VoiceId>
+      <JapaneseText>それほどムダづかいした記憶はないけど……
+何に使ったんだっけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47816</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_003&gt;</VoiceId>
+      <JapaneseText>やっぱり武器と防具でしょうか？
+でもこれは必要経費だと思うんですが……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47912</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_004&gt;</VoiceId>
+      <JapaneseText>食費も生きてくためには
+当然の出費ですし……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_005&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;おいおい、。
+無駄遣いしたのはおまえだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48100</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_006&gt;</VoiceId>
+      <JapaneseText>ち、違うよっ！！
+……た、たぶん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48252</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_007&gt;</VoiceId>
+      <JapaneseText>出費というのは世界経済を回す上でも重要なことだ。
+金を使うということは世界に貢献しているともいえる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48380</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_008&gt;</VoiceId>
+      <JapaneseText>ちなみに家計簿をつけると出費が抑えられるらしいぞ。
+ミラルドの受け売りだが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48488</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_009&gt;</VoiceId>
+      <JapaneseText>そうですね。きちんとした資金管理。
+これは絶対必要です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48624</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_010&gt;</VoiceId>
+      <JapaneseText>まあ細かいところまでつけなきゃダメってワケでも
+ないけど、計画的に使うようにしよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48684</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_209_011&gt;</VoiceId>
+      <JapaneseText>ですね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

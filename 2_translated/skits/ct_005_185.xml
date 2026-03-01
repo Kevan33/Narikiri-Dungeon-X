@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>43048</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43120,43236,43316,43512,43716</PointerOffset>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43404,43576</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43828</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>43052</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_001&gt;</VoiceId>
+      <JapaneseText>&lt;Claus&gt;さんって料理はよく作ってくれっけど、
+自分ではあんま食べないよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43124</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_002&gt;</VoiceId>
+      <JapaneseText>ああ、少食な方だな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43240</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_003&gt;</VoiceId>
+      <JapaneseText>満腹になると頭が回らなくなる。
+学者にとって食いすぎは致命的だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43320</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_004&gt;</VoiceId>
+      <JapaneseText>腹三分目くらいでちょうどいい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43408</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_005&gt;</VoiceId>
+      <JapaneseText>そんなんで体とか大丈夫なんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43516</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_006&gt;</VoiceId>
+      <JapaneseText>その分、別の栄養源をとってるから、
+まったく問題ないぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43580</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_007&gt;</VoiceId>
+      <JapaneseText>別の栄養源？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43720</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_008&gt;</VoiceId>
+      <JapaneseText>ふくよかな甘い香り、口に入れれば熱き刺激、
+すっと体内に落ちれば、たちまち心地よく……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43832</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_185_009&gt;</VoiceId>
+      <JapaneseText>&lt;Claus&gt;あっ……！　、
+またお酒飲んでるでしょ！　酒くさい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

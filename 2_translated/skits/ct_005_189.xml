@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>46796,47516</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46952,47248,47424,47640</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47016,47320,47740</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47084</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>46800</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_001&gt;</VoiceId>
+      <JapaneseText>っと……料理、全部マスターしたみたい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46956</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;さすがだぁ～～。料理を全部覚えるなんて、
+もう、『鬼に金棒』だ。いや、『仏に蓮華』だな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47020</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_003&gt;</VoiceId>
+      <JapaneseText>意味わかんね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47088</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_004&gt;</VoiceId>
+      <JapaneseText>クゥリュ～～～？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47252</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_005&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;こんだけ美少女で、性格も良くて、気が利くが
+料理まで覚えたちゅーことは、もう無敵っちゅーことだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47324</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_006&gt;</VoiceId>
+      <JapaneseText>んだよ、無敵って……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47428</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_007&gt;</VoiceId>
+      <JapaneseText>もう、準備万端だで、いつでも嫁っこさ行けるだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47520</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_008&gt;</VoiceId>
+      <JapaneseText>え、そ、そんな、お嫁さんだなんて、私……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47644</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_009&gt;</VoiceId>
+      <JapaneseText>そんな照れなくてもえーだーよ。
+もーおらの方はいつでも準備ＯＫだで∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47744</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_189_010&gt;</VoiceId>
+      <JapaneseText>なんで、てめぇと結婚するって
+話になってんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

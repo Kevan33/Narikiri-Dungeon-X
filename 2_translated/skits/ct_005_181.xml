@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>41388,41528,41832,42032,42228</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41464,41644,41728,41944,42116</PointerOffset>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>41392</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_001&gt;</VoiceId>
+      <JapaneseText>&lt;Suzu&gt;ちゃん、最近、豆腐よく使うね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41468</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_002&gt;</VoiceId>
+      <JapaneseText>ええ、豆腐は好きですから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41532</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_003&gt;</VoiceId>
+      <JapaneseText>そうなんだ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41648</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_004&gt;</VoiceId>
+      <JapaneseText>……昔、いいことがあると母上はよく
+すき焼きを作ってくれました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41732</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_005&gt;</VoiceId>
+      <JapaneseText>すき焼きは我が家の団らんの証……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41836</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_006&gt;</VoiceId>
+      <JapaneseText>そっか……すき焼きに
+焼き豆腐はつきもんだもんね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41948</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_007&gt;</VoiceId>
+      <JapaneseText>いえ。我が家のすき焼きには
+焼き豆腐は入っていませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42036</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_008&gt;</VoiceId>
+      <JapaneseText>あり……？
+んじゃあ……今の話、何？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42120</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_009&gt;</VoiceId>
+      <JapaneseText>あの……
+ちょっと思い出して……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42232</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_181_010&gt;</VoiceId>
+      <JapaneseText>何それ？　豆腐好きの
+ちょっといい話じゃなかったの、今の？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

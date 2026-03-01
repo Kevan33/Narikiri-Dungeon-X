@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>46812,47216,47432</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46896,47828</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46976,47364,47492,47728</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47048,47892</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47144</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>46816</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_001&gt;</VoiceId>
+      <JapaneseText>優勝、だよ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46900</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;おめでとう！　すごいよ、！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46980</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_003&gt;</VoiceId>
+      <JapaneseText>おおー、やんじゃん、おまえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47052</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_004&gt;</VoiceId>
+      <JapaneseText>クルール！　クルール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47148</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_005&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;やーっぱ、はすんげぇなぁ～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47220</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_006&gt;</VoiceId>
+      <JapaneseText>うふふ。ありがとう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47368</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_007&gt;</VoiceId>
+      <JapaneseText>でもまーあれだよな。今回はオレ出てなかったしさ～
+いや、でも優勝は優勝だよ？　でもオレがなぁ～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47436</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_008&gt;</VoiceId>
+      <JapaneseText>……………………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47496</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_009&gt;</VoiceId>
+      <JapaneseText>いてっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47732</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_012&gt;</VoiceId>
+      <JapaneseText>いてっ！　いててっ！
+あー！　や！　やめろよっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47832</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_013&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;……が出てても、
+あんまり関係なさそうだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47896</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_149_014&gt;</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

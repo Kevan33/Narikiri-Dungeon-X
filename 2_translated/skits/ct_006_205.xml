@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45888,46260,46852</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46008,46544</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46108,46628,47124</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46172</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46396,46776,47020,47208</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45892</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_001&gt;</VoiceId>
+      <JapaneseText>気がついたら、けっこう長く旅してるよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_002&gt;</VoiceId>
+      <JapaneseText>ほんと、こんなに長い冒険になるなんて、
+家を出る時は思わなかったよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46112</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_003&gt;</VoiceId>
+      <JapaneseText>な、オレが言った通り、外の世界って楽しいだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46176</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_004&gt;</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46264</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_005&gt;</VoiceId>
+      <JapaneseText>でも、この旅いつまで続くんだろ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46400</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_006&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おらは、このままでも全然構わんだーよ。
+と、ずっと一緒にいられるだど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46548</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_007&gt;</VoiceId>
+      <JapaneseText>そっかぁ、アルベルトもずーっと一緒だったもんね。
+でも、もしボクらの目的が終わったらどうするの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46632</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_008&gt;</VoiceId>
+      <JapaneseText>そりゃ、ノルンんとこに帰んだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46780</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_009&gt;</VoiceId>
+      <JapaneseText>未来の事は、おらにもわからねーだーよ。
+ただひとつ言えるのは、おらにも夢があるっちゅーことだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46856</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_010&gt;</VoiceId>
+      <JapaneseText>アルベルトさんの、夢？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47024</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_011&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;と一緒にいられるようにとか、いっぱい
+あるだが、おらが、おらとしていられる存在意義ってもんが重要だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47128</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_012&gt;</VoiceId>
+      <JapaneseText>へへ、じゃあ、タンスとして生涯を閉じるってことか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47212</PointerOffset>
+      <VoiceId>&lt;audio:VCT_006_205_013&gt;</VoiceId>
+      <JapaneseText>…………い、いや、はぅ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

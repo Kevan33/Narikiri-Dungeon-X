@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>44668,44868,45188</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44768,44960,45032,45280,45408</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45108</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45472</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>44672</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_001&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;ねぇ……の作る料理……
+少し塩少なめにしてみたら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44772</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_002&gt;</VoiceId>
+      <JapaneseText>これ以上、塩少なくしたら、
+味が薄くなるっての</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44872</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_003&gt;</VoiceId>
+      <JapaneseText>このフレンチトースト、甘すぎ。
+砂糖入れすぎだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44964</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_004&gt;</VoiceId>
+      <JapaneseText>そーか？　あぐっ……
+もぐもぐもぐ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45036</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_005&gt;</VoiceId>
+      <JapaneseText>なんだよ、ウマいぜ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45112</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_006&gt;</VoiceId>
+      <JapaneseText>クルルー！　クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45192</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_007&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;ほら、も言ってるでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45284</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_008&gt;</VoiceId>
+      <JapaneseText>こいつは
+何言ってんのかわかんねだろ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45412</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_009&gt;</VoiceId>
+      <JapaneseText>このフレンチトーストと普通の料理、
+一緒に食えばちょうどいい感じになるって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45476</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_172_010&gt;</VoiceId>
+      <JapaneseText>なんないって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

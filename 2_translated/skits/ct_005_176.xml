@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>44056,44312,44560</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44184,44452,44668</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44796</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>44060</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_001&gt;</VoiceId>
+      <JapaneseText>……えっと……ここに……
+おしょうゆをちょっと入れて……っと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44188</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;お～、、エライだなぁ。
+今日も一所懸命、頑張っているだか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44316</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_003&gt;</VoiceId>
+      <JapaneseText>アルベルトさん、ちょっと待ってくださいね、
+美味しいお料理を開発中ですから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44456</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_004&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;開発中ですと？　おおっ、ということは、
+の創作料理が食べられるだか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44564</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_005&gt;</VoiceId>
+      <JapaneseText>なかなか美味しくできないんですけど、
+がんばりますから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44672</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_006&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;いんや～、は料理上手だで、心配ねーだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44800</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_176_007&gt;</VoiceId>
+      <JapaneseText>そのうまい料理ができるまでに
+誰が犠牲になってるか知ってんのか、てめぇ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

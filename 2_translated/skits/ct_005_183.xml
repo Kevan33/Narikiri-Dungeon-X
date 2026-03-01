@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>42440,42792,42896,43284</PointerOffset>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42524,43104</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42600,43192</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42692,43004</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>42444</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_001&gt;</VoiceId>
+      <JapaneseText>はぁ……ここんとこ、
+お魚使った料理が続いてるよね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42528</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_002&gt;</VoiceId>
+      <JapaneseText>オレ、魚好き！
+肉も好きだけど！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42604</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_003&gt;</VoiceId>
+      <JapaneseText>&lt;Dio&gt;は野菜も食べなさい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42696</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_004&gt;</VoiceId>
+      <JapaneseText>&lt;Rody&gt;さんは、
+お魚、嫌いなんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42796</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_005&gt;</VoiceId>
+      <JapaneseText>食べるのはいいけど……
+料理するのが、ちょっとね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42900</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_006&gt;</VoiceId>
+      <JapaneseText>目がダメなんだよね、
+あのじっとこっちを見てる感じ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43008</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_007&gt;</VoiceId>
+      <JapaneseText>&lt;Rody&gt;だから、さん、
+お魚さばく時、目隠ししてるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43108</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_008&gt;</VoiceId>
+      <JapaneseText>&lt;Rody&gt;すげー！　、目隠しして
+包丁使えるのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43196</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_009&gt;</VoiceId>
+      <JapaneseText>すごいっていうか……
+危ない気が……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43288</PointerOffset>
+      <VoiceId>&lt;audio:VCT_005_183_010&gt;</VoiceId>
+      <JapaneseText>いや、目隠しするのは
+お魚さんの方だよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

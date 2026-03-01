@@ -1,25 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>37208,38264,43132</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <PointerOffset>43944,44292,45076</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37440,37704,38564,39224,41396,42140</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <PointerOffset>44016,44172,44396,44604,44792,44900</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37552,38844,40840,42832</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <PointerOffset>44080,44524,44712,44960</PointerOffset>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,217 +28,146 @@
     </Entry>
   </Speakers>
   <Strings>
-    <Section>Story</Section>
+    <Section>Main</Section>
     <Entry>
-      <PointerOffset>37208</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_001&gt;</VoiceId>
-      <JapaneseText>アルテミスさんを見てたらなぜか、
-&lt;ARC&gt;さんを思い出します……</JapaneseText>
+      <PointerOffset>43948</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_001&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;アルテミスさんを見てたらなぜか、
+さんを思い出します……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
+      <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37440</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_002&gt;</VoiceId>
+      <PointerOffset>44020</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_002&gt;</VoiceId>
       <JapaneseText>似てるからじゃないか</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37552</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_003&gt;</VoiceId>
+      <PointerOffset>44084</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_003&gt;</VoiceId>
       <JapaneseText>似てるかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
+      <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>37704</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_004&gt;</VoiceId>
+      <PointerOffset>44176</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_004&gt;</VoiceId>
       <JapaneseText>寂しがりやのくせに、強がりな感じとかな</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>38264</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_005&gt;</VoiceId>
+      <PointerOffset>44296</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_005&gt;</VoiceId>
       <JapaneseText>それでしょうか。でも、それ以上に
 強く印象づいてることがあるんです</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
+      <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>38564</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_006&gt;</VoiceId>
+      <PointerOffset>44400</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_006&gt;</VoiceId>
       <JapaneseText>ダオス戦役中であいつに会った時に
 何があったんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>38844</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_007&gt;</VoiceId>
-      <JapaneseText>えっと……彼にルナと会うのを邪魔されて、
-でも、&lt;ARC&gt;と僕がキスしたら……</JapaneseText>
+      <PointerOffset>44528</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_007&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;えっと……彼にルナと会うのを邪魔されて、
+でも、と僕がキスしたら……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
+      <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>39224</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_008&gt;</VoiceId>
+      <PointerOffset>44608</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_008&gt;</VoiceId>
       <JapaneseText>だ、誰が誰とキスだって！？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>40840</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_009&gt;</VoiceId>
-      <JapaneseText>だ、黙っててゴメン、&lt;CST&gt;。
+      <PointerOffset>44716</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_009&gt;</VoiceId>
+      <JapaneseText>&lt;Chester&gt;だ、黙っててゴメン、。
 でも、何もしてないんだって</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
+      <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>41396</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_010&gt;</VoiceId>
+      <PointerOffset>44796</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_010&gt;</VoiceId>
       <JapaneseText>あ、そ、そっか……って……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>42140</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_011&gt;</VoiceId>
+      <PointerOffset>44904</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_011&gt;</VoiceId>
       <JapaneseText>いや、別にあいつが誰と
 キスしようと関係ねぇけどさ……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
+      <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>42832</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_012&gt;</VoiceId>
+      <PointerOffset>44964</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_012&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
+      <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>43132</PointerOffset>
-      <VoiceId>&lt;VCT_002_055_013&gt;</VoiceId>
-      <JapaneseText>……あの時の印象が強いから、
-思い出すんですね、&lt;ARC&gt;さんを……</JapaneseText>
+      <PointerOffset>45080</PointerOffset>
+      <VoiceId>&lt;audio:VCT_002_055_013&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;……あの時の印象が強いから、
+思い出すんですね、さんを……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
+      <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Other Strings</Section>
-    <Entry>
-      <PointerOffset>12684</PointerOffset>
-      <JapaneseText>
-【あなたのwTime設定は失敗致しました】
-
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>14</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>33512</PointerOffset>
-      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>15</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>34140</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>16</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>34324</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>17</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>35564</PointerOffset>
-      <JapaneseText>sleep多すぎ %d フレーム減らせ！
- </JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>18</Id>
-      <Status>To Do</Status>
-    </Entry>
+    <Section>Notice</Section>
   </Strings>
 </SceneText>

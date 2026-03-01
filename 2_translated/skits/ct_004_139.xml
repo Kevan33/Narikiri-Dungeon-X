@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>45328,46112</PointerOffset>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45460,45604,45752,45820,46216</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45540,46008</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45664,45880,45944,46284</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>45332</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_001&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ちゃん、法術には慣れましたか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45464</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mint&gt;ちょっとだけですけど。さんに
+教えてもらった方法を練習しているところです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45544</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_003&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;はよく練習してるかラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45608</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_004&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;あ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45668</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_005&gt;</VoiceId>
+      <JapaneseText>クル？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45756</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_006&gt;</VoiceId>
+      <JapaneseText>ちょっと傷ついてるみたい。回復するね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45824</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_007&gt;</VoiceId>
+      <JapaneseText>アイスニードル！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45884</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_008&gt;</VoiceId>
+      <JapaneseText>クック！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45948</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_009&gt;</VoiceId>
+      <JapaneseText>クル～ル～～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46012</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_010&gt;</VoiceId>
+      <JapaneseText>ファァァ～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46116</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_011&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;あ、あの、ちゃん、
+それは魔物にかける術ですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46220</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_012&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;ああっ。コスチュームが違ってた。
+ごめんね、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46288</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_139_013&gt;</VoiceId>
+      <JapaneseText>クル～ル～……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

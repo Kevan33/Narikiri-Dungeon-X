@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>42868,43632</PointerOffset>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42980,43196,43352,43528,43744</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43068,43292,43464,43844</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>42872</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_001&gt;</VoiceId>
+      <JapaneseText>クルール、クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42984</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_002&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;しっかし、のヤツ、
+魔物捕獲すんのすげーうまくなったな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43072</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_003&gt;</VoiceId>
+      <JapaneseText>だね、もうどれくらい捕まえたのかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43200</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_004&gt;</VoiceId>
+      <JapaneseText>う～ん、数はわかんねけど、けっこーいったよな。
+どっちにしてもすげーよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43296</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_005&gt;</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;なんかもう、の生きがいになってるよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43356</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_006&gt;</VoiceId>
+      <JapaneseText>そっか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43468</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_007&gt;</VoiceId>
+      <JapaneseText>だってなんか捕獲のとき、
+生き生きしてるような気がするよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43532</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_008&gt;</VoiceId>
+      <JapaneseText>そーなのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43636</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_009&gt;</VoiceId>
+      <JapaneseText>クルール！　クルール！　クルルル、ルンルンルーン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43748</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_010&gt;</VoiceId>
+      <JapaneseText>やっぱ何言ってっかはわかんねけど
+楽しそうなのはわかるな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43848</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_166_011&gt;</VoiceId>
+      <JapaneseText>そうだね……
+今もなんだか目がキラキラしてたし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

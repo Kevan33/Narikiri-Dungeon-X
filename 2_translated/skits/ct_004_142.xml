@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>43656,44196,44364</PointerOffset>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43760,44592</PointerOffset>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43864,43992,44084,44292,44472</PointerOffset>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main</Section>
+    <Entry>
+      <PointerOffset>43660</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_001&gt;</VoiceId>
+      <JapaneseText>ホウキってすごーい。
+空飛んでる。気持ちいい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43764</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_002&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;なんだよ。も
+簡単にホウキに乗れてるじゃねぇか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43868</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_003&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ちっちっち。
+ちゃんも素質を持っているのだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43996</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_004&gt;</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ねえちゃん。ホウキ仲間になったところで
+一緒にいいトコロいっちゃう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44088</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_005&gt;</VoiceId>
+      <JapaneseText>敵をいっぱい
+打ち落としちゃったりして～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44200</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_006&gt;</VoiceId>
+      <JapaneseText>楽しそうですね。
+でもまだホウキに慣れてなくて、そこまで……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44296</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_007&gt;</VoiceId>
+      <JapaneseText>いいから、いいから。
+見学だけでも楽しいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44368</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_008&gt;</VoiceId>
+      <JapaneseText>ついて行きます！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44476</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_009&gt;</VoiceId>
+      <JapaneseText>&lt;Chester&gt;んじゃ、
+ちょっとだけ『ぐるぅびぃ』してくるねー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44596</PointerOffset>
+      <VoiceId>&lt;audio:VCT_004_142_010&gt;</VoiceId>
+      <JapaneseText>&lt;Arche&gt;おい、どこいくんだよ。
+ていうか『ぐるぅびぃ』ってなんだよ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>
