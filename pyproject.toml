@@ -1,0 +1,46 @@
+[project]
+name = "NarikiriLib"
+version = "0.1.0"
+description = "Tools for translating Narikiri Dungeon X"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "loguru>=0.7.3",
+    "lxml>=6.0.2",
+    "pycdlib>=1.14.0",
+    "pyeboot>=0.2.3",
+    "pyjson5>=2.0.0",
+    "rich>=14.3.2",
+    "tqdm>=4.67.3",
+    "types-lxml>=2026.2.16",
+]
+
+[build-system]
+requires = ["uv_build>=0.9.2,<0.10.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = "tools"
+module-name = "ndx_tools"
+
+[project.scripts]
+ndx = "ndx_tools.__main__:tools_main"
+
+[tool.ruff.lint]
+extend-select = [
+    "F",        # Pyflakes rules
+    "W",        # PyCodeStyle warnings
+    "E",        # PyCodeStyle errors
+    "I",        # Sort imports properly
+    "UP",       # Warn if certain things can changed due to newer Python versions
+    "C4",       # Catch incorrect use of comprehensions, dict, list, etc
+    "FA",       # Enforce from __future__ import annotations
+    "ISC",      # Good use of string concatenation
+    "ICN",      # Use common import conventions
+    "RET",      # Good return practices
+    "SIM",      # Common simplification rules
+    "TID",      # Some good import practices
+    "TC",       # Enforce importing certain types in a TYPE_CHECKING block
+    "PTH",      # Use pathlib instead of os.path
+    "TD",       # Be diligent with TODO comments
+]

@@ -1,0 +1,49 @@
+import argparse
+import sys
+from pathlib import Path
+
+import ndx_tools.utils.string as string
+from ndx_tools.utils.fileio import FileIO
+
+__SCRIPT_CMD = "Text"
+__SCRIPT_DESC = "String tools"
+
+
+def add_arguments_to_parser(parser: argparse.ArgumentParser):
+    parser.add_argument(
+        "--decode",
+        help="Given a hex string, try to decode it",
+    )
+    parser.add_argument(
+        "--encode",
+        help="Given a tagged text, try to encode it as a hex string",
+    )
+
+
+def process_arguments(args: argparse.Namespace):
+    if args.decode is not None:
+        try:
+            bt = bytes.fromhex(args.decode) + b"\x00"
+        except ValueError:
+            sys.exit(-1)
+
+        with FileIO(bt) as f:
+            v = string.bytes_to_text(f)
+        print(v)
+    # elif args.encode is not None:
+    #     print(string.text_to_bytes(f))
+
+def add_subparser(subparser: argparse._SubParsersAction):
+    parser = subparser.add_parser(
+        "string", help=__SCRIPT_DESC, description=__SCRIPT_DESC
+    )
+    add_arguments_to_parser(parser)
+    parser.set_defaults(func=process_arguments)
+
+
+parser = argparse.ArgumentParser(description=__SCRIPT_DESC)
+add_arguments_to_parser(parser)
+
+if __name__ == "__main__":
+    args = parser.parse_args()
+    process_arguments(args)
