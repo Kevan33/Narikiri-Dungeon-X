@@ -37,6 +37,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37208</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,16 +49,18 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37620</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45836</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_004_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;気にすることないだーよ。は悪くないだ</JapaneseText>
+      <JapaneseText>気にすることないだーよ。&lt;Mel&gt;&lt;Mel&gt;は悪くないだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38524</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,6 +71,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39308</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -78,6 +82,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39680</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,6 +93,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40524</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,17 +104,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40984</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46348</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_004_008&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おめぇがかっこつけて、魔物を退治しようとしたからだ。
-放っておけば、もこんな目に合わなかっただよ</JapaneseText>
+      <JapaneseText>おめぇがかっこつけて、魔物を退治しようとしたからだ。
+放っておけば、&lt;Mel&gt;&lt;Mel&gt;もこんな目に合わなかっただよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41616</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -119,17 +127,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42616</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46584</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_004_010&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;けっ！　ヒーロー気取りがぁ！　おめぇのかっこつけで、
-まで巻きこまれてかわいそーだど</JapaneseText>
+      <JapaneseText>けっ！　ヒーロー気取りがぁ！　おめぇのかっこつけで、
+&lt;Mel&gt;&lt;Mel&gt;まで巻きこまれてかわいそーだど</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42964</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -140,6 +150,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44676</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37432</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37648</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,6 +69,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37888</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,6 +80,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39004</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,6 +92,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39348</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,6 +103,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40304</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -109,6 +115,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40880</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -120,6 +127,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41924</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -130,6 +138,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43272</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -141,6 +150,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43828</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -152,16 +162,18 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>45076</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>48128</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_037_012&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;……じゃねぇか！　あのヤローっ！</JapaneseText>
+      <JapaneseText>……&lt;Arche&gt;じゃねぇか！　あのヤローっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>45892</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

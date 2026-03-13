@@ -24,12 +24,13 @@
     <Entry>
       <PointerOffset>45296</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_106_001&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;うぅ……、ズルイ、ズルイだ、たん……。
+      <JapaneseText>うぅ……、ズルイ、ズルイだ、&lt;Rody&gt;たん……。
 おらを置いてけぼりにして</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37160</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -40,17 +41,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38100</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45528</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_106_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おらよりも先に、に呼び捨てにされただ！
+      <JapaneseText>おらよりも先に、&lt;Mel&gt;&lt;Mel&gt;に呼び捨てにされただ！
 これをズルイと言わずして、なんと言うだーよ！！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38644</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -62,17 +65,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>40312</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45796</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_106_005&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おらも、もっとと距離を縮めてーだ！
+      <JapaneseText>おらも、もっと&lt;Mel&gt;&lt;Mel&gt;と距離を縮めてーだ！
 早く呼び捨てにされたり、あだ名で呼んでほしいだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>41012</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -83,6 +88,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>42524</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -94,6 +100,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>43048</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,6 +111,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>44048</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

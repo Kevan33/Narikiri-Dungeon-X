@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37332</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37564</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,6 +69,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37908</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,6 +80,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38316</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -87,6 +91,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38808</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,6 +103,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39108</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +114,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39744</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -119,17 +126,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40000</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43832</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_185_009&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;あっ……！　、
+      <JapaneseText>あっ……！　&lt;Claus&gt;、
 またお酒飲んでるでしょ！　酒くさい！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41196</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <PointerOffset>53060,53328</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;&lt;Chester&gt;＆</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;＆&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -53,6 +53,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37748</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -64,6 +65,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38248</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -75,17 +77,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38780</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>51880</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_004&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;&lt;Dio&gt;後ろを守ってるは
-より走ってないじゃん</JapaneseText>
+      <JapaneseText>後ろを守ってる&lt;Chester&gt;は
+&lt;Dio&gt;より走ってないじゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39576</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -97,6 +101,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40232</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +113,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41264</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,6 +124,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42404</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -129,6 +136,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>43612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -139,6 +147,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
+      <OldPtr>44580</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -149,16 +158,18 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
+      <OldPtr>44880</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>52580</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_011&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;&lt;Chester&gt;さんとさんって仲いいね</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;さんと&lt;Chester&gt;さんって仲いいね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
+      <OldPtr>45632</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -169,6 +180,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
+      <OldPtr>46036</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -180,16 +192,18 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
+      <OldPtr>46488</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>52852</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_014&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;もっとお子ちゃまのに言われたくねー</JapaneseText>
+      <JapaneseText>もっとお子ちゃまの&lt;Mel&gt;に言われたくねー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
+      <OldPtr>46892</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -200,6 +214,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
+      <OldPtr>47748</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -211,6 +226,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
+      <OldPtr>48936</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -222,6 +238,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
+      <OldPtr>50324</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

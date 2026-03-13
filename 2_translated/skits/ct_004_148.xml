@@ -54,6 +54,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37596</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -64,6 +65,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38904</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -74,6 +76,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>39016</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,6 +87,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39248</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -94,6 +98,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39624</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,6 +109,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41800</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -114,16 +120,18 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42232</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46564</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_148_008&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;ちょっと、平気？</JapaneseText>
+      <JapaneseText>ちょっと&lt;Dio&gt;、平気？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42400</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -134,6 +142,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -144,6 +153,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43544</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -155,6 +165,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>43736</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -166,6 +177,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44416</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

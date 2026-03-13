@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <PointerOffset>50768,50940,51104</PointerOffset>
-      <JapaneseText>&lt;Couleur&gt;&lt;Mel&gt;＆</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37952</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>40140</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -66,17 +68,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>40440</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>50184</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_128_004&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;よし！　わたしたちもに
+      <JapaneseText>よし！　わたしたちも&lt;Couleur&gt;に
 負けないよう、特訓しよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>40696</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,17 +92,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>41352</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>50384</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_128_006&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;ねぇ、
+      <JapaneseText>ねぇ&lt;Couleur&gt;、
 連続攻撃を決めるコツってなあに？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41676</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -109,6 +115,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42292</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -119,6 +126,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42484</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -129,6 +137,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43488</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -139,6 +148,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43852</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -150,6 +160,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44284</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -161,6 +172,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
+      <OldPtr>46136</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -172,17 +184,19 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
+      <OldPtr>47628</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>51276</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_128_017&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;&lt;Mel&gt;もすげーけど……
-マネするもすごくねー？</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;もすげーけど……
+マネする&lt;Mel&gt;もすごくねー？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
+      <OldPtr>48788</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

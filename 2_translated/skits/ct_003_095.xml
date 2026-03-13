@@ -45,6 +45,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37632</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -66,6 +68,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38340</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -76,6 +79,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38732</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -87,6 +91,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39028</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,17 +103,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39504</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41928</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_007&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;そのためにこの世界の歴史も一度、
-変えられなければならなかった、たちの手で</JapaneseText>
+      <JapaneseText>そのためにこの世界の歴史も一度、
+変えられなければならなかった、&lt;Cless&gt;たちの手で</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40280</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -38,28 +38,31 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43208</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_062_002&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;さぁ……さんたちの時代でダオスを倒した
+      <JapaneseText>さぁ……&lt;Claus&gt;さんたちの時代でダオスを倒した
 時に僕たちは英雄って呼ばれたみたいだから……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37564</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43300</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_062_003&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;じゃあ、さんが
+      <JapaneseText>じゃあ、&lt;Claus&gt;さんが
 広めたってことか？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37808</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -71,6 +74,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38252</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -82,6 +86,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38796</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -92,16 +97,18 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39308</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43660</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_062_007&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;……おい、、全部台無しだ</JapaneseText>
+      <JapaneseText>……おい、&lt;Cless&gt;、全部台無しだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40944</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -113,6 +120,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41568</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -123,6 +131,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42076</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

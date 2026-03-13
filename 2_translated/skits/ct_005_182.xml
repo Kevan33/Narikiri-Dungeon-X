@@ -48,34 +48,37 @@
     <Entry>
       <PointerOffset>43132</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_001&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;……の料理の
+      <JapaneseText>……&lt;Rody&gt;の料理の
 味付けって、なんかなんかなんだよな……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43240</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_002&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;何それ？　くんの
+      <JapaneseText>何それ？　&lt;Dio&gt;くんの
 お口には合わないってことかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38060</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43332</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;合わないっていうか……
-なぁ、？</JapaneseText>
+      <JapaneseText>合わないっていうか……
+なぁ、&lt;Mel&gt;？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38520</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -87,6 +90,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39056</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,6 +102,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39776</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +113,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40140</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,6 +124,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40640</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -128,6 +135,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41104</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -138,6 +146,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41872</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -148,6 +157,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42068</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -158,6 +168,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>42324</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

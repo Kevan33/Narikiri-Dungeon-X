@@ -45,6 +45,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37548</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -55,6 +56,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38576</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -65,6 +67,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>39348</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -75,6 +78,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39916</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -86,6 +90,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40588</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -96,6 +101,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41572</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -106,6 +112,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -116,6 +123,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>43528</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -126,28 +134,31 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43884</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46464</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_051_010&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;……なんだか、
+      <JapaneseText>……なんだか&lt;Dio&gt;、
 ぼーっとしているね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>44260</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46584</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_051_011&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;確かにぼーっとはしてますけど……
-の不注意はいつものことです</JapaneseText>
+      <JapaneseText>確かにぼーっとはしてますけど……
+&lt;Dio&gt;の不注意はいつものことです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44428</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -158,6 +169,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44956</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

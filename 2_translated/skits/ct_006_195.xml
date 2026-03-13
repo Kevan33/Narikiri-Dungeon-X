@@ -48,11 +48,12 @@
     <Entry>
       <PointerOffset>46896</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_001&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;やーっぱり、のご飯が一番おいしいだぁな</JapaneseText>
+      <JapaneseText>やーっぱり、&lt;Mel&gt;&lt;Mel&gt;のご飯が一番おいしいだぁな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -63,6 +64,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38060</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -73,6 +75,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38596</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,6 +87,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38988</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -94,6 +98,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39736</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,17 +109,19 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40092</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47508</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_007&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;んだ、んだ。おめぇは、食わんでもええだーよ。
-その分おらが、の手料理ぜーんぶたいらげるだ</JapaneseText>
+      <JapaneseText>んだ、んだ。おめぇは、食わんでもええだーよ。
+その分おらが、&lt;Mel&gt;&lt;Mel&gt;の手料理ぜーんぶたいらげるだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40636</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -125,6 +132,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41688</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -136,6 +144,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42188</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -147,6 +156,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43568</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -158,6 +168,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44388</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -168,6 +179,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
+      <OldPtr>45956</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

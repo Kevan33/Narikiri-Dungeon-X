@@ -46,16 +46,18 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43648</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_002&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;どうしたの、、突然</JapaneseText>
+      <JapaneseText>どうしたの、&lt;Rody&gt;、突然</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38044</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,6 +69,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38224</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,6 +80,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38600</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,6 +92,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38988</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,6 +103,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39648</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +114,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39900</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,6 +125,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40412</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -128,6 +136,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>40712</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -138,17 +147,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>40824</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44460</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_011&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;じゃあ、オレの魔法がよりもしょぼいのは
+      <JapaneseText>じゃあ、オレの魔法が&lt;Mel&gt;よりもしょぼいのは
 服装の差じゃなくて、もともとなのかっ！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>41072</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -159,6 +170,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
+      <OldPtr>42492</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -169,6 +181,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
+      <OldPtr>42804</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

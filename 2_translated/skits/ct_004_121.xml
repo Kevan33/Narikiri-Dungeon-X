@@ -37,17 +37,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37256</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45932</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_121_001&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;すげー！　すげーすげー！　今の戦闘の技すげー！
-なぁ、オレもやりたい！</JapaneseText>
+      <JapaneseText>すげー！　すげーすげー！　今の戦闘の技すげー！
+なぁ&lt;Rody&gt;、オレもやりたい！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37492</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -59,6 +61,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38496</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -69,6 +72,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39128</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,6 +84,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40164</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -91,6 +96,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40808</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -102,6 +108,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41512</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -113,6 +120,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42592</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -124,6 +132,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43724</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -134,6 +143,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
+      <OldPtr>44840</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -144,6 +154,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>45088</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

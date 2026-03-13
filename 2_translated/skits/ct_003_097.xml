@@ -40,12 +40,13 @@
     <Entry>
       <PointerOffset>41752</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_097_001&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;&lt;Mel&gt;そっか……とが魔科学兵器使わなきゃ、
+      <JapaneseText>そっか……&lt;Dio&gt;と&lt;Mel&gt;が魔科学兵器使わなきゃ、
 ダオスはアセリアに来てなかったんだな……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37376</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -57,6 +58,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37664</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,6 +70,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38228</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -79,6 +82,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38584</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -90,6 +94,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38696</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +106,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39016</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -112,6 +118,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39380</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -122,6 +129,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40016</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -133,6 +141,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>40340</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

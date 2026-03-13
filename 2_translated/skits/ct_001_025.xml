@@ -4,7 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>43116</PointerOffset>
-      <JapaneseText>&lt;Dio&gt;&lt;Mel&gt;＆</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -53,6 +53,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37368</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -63,6 +64,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37896</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -73,6 +75,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38048</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,6 +87,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38216</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -94,6 +98,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39688</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -105,6 +110,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39920</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -115,6 +121,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40608</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -125,6 +132,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40720</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -136,6 +144,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>40916</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -146,17 +155,19 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
+      <OldPtr>41604</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44052</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_012&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;……あれがなりの
+      <JapaneseText>……あれが&lt;Rody&gt;なりの
 気遣いか……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>42476</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

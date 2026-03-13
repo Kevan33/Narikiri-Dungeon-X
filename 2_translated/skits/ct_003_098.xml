@@ -61,17 +61,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46580</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おぉ、そうだど、。
+      <JapaneseText>おぉ、そうだど、&lt;Mel&gt;&lt;Mel&gt;。
 ただ木っつても、そんじょそこらの木とは違うだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37788</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -82,6 +84,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38840</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -93,6 +96,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39140</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -103,6 +107,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40180</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -114,6 +119,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40636</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -125,6 +131,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41264</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -135,6 +142,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42708</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -145,6 +153,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43596</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -155,6 +164,7 @@
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43844</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -166,6 +176,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44284</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

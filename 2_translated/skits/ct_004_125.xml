@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37572</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -57,6 +58,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37804</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,6 +69,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <OldPtr>39088</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -78,6 +81,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39952</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -89,6 +93,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>41232</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -100,6 +105,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41344</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -110,28 +116,31 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41700</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45068</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_125_008&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;そ、そんなことないよ！
-まだまだひとりじゃ危なっかしくて……！</JapaneseText>
+      <JapaneseText>そ、そんなことないよ！
+まだまだ&lt;Dio&gt;ひとりじゃ危なっかしくて……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41868</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45152</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_125_009&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;……本？
-が落としたのかな</JapaneseText>
+      <JapaneseText>……本？
+&lt;Dio&gt;が落としたのかな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -143,6 +152,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43164</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -153,6 +163,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>43572</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

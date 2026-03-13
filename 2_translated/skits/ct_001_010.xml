@@ -48,12 +48,13 @@
     <Entry>
       <PointerOffset>43160</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_001&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;あれが、時空戦士のひとり……だった
-博士なんてな……</JapaneseText>
+      <JapaneseText>あれが、時空戦士のひとり……だった
+&lt;Claus&gt;博士なんてな……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>38092</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -64,6 +65,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38380</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -75,6 +77,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38624</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -85,6 +88,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39748</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -96,16 +100,18 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40148</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43652</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_006&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;んだんだ。をバカにするなんて許せねーだよな</JapaneseText>
+      <JapaneseText>んだんだ。&lt;Mel&gt;&lt;Mel&gt;をバカにするなんて許せねーだよな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40496</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -117,6 +123,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41272</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -127,6 +134,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42340</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -38,6 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37244</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,6 +49,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>39468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -59,6 +61,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>40964</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -70,6 +73,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>41196</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,6 +84,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>41556</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -91,6 +96,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41916</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +107,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42592</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -111,6 +118,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42984</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -121,17 +129,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43296</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46856</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_134_010&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;ガチャガチャっつーのはな、こう、スーっときて
-ダーッときてポンって事だ！　な～、</JapaneseText>
+      <JapaneseText>ガチャガチャっつーのはな、こう、スーっときて
+ダーッときてポンって事だ！　な～、&lt;Mel&gt;&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43464</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -142,6 +152,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44992</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

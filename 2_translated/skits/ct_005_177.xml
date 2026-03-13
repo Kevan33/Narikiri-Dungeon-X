@@ -38,6 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37264</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,6 +49,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37732</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -58,6 +60,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38276</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,17 +71,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38444</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41156</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_005&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;お肉ばっか食べてるなんて、ハゲワシか
+      <JapaneseText>お肉ばっか食べてる&lt;Dio&gt;なんて、ハゲワシか
 イソギンチャクになっちゃえばいいんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39012</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -89,6 +94,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39848</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -32,12 +32,13 @@
     <Entry>
       <PointerOffset>45268</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_001&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;ミラルドさんは
-さんの奥さんなんですか？</JapaneseText>
+      <JapaneseText>ミラルドさんは
+&lt;Claus&gt;さんの奥さんなんですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37684</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -49,6 +50,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38064</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -60,6 +62,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38460</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -70,6 +73,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38928</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -81,6 +85,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39880</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -92,6 +97,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40656</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -103,6 +109,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41304</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -113,6 +120,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41832</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -124,6 +132,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42000</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -135,6 +144,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42668</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -145,16 +155,18 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>43688</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46248</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_012&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;あ、ってば……</JapaneseText>
+      <JapaneseText>あ、&lt;Mel&gt;ってば……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44068</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -165,6 +177,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
+      <OldPtr>44392</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

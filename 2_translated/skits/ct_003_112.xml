@@ -22,6 +22,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37060</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -33,6 +34,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37972</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -44,17 +46,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>39032</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43760</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_112_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;そったらこっで、このままのポケットで
+      <JapaneseText>そったらこっで、このまま&lt;Mel&gt;&lt;Mel&gt;のポケットで
 大人しくしてるのが一番だぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39776</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -66,6 +70,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40452</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,6 +82,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41356</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -87,6 +93,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42392</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

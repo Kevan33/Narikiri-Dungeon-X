@@ -32,12 +32,13 @@
     <Entry>
       <PointerOffset>41932</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_133_001&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;さっきのの一撃、
+      <JapaneseText>さっきの&lt;Dio&gt;の一撃、
 ものすごい威力だったね、びっくりしちゃった</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37208</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -49,6 +50,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37952</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -59,6 +61,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38632</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -70,6 +73,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39204</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,6 +84,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39872</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -91,6 +96,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39984</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +107,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41100</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -38,6 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37292</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,6 +49,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37800</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -59,17 +61,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38704</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47276</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_072_004&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;&lt;Chester&gt;とか、とかには
+      <JapaneseText>&lt;Cless&gt;とか、&lt;Chester&gt;とかには
 会ったんでしょ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39088</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,6 +84,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39924</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -90,17 +95,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40368</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47548</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_072_007&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;やっぱ同世代の男の子で……
-うーん……くんは兄弟だし</JapaneseText>
+      <JapaneseText>やっぱ同世代の男の子で……
+うーん……&lt;Dio&gt;くんは兄弟だし</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40784</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -111,6 +118,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41296</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -121,6 +129,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41792</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -132,6 +141,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42304</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -142,6 +152,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44460</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -153,17 +164,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44784</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>48144</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_072_013&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;エトちゃん、心配しなくていいよ……
-ちゃんの恋愛エンジン回転してないから</JapaneseText>
+      <JapaneseText>エトちゃん、心配しなくていいよ……
+&lt;Mel&gt;ちゃんの恋愛エンジン回転してないから</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
+      <OldPtr>45512</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

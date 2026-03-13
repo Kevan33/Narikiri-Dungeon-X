@@ -32,12 +32,13 @@
     <Entry>
       <PointerOffset>44860</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_001&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;ちょっと、
+      <JapaneseText>ちょっと&lt;Dio&gt;、
 バタバタしないの</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,17 +49,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38484</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45040</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_003&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;何言ってんの？
-私がお姉ちゃん、は弟でしょ</JapaneseText>
+      <JapaneseText>何言ってんの？
+私がお姉ちゃん、&lt;Dio&gt;は弟でしょ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38932</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -69,6 +72,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39648</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,6 +84,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40060</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -90,6 +95,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41056</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +107,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41488</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -111,17 +118,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42096</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>45584</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_009&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;よーし！　今日こそ虫とり対決で、
-白黒はっきりつけるぞ、！</JapaneseText>
+      <JapaneseText>よーし！　今日こそ虫とり対決で、
+白黒はっきりつけるぞ、&lt;Mel&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>42384</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -132,6 +141,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
+      <OldPtr>43600</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

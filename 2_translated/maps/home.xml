@@ -3,7 +3,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>521244,521658,521723,521759,521830,521896,521935,522011,522082,522148,522159,522277,522363,522444,522520,522591,522657,522668,522837,522870,522881,522949,522985,522996,523067,523106,523117,523191,523233,523244,523287,523436,523472,523517,523574,523607,523648,524227,524238,524393,524501,524675,524751,524849,524955,525021,525074,525188,525385,525627,525692,525757,525822,526496,526837,527038,529796,530674,530705,530735,530767,530970,531020,531060,531115,531184,531220,531295,531333,531408,531445,551392,551536,552080,552312</PointerOffset>
+      <PointerOffset>521244,521658,521723,521759,521830,521896,521935,522011,522082,522148,522159,522277,522363,522444,522520,522591,522657,522668,522837,522870,522881,522996,523106,523117,523244,523287,523472,524227,524238,524393,524501,524675,524751,524849,524955,525021,525074,525188,525385,525627,525692,525757,525822,526496,526837,527038,529796,530674,530705,530735,530767,530970,531020,531060,531115,531184,531220,531295,531333,531408,531445,551392,551536,552080,552312</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,7 +27,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset>523357,523409,523805,524381,525176,525479,525533,525589,525887,525935,525983,526037,526097,526151,526205,526308,526366,551026,551069,551141,551184,551259,551271,552332,552381</PointerOffset>
+      <PointerOffset>523357,523805,525479,525533,525589,525887,525935,525983,526037,526097,526151,526205,526308,526366,551026,551069,551141,551184,551259,551271,552332,552381</PointerOffset>
       <JapaneseText>information</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1080,6 +1080,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>515460</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1092,38 +1093,41 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <OldPtr>515904</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>552084</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_040_054&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>服を着替えっと、
+その服の格好に応じた
+戦闘特性になるだで</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
+      <OldPtr>516740</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>552084</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_040_055&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>おめぇらにわかりやすーく教えっと、
+『見習い剣士』だと、
+剣士としての能力が上がるだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
+      <OldPtr>516740</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>552084</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_040_056&gt;</VoiceId>
-      <JapaneseText>服を着替えっと、
-その服の格好に応じた
-戦闘特性になるだでおめぇらにわかりやすーく教えっと、
-『見習い剣士』だと、
-剣士としての能力が上がるだつまりだ、本物の剣士と同じよう
+      <JapaneseText>つまりだ、本物の剣士と同じよう
 に剣を振って攻撃ができるように
 なるだーよ</JapaneseText>
       <EnglishText/>
@@ -1131,25 +1135,27 @@
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
+      <OldPtr>516740</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>552316</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_040_057&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>とまぁ、こんなところだ。おらが
+こんな説明までせねばなんねぇ
+とはまったくめんどうくせぇ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
+      <OldPtr>517324</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>552316</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_040_058&gt;</VoiceId>
-      <JapaneseText>とまぁ、こんなところだ。おらが
-こんな説明までせねばなんねぇ
-とはまったくめんどうくせぇそれから、おらは豆粒みたいに
+      <JapaneseText>それから、おらは豆粒みたいに
 ちっちゃくなって
 おめぇらについてくだーよ</JapaneseText>
       <EnglishText/>
@@ -1157,6 +1163,7 @@
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
+      <OldPtr>517324</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -1347,43 +1354,19 @@
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>521636</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>24</Id>
-      <Status>ref:Notice:79</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>521734</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>25</Id>
-      <Status>ref:Notice:77</Status>
-    </Entry>
-    <Entry>
       <PointerOffset>523007</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>26</Id>
+      <Id>24</Id>
       <Status>ref:Notice:116</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>522848</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>27</Id>
-      <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
       <PointerOffset>523078</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>28</Id>
+      <Id>25</Id>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
@@ -1391,31 +1374,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>29</Id>
+      <Id>26</Id>
       <Status>ref:Notice:116</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>521734</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>30</Id>
-      <Status>ref:Notice:77</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>521907</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>31</Id>
-      <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
       <PointerOffset>523255</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>32</Id>
+      <Id>27</Id>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
@@ -1423,87 +1390,31 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>33</Id>
+      <Id>28</Id>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
       <PointerOffset>523317</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <SpeakerId>4</SpeakerId>
-      <Id>34</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>523317</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>4</SpeakerId>
-      <Id>35</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>523317</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>36</Id>
-      <Status>To Do</Status>
+      <Id>29</Id>
+      <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
       <PointerOffset>523447</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>37</Id>
+      <Id>30</Id>
       <Status>ref:Notice:73</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>522815</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>38</Id>
-      <Status>ref:Notice:80</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>523317</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>39</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>522815</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>40</Id>
-      <Status>ref:Notice:80</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>522815</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>41</Id>
-      <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
       <PointerOffset>523817</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>42</Id>
+      <Id>31</Id>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
@@ -1511,7 +1422,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>43</Id>
+      <Id>32</Id>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
@@ -1519,7 +1430,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>44</Id>
+      <Id>33</Id>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
@@ -1527,23 +1438,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>45</Id>
+      <Id>34</Id>
       <Status>ref:Notice:123</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>521946</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>46</Id>
-      <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
       <PointerOffset>524404</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>47</Id>
+      <Id>35</Id>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
@@ -1551,7 +1454,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>48</Id>
+      <Id>36</Id>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
@@ -1559,7 +1462,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>49</Id>
+      <Id>37</Id>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
@@ -1567,7 +1470,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>50</Id>
+      <Id>38</Id>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
@@ -1575,7 +1478,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>51</Id>
+      <Id>39</Id>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
@@ -1583,7 +1486,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>52</Id>
+      <Id>40</Id>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
@@ -1591,7 +1494,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>53</Id>
+      <Id>41</Id>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
@@ -1599,23 +1502,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>54</Id>
+      <Id>42</Id>
       <Status>ref:Notice:85</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>522022</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>55</Id>
-      <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
       <PointerOffset>525199</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>56</Id>
+      <Id>43</Id>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
@@ -1623,7 +1518,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>57</Id>
+      <Id>44</Id>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
@@ -1631,7 +1526,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>58</Id>
+      <Id>45</Id>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
@@ -1639,7 +1534,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>59</Id>
+      <Id>46</Id>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
@@ -1647,7 +1542,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>60</Id>
+      <Id>47</Id>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
@@ -1655,7 +1550,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>61</Id>
+      <Id>48</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1663,7 +1558,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>62</Id>
+      <Id>49</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1671,7 +1566,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>63</Id>
+      <Id>50</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1679,7 +1574,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>64</Id>
+      <Id>51</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1687,7 +1582,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>65</Id>
+      <Id>52</Id>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
@@ -1695,7 +1590,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>66</Id>
+      <Id>53</Id>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
@@ -1703,7 +1598,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>67</Id>
+      <Id>54</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1711,7 +1606,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>68</Id>
+      <Id>55</Id>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
@@ -1719,7 +1614,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>69</Id>
+      <Id>56</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1727,7 +1622,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>70</Id>
+      <Id>57</Id>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
@@ -1735,7 +1630,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>71</Id>
+      <Id>58</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1743,7 +1638,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>72</Id>
+      <Id>59</Id>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
@@ -1751,7 +1646,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>73</Id>
+      <Id>60</Id>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
@@ -1759,7 +1654,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>74</Id>
+      <Id>61</Id>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
@@ -1767,7 +1662,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>75</Id>
+      <Id>62</Id>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
@@ -1775,28 +1670,8 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>76</Id>
+      <Id>63</Id>
       <Status>ref:Notice:114</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>527561</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>6</SpeakerId>
-      <Id>77</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>527561</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>6</SpeakerId>
-      <Id>77</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>527561</PointerOffset>
@@ -1806,13 +1681,33 @@
 ローンヴァレー
 精霊の洞窟
 モーリア坑道
-スルト深林12星座の塔
+スルト深林</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>64</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>527561</PointerOffset>
+      <JapaneseText>12星座の塔
 超古代都市トール
 ムジョルニア洞窟
 闇の洞窟
 トレントの森
 ネルヴィの洞窟
-焔王の楔氷狼王の礎
+焔王の楔</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>64</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>527561</PointerOffset>
+      <JapaneseText>氷狼王の礎
 ウェーランド平原
 ロキ魔科学研究窟
 グリトニル山岳
@@ -1822,7 +1717,7 @@
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
-      <Id>77</Id>
+      <Id>64</Id>
       <BubbleId>2</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -1831,7 +1726,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>80</Id>
+      <Id>67</Id>
       <Status>ref:Notice:129</Status>
     </Entry>
     <Entry>
@@ -1851,7 +1746,7 @@
       <EnglishText/>
       <Notes/>
       <SpeakerId>8</SpeakerId>
-      <Id>81</Id>
+      <Id>68</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1860,7 +1755,7 @@
       <EnglishText/>
       <Notes/>
       <SpeakerId>9</SpeakerId>
-      <Id>82</Id>
+      <Id>69</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1868,7 +1763,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>83</Id>
+      <Id>70</Id>
       <Status>ref:Notice:129</Status>
     </Entry>
     <Entry>
@@ -1877,27 +1772,7 @@
       <EnglishText/>
       <Notes/>
       <SpeakerId>7</SpeakerId>
-      <Id>84</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>528166</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>10</SpeakerId>
-      <Id>85</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>528166</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>10</SpeakerId>
-      <Id>85</Id>
-      <BubbleId>1</BubbleId>
+      <Id>71</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1907,12 +1782,32 @@
 レベル
 術技/スキル
 アイテム
-特殊アイテム個別コスチューム
+特殊アイテム個別</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>72</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>528166</PointerOffset>
+      <JapaneseText>コスチューム
 CP
 称号
 料理
 お金
-1Bitフラグリセット全回復
+1Bitフラグリセット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>72</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>528166</PointerOffset>
+      <JapaneseText>全回復
 あらすじ
 バトルメモ
 グレードMAX
@@ -1923,7 +1818,7 @@ CP
       <EnglishText/>
       <Notes/>
       <SpeakerId>10</SpeakerId>
-      <Id>85</Id>
+      <Id>72</Id>
       <BubbleId>2</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -1933,7 +1828,7 @@ CP
       <EnglishText/>
       <Notes/>
       <SpeakerId>11</SpeakerId>
-      <Id>88</Id>
+      <Id>75</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1947,7 +1842,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>12</SpeakerId>
-      <Id>89</Id>
+      <Id>76</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1960,7 +1855,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>13</SpeakerId>
-      <Id>90</Id>
+      <Id>77</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1977,7 +1872,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>13</SpeakerId>
-      <Id>91</Id>
+      <Id>78</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1995,7 +1890,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>14</SpeakerId>
-      <Id>92</Id>
+      <Id>79</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2012,7 +1907,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>15</SpeakerId>
-      <Id>93</Id>
+      <Id>80</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2024,7 +1919,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>16</SpeakerId>
-      <Id>94</Id>
+      <Id>81</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2037,7 +1932,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>17</SpeakerId>
-      <Id>95</Id>
+      <Id>82</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2048,7 +1943,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>18</SpeakerId>
-      <Id>96</Id>
+      <Id>83</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2061,7 +1956,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>19</SpeakerId>
-      <Id>97</Id>
+      <Id>84</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2073,7 +1968,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>20</SpeakerId>
-      <Id>98</Id>
+      <Id>85</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2082,37 +1977,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>99</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>529849</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>21</SpeakerId>
-      <Id>100</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>529849</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>21</SpeakerId>
-      <Id>100</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>529849</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>21</SpeakerId>
-      <Id>100</Id>
-      <BubbleId>2</BubbleId>
+      <Id>86</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2127,7 +1992,17 @@ AC4408_2 現在2</JapaneseText>
 黄金剣士
 白銀剣士
 忍
-隠密忍頭
+隠密</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>87</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>529849</PointerOffset>
+      <JapaneseText>忍頭
 シーフ
 トリックスター
 アサシン
@@ -2137,7 +2012,17 @@ AC4408_2 現在2</JapaneseText>
 ホークアイ
 闘弓士
 スナイパー
-ガンナーシューター
+ガンナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>87</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>529849</PointerOffset>
+      <JapaneseText>シューター
 調教士
 魔物使い
 魔操士
@@ -2146,7 +2031,17 @@ AC4408_2 現在2</JapaneseText>
 召喚士
 降魔術士
 斧戦士
-ショットランサー重戦士
+ショットランサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Id>87</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>529849</PointerOffset>
+      <JapaneseText>重戦士
 破壊戦士
 ランサー
 ドラグーン
@@ -2159,38 +2054,8 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>21</SpeakerId>
-      <Id>100</Id>
+      <Id>87</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>530214</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>22</SpeakerId>
-      <Id>104</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>530214</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>22</SpeakerId>
-      <Id>104</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>530214</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>22</SpeakerId>
-      <Id>104</Id>
-      <BubbleId>2</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2205,7 +2070,17 @@ AC4408_2 現在2</JapaneseText>
 マジックフェンサー
 ロイヤルフェンサー
 魔女っ娘
-ハイウィッチウィッチ
+ハイウィッチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>91</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>530214</PointerOffset>
+      <JapaneseText>ウィッチ
 アークセイジ
 大魔術士
 スカラー
@@ -2215,7 +2090,17 @@ AC4408_2 現在2</JapaneseText>
 モンク
 グラップラー
 拳闘士
-拳聖バトルマスター
+拳聖</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>91</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>530214</PointerOffset>
+      <JapaneseText>バトルマスター
 ナース
 歌姫
 ビショップ
@@ -2224,7 +2109,17 @@ AC4408_2 現在2</JapaneseText>
 シスター
 セントバード
 アマゾネス
-ビーストウォーリアウォーリア
+ビーストウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Id>91</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>530214</PointerOffset>
+      <JapaneseText>ウォーリア
 キティウォーリア
 ランシア
 戦姫
@@ -2237,7 +2132,7 @@ AC4408_2 現在2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>22</SpeakerId>
-      <Id>104</Id>
+      <Id>91</Id>
       <BubbleId>3</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -2250,7 +2145,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>23</SpeakerId>
-      <Id>108</Id>
+      <Id>95</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2259,7 +2154,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>109</Id>
+      <Id>96</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2268,7 +2163,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>110</Id>
+      <Id>97</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2277,7 +2172,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>111</Id>
+      <Id>98</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2286,7 +2181,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>112</Id>
+      <Id>99</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2296,7 +2191,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>24</SpeakerId>
-      <Id>113</Id>
+      <Id>100</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2308,7 +2203,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>25</SpeakerId>
-      <Id>114</Id>
+      <Id>101</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2322,7 +2217,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>26</SpeakerId>
-      <Id>115</Id>
+      <Id>102</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2332,7 +2227,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>116</Id>
+      <Id>103</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2341,7 +2236,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>117</Id>
+      <Id>104</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2351,7 +2246,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>118</Id>
+      <Id>105</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2360,7 +2255,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>119</Id>
+      <Id>106</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2370,7 +2265,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>27</SpeakerId>
-      <Id>120</Id>
+      <Id>107</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2379,7 +2274,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>121</Id>
+      <Id>108</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2388,7 +2283,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>122</Id>
+      <Id>109</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2398,7 +2293,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>28</SpeakerId>
-      <Id>123</Id>
+      <Id>110</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2407,7 +2302,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>124</Id>
+      <Id>111</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2417,7 +2312,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>125</Id>
+      <Id>112</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2426,7 +2321,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>126</Id>
+      <Id>113</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2436,7 +2331,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
-      <Id>127</Id>
+      <Id>114</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2446,7 +2341,7 @@ CP-10</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>29</SpeakerId>
-      <Id>128</Id>
+      <Id>115</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2458,37 +2353,7 @@ PTプリセット
       <EnglishText/>
       <Notes/>
       <SpeakerId>30</SpeakerId>
-      <Id>129</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>531649</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>31</SpeakerId>
-      <Id>130</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>531649</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>31</SpeakerId>
-      <Id>130</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>531649</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>31</SpeakerId>
-      <Id>130</Id>
-      <BubbleId>2</BubbleId>
+      <Id>116</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2503,7 +2368,17 @@ PTプリセット
 浸食洞　１
 浸食洞　２
 モーリア坑道　１
-モーリア坑道　２12星座の塔　１
+モーリア坑道　２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>117</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>531649</PointerOffset>
+      <JapaneseText>12星座の塔　１
 12星座の塔　２
 スルト森林　１
 スルト森林　２
@@ -2512,7 +2387,17 @@ PTプリセット
 ムジョルニア洞窟　１
 ムジョルニア洞窟　２
 闇の神殿　１
-闇の神殿　２トレントの森　１
+闇の神殿　２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>531649</PointerOffset>
+      <JapaneseText>トレントの森　１
 トレントの森　２
 ネルヴィの洞窟　１
 ネルヴィの洞窟　２
@@ -2521,7 +2406,17 @@ PTプリセット
 氷狼王の礎　１
 氷狼王の礎　２
 ウェーランド平原　１
-ウェーランド平原　２ロキ魔科学研究窟　１
+ウェーランド平原　２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Id>117</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>531649</PointerOffset>
+      <JapaneseText>ロキ魔科学研究窟　１
 ロキ魔科学研究窟　２
 グリトニル山岳　１
 グリトニル山岳　２
@@ -2534,98 +2429,8 @@ EXダンジョン　２</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>31</SpeakerId>
-      <Id>130</Id>
+      <Id>117</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>4</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>5</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>6</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>7</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>532343</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
-      <BubbleId>8</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2636,56 +2441,146 @@ EXダンジョン　２</JapaneseText>
 ノーム1
 ノーム2
 ウンディーネ
-マクスウェルクレス
+マクスウェル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>クレス
 ルナ（にせ）
 グレムリンレア
 仮面ディオス＆メルティア
 アスカ
 ヴォルト
-シャドウオリジン
+シャドウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>オリジン
 プルート
 ダオス（第２部）
 フラムベルク
 フェンビースト
 イシュラント
-ジェストーナビックアイ
+ジェストーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>ビックアイ
 ダオス
 フェザーダオス
 ディオス＆メルティア
 ノルン
-ノルン2契約イフリート
+ノルン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>契約イフリート
 契約シルフ
 契約ノーム
 契約ウンディーネ
 契約マクスウェル
 契約ルナ
-契約アスカ契約シャドウ
+契約アスカ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>4</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>契約シャドウ
 契約オリジン
 契約ヴォルト
 契約フラムベルク
 契約フェンビースト
 契約プルート
-契約グレムリンレア契約イシュラント
+契約グレムリンレア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>5</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>契約イシュラント
 契約ジェストーナ
-契約ビックアイEXミラクルドリームＸ
+契約ビックアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>6</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>EXミラクルドリームＸ
 EXアスカ＆ルナ
 EXイフリート＆ジェストーナ
 EXシャドウ
 EXノーム＆イシュラント
 EXシフル＆ビックアイ
-EXグリレア＆ウンディーネEXフェンビースト
+EXグリレア＆ウンディーネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>7</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>EXフェンビースト
 EXヴォルト
 EXフラム＆オリジン
 EXダオス
 EXプルート
 EXマクルウェル
-EXディオル＆メルティアEXノルン
+EXディオル＆メルティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Id>121</Id>
+      <BubbleId>8</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532343</PointerOffset>
+      <JapaneseText>EXノルン
 EXクレス
 クルールニグルム</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>32</SpeakerId>
-      <Id>134</Id>
+      <Id>121</Id>
       <BubbleId>9</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -2698,7 +2593,7 @@ EXクレス
       <EnglishText/>
       <Notes/>
       <SpeakerId>33</SpeakerId>
-      <Id>144</Id>
+      <Id>131</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2712,37 +2607,7 @@ CT_006 その他系</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>34</SpeakerId>
-      <Id>145</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>533419</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>35</SpeakerId>
-      <Id>146</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>533419</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>35</SpeakerId>
-      <Id>146</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>533419</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>35</SpeakerId>
-      <Id>146</Id>
-      <BubbleId>2</BubbleId>
+      <Id>132</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2756,7 +2621,17 @@ CT_001_006 あの仮面のヤツ
 CT_001_007 クルールってなんて生物
 CT_001_008 回復する力
 CT_001_009 太陽の絵
-CT_001_010 こいつはくせぇCT_001_011 しっかりしなさい
+CT_001_010 こいつはくせぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Id>133</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>533419</PointerOffset>
+      <JapaneseText>CT_001_011 しっかりしなさい
 CT_001_012 ソーサラーリング怖い
 CT_001_013 クラースについて
 CT_001_014 傷だらけの少年
@@ -2765,7 +2640,17 @@ CT_001_016 エトスの天敵
 CT_001_017 ロディたんにご挨拶
 CT_001_018 なんでもなれる『なりきり士』
 CT_001_019 ミラルドさんって誰なの？
-CT_001_020 200年後の魔法少女CT_001_021 おしえてディオ
+CT_001_020 200年後の魔法少女</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Id>133</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>533419</PointerOffset>
+      <JapaneseText>CT_001_021 おしえてディオ
 CT_001_022 魔王ダオス
 CT_001_023 精霊晶核って何？
 CT_001_024 アルベルトの秘密1
@@ -2774,7 +2659,17 @@ CT_001_026 エトス奪還作戦
 CT_001_027 ノームの混乱
 CT_001_028 バジルの挨拶
 CT_001_029 なんで逃げなかったの？
-CT_001_030 貧しいヴァルハラ村CT_001_031 ケンカするふたり
+CT_001_030 貧しいヴァルハラ村</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Id>133</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>533419</PointerOffset>
+      <JapaneseText>CT_001_031 ケンカするふたり
 CT_001_032 なんにでもなれる
 CT_001_033 いいぞいいぞ
 CT_001_034 丁寧に扱え
@@ -2782,47 +2677,7 @@ CT_001_035 ポジティブディオとネガティブメル</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>35</SpeakerId>
-      <Id>146</Id>
-      <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>534446</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>36</SpeakerId>
-      <Id>150</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>534446</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>36</SpeakerId>
-      <Id>150</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>534446</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>36</SpeakerId>
-      <Id>150</Id>
-      <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>534446</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>36</SpeakerId>
-      <Id>150</Id>
+      <Id>133</Id>
       <BubbleId>3</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -2837,7 +2692,17 @@ CT_002_041 妖精ってどんなもの
 CT_002_042 もっとフランクに
 CT_002_043 魔物使いの服
 CT_002_044 変な声は何の声？
-CT_002_045 読めない文字CT_002_046 平和の代償
+CT_002_045 読めない文字</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Id>137</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>534446</PointerOffset>
+      <JapaneseText>CT_002_046 平和の代償
 CT_002_047 ミーたまにご挨拶
 CT_002_048 今も残る妹の影
 CT_002_049 クレスとともに戦いたい
@@ -2846,7 +2711,17 @@ CT_002_051 ディオのナビゲーション
 CT_002_052 アルベルトの秘密2
 CT_002_053 捨てがたい
 CT_002_054 人生は波乱万丈
-CT_002_055 アーチェを思い出すCT_002_056 ディオの葛藤とメルの優しさ
+CT_002_055 アーチェを思い出す</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Id>137</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>534446</PointerOffset>
+      <JapaneseText>CT_002_056 ディオの葛藤とメルの優しさ
 CT_002_057 三人の子どもたち
 CT_002_058 ディオを追いかけて
 CT_002_059 ロディは何でこんなところに？
@@ -2855,7 +2730,17 @@ CT_002_061 おらだけが知ってる
 CT_002_062 英雄って……
 CT_002_063 朝のいっぱい
 CT_002_064 すずちんにご挨拶
-CT_002_065 汚名を雪げCT_002_066 クルールは温泉に
+CT_002_065 汚名を雪げ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Id>137</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>534446</PointerOffset>
+      <JapaneseText>CT_002_066 クルールは温泉に
 CT_002_067 エトスがいないけど
 CT_002_068 絵を描く魔法少女
 CT_002_069 ロディの時間
@@ -2864,7 +2749,17 @@ CT_002_071 すずの見た幻
 CT_002_072 憧れのあの人
 CT_002_073 ぼくのかわいい双子
 CT_002_074 アーチェにご挨拶（？）
-CT_002_075 バジルの顛末とクラースの覚悟CT_002_076 これってすげーことじゃん？
+CT_002_075 バジルの顛末とクラースの覚悟</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Id>137</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>534446</PointerOffset>
+      <JapaneseText>CT_002_076 これってすげーことじゃん？
 CT_002_077 時空戦士ってつおいの？
 CT_002_078 再会の余韻
 CT_002_079 シャドウの物まね
@@ -2875,28 +2770,8 @@ CT_002_083 衝撃の真実</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>36</SpeakerId>
-      <Id>150</Id>
+      <Id>137</Id>
       <BubbleId>4</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>535812</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>37</SpeakerId>
-      <Id>155</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>535812</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>37</SpeakerId>
-      <Id>155</Id>
-      <BubbleId>1</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2910,7 +2785,17 @@ CT_003_089 指輪の意味
 CT_003_090 捨てられた子ども
 CT_003_091 ダオスについて
 CT_003_092 復活せられるモノ
-CT_003_093 メルの憂鬱CT_003_094 戦争について
+CT_003_093 メルの憂鬱</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>37</SpeakerId>
+      <Id>142</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>535812</PointerOffset>
+      <JapaneseText>CT_003_094 戦争について
 CT_003_095 人の世のあやまち
 CT_003_096 記憶のカケラ
 CT_003_097 運命の所産
@@ -2919,7 +2804,17 @@ CT_003_099 よみがえるもうひとりの自分
 CT_003_100 ロディの思い出１
 CT_003_101 ロディの思い出２
 CT_003_102 希望のひとしずく
-CT_003_103 ダオス城についてCT_003_104 魔法の理由
+CT_003_103 ダオス城について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>37</SpeakerId>
+      <Id>142</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>535812</PointerOffset>
+      <JapaneseText>CT_003_104 魔法の理由
 CT_003_105 呼び捨てにしてね
 CT_003_106 おらもおらも
 CT_003_107 戦争の原因は
@@ -2931,58 +2826,8 @@ CT_003_112 つまらんよー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>37</SpeakerId>
-      <Id>155</Id>
+      <Id>142</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>536573</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>536573</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>536573</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
-      <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>536573</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
-      <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>536573</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
-      <BubbleId>4</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2996,7 +2841,17 @@ CT_004_118 ディオ、はじめての秘奥義
 CT_004_119 メル、はじめての秘奥義
 CT_004_120 クルール、はじめての秘奥義
 CT_004_121 ロディ、はじめての秘奥義
-CT_004_123 ナイスパートナーCT_004_124 ベストパートナー
+CT_004_123 ナイスパートナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Id>145</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536573</PointerOffset>
+      <JapaneseText>CT_004_124 ベストパートナー
 CT_004_125 一匹狼
 CT_004_126 一人になりたい時もあるのよ
 CT_004_127 本当に怖いのは・・・
@@ -3005,7 +2860,17 @@ CT_004_129 ディオの底力
 CT_004_130 やればできる子
 CT_004_131 しゃべりたいクルール1
 CT_004_132 しゃべりたいクルール2
-CT_004_133 最高の一撃CT_004_134 容赦ない一撃
+CT_004_133 最高の一撃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Id>145</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536573</PointerOffset>
+      <JapaneseText>CT_004_134 容赦ない一撃
 CT_004_136 体に叩き込む？！
 CT_004_137 男は黙って～1
 CT_004_138 男は黙って～2
@@ -3014,7 +2879,17 @@ CT_004_140 ディオで実験
 CT_004_141 ホウキ論争？？
 CT_004_142 ホウキライダー
 CT_004_143 これって召喚？
-CT_004_145 すずめにんじゃCT_004_146 つるにんじゃ
+CT_004_145 すずめにんじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Id>145</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536573</PointerOffset>
+      <JapaneseText>CT_004_146 つるにんじゃ
 CT_004_147 見ていられない二人
 CT_004_148 チャンピオンディオ
 CT_004_149 チャンピオンメル
@@ -3023,7 +2898,17 @@ CT_004_151 ちゃんぴょんクルール
 CT_004_152 グミなんて嫌い
 CT_004_153 ダメージなし
 CT_004_154 クルールはライバル1
-CT_004_155 クルールはライバル2CT_004_156 ハーレム
+CT_004_155 クルールはライバル2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Id>145</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536573</PointerOffset>
+      <JapaneseText>CT_004_156 ハーレム
 CT_004_157 ざまぁない
 CT_004_158 立ち上がるメル
 CT_004_159 ポーズ研究1
@@ -3032,7 +2917,17 @@ CT_004_161 かにの気持ち
 CT_004_162 職業病
 CT_004_163 危ない治療
 CT_004_164 魔女っ娘の弱点は・・・
-CT_004_165 捕獲の達人CT_004_166 捕獲の超人
+CT_004_165 捕獲の達人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Id>145</Id>
+      <BubbleId>4</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536573</PointerOffset>
+      <JapaneseText>CT_004_166 捕獲の超人
 CT_004_167 興味なし
 CT_004_168 メルメル最高！
 CT_004_169 着替え女王
@@ -3040,28 +2935,8 @@ CT_004_170 生着替え</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>38</SpeakerId>
-      <Id>158</Id>
+      <Id>145</Id>
       <BubbleId>5</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>538063</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>39</SpeakerId>
-      <Id>164</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>538063</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>39</SpeakerId>
-      <Id>164</Id>
-      <BubbleId>1</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3072,12 +2947,32 @@ CT_005_173 片付けは苦手
 CT_005_174 食べるの大好き
 CT_005_175 甘いものは別腹
 CT_005_176 料理上手は食べ上手
-CT_005_177 肉食系ディオCT_005_178 なんでも食べられるよ
+CT_005_177 肉食系ディオ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>151</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>538063</PointerOffset>
+      <JapaneseText>CT_005_178 なんでも食べられるよ
 CT_005_179 ポークとチキン
 CT_005_180 フルーツのおいしいいただき方
 CT_005_181 すず、とうふの思い出
 CT_005_182 ○○な味わい
-CT_005_183 こっちを見てるCT_005_184 すばらしき職人芸
+CT_005_183 こっちを見てる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>151</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>538063</PointerOffset>
+      <JapaneseText>CT_005_184 すばらしき職人芸
 CT_005_185 クラースの活力源
 CT_005_186 カレーはかれぇ
 CT_005_187 ミルクは大切
@@ -3087,28 +2982,8 @@ CT_005_190 変装の名人</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>39</SpeakerId>
-      <Id>164</Id>
+      <Id>151</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>538611</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>40</SpeakerId>
-      <Id>167</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>538611</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>40</SpeakerId>
-      <Id>167</Id>
-      <BubbleId>1</BubbleId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3119,19 +2994,39 @@ CT_006_194 温泉大好き
 CT_006_195 仲良く喧嘩しな1
 CT_006_196 仲良く喧嘩しな2
 CT_006_197 仲良く喧嘩しな3
-CT_006_200 苦悩の日々CT_006_201 テンションup↑
+CT_006_200 苦悩の日々</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>154</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>538611</PointerOffset>
+      <JapaneseText>CT_006_201 テンションup↑
 CT_006_202 クール＆ドライ
 CT_006_203 お・ん・せ・ん
 CT_006_204 どうにでもなぁ～れ
 CT_006_205 将来の夢
-CT_006_206 シャイなあんちくしょうCT_006_207 たくさん貯まったね
+CT_006_206 シャイなあんちくしょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>154</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>538611</PointerOffset>
+      <JapaneseText>CT_006_207 たくさん貯まったね
 CT_006_208 たくさん使ったね
 CT_006_209 計画的にね
 CT_006_210 グミうめぇ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>40</SpeakerId>
-      <Id>167</Id>
+      <Id>154</Id>
       <BubbleId>2</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -3151,7 +3046,7 @@ EP_100　魔王ダオス</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>41</SpeakerId>
-      <Id>170</Id>
+      <Id>157</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3161,7 +3056,7 @@ EP_000_020　目覚めるエトス○</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>42</SpeakerId>
-      <Id>171</Id>
+      <Id>158</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3174,7 +3069,7 @@ EP_010_050　ディオの花　（任意イベント）</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>43</SpeakerId>
-      <Id>172</Id>
+      <Id>159</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3187,7 +3082,7 @@ EP_020_050　ナゾの生物、クルール</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>173</Id>
+      <Id>160</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3203,7 +3098,7 @@ EP_030_070　絵でタイムスリップ○</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>174</Id>
+      <Id>161</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3214,7 +3109,7 @@ EP_040_030　バジル登場・クラースの理由</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>175</Id>
+      <Id>162</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3229,7 +3124,7 @@ EP_050_070　バジルからエレメンツポットを貰う</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>176</Id>
+      <Id>163</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3240,7 +3135,7 @@ EP_060_030　精霊シルフ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>177</Id>
+      <Id>164</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3252,7 +3147,7 @@ EP_070_040　精霊もあと１体</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>178</Id>
+      <Id>165</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3266,7 +3161,7 @@ EP_080_060　何にでもなれる</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>179</Id>
+      <Id>166</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3278,7 +3173,7 @@ EP_090_040　クラース、ロディとお別れ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>180</Id>
+      <Id>167</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3292,7 +3187,7 @@ EP_100_060　ダオスとノルン○</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>44</SpeakerId>
-      <Id>181</Id>
+      <Id>168</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3300,7 +3195,7 @@ EP_100_060　ダオスとノルン○</JapaneseText>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>182</Id>
+      <Id>169</Id>
       <Status>ref:Notice:129</Status>
     </Entry>
     <Entry>
@@ -3323,7 +3218,7 @@ EP_240 ダオスとの戦い
       <EnglishText/>
       <Notes/>
       <SpeakerId>46</SpeakerId>
-      <Id>183</Id>
+      <Id>170</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3338,7 +3233,7 @@ EP_110_070 マクスウェルならモーリア坑道</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>47</SpeakerId>
-      <Id>184</Id>
+      <Id>171</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3352,7 +3247,7 @@ EP_120_060 精霊マクスウェル</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>48</SpeakerId>
-      <Id>185</Id>
+      <Id>172</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3368,7 +3263,7 @@ EP_130_080 クレスとともにヴァルハラへ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>49</SpeakerId>
-      <Id>186</Id>
+      <Id>173</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3383,7 +3278,7 @@ EP_140_050 ブレイナーを追うために3</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>50</SpeakerId>
-      <Id>187</Id>
+      <Id>174</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3395,7 +3290,7 @@ EP_150_040 ブレイナーをぶん殴る！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>51</SpeakerId>
-      <Id>188</Id>
+      <Id>175</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3407,7 +3302,7 @@ EP_160_040 バジルの最期</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>52</SpeakerId>
-      <Id>189</Id>
+      <Id>176</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3421,7 +3316,7 @@ EP_170_060 バジルのエレメンツポット</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>53</SpeakerId>
-      <Id>190</Id>
+      <Id>177</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3434,7 +3329,7 @@ EP_180_050 黒装束に拘束される</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>54</SpeakerId>
-      <Id>191</Id>
+      <Id>178</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3447,7 +3342,7 @@ EP_190_050 エトスもいないし電力不足</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>55</SpeakerId>
-      <Id>192</Id>
+      <Id>179</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3461,7 +3356,7 @@ EP_200_060 精霊ヴォルト</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>56</SpeakerId>
-      <Id>193</Id>
+      <Id>180</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3477,7 +3372,7 @@ EP_210_070 エトス救出</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>57</SpeakerId>
-      <Id>194</Id>
+      <Id>181</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3492,7 +3387,7 @@ EP_220_070 精霊王オリジン</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>58</SpeakerId>
-      <Id>195</Id>
+      <Id>182</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3507,7 +3402,7 @@ EP_230_070 最後まで見届ける</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>59</SpeakerId>
-      <Id>196</Id>
+      <Id>183</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3517,7 +3412,7 @@ EP_240_010 混沌と魔王2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>60</SpeakerId>
-      <Id>197</Id>
+      <Id>184</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3532,7 +3427,7 @@ EP_240_010 混沌と魔王2</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>61</SpeakerId>
-      <Id>198</Id>
+      <Id>185</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3550,7 +3445,7 @@ EP_340 いつかどこかで</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>62</SpeakerId>
-      <Id>199</Id>
+      <Id>186</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3562,7 +3457,7 @@ EP_250_040 罠かもしれない、けど</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>63</SpeakerId>
-      <Id>200</Id>
+      <Id>187</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3579,7 +3474,7 @@ EP_260_090 気がつくメル</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>64</SpeakerId>
-      <Id>201</Id>
+      <Id>188</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3595,7 +3490,7 @@ EP_270_070 行こう。怒れる大地に</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>65</SpeakerId>
-      <Id>202</Id>
+      <Id>189</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3609,7 +3504,7 @@ EP_280_050 殺された魂</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>66</SpeakerId>
-      <Id>203</Id>
+      <Id>190</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3622,7 +3517,7 @@ EP_290_050 心の穴</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>67</SpeakerId>
-      <Id>204</Id>
+      <Id>191</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3638,7 +3533,7 @@ EP_300_080 見守らせて、君たちの罪の行方</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>68</SpeakerId>
-      <Id>205</Id>
+      <Id>192</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3655,7 +3550,7 @@ EP_310_080 ダオスと対峙</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>69</SpeakerId>
-      <Id>206</Id>
+      <Id>193</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3669,7 +3564,7 @@ EP_320_060 自らの手の”審判”</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>70</SpeakerId>
-      <Id>207</Id>
+      <Id>194</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3678,7 +3573,7 @@ EP_320_060 自らの手の”審判”</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>71</SpeakerId>
-      <Id>208</Id>
+      <Id>195</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3688,67 +3583,7 @@ EP_340_020 おかえり</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>72</SpeakerId>
-      <Id>209</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>4</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>546206</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
-      <BubbleId>5</BubbleId>
+      <Id>196</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3759,36 +3594,96 @@ SB_030 なりきり士のお仕事１
 SB_039 ワンダーシェフ登場
 SB_040 なりきり士のお仕事・幽霊退治
 SB_050 なりきり士のお仕事・情報収集
-SB_060 なりきり士のお仕事・冬の準備SB_070 一輪の花
+SB_060 なりきり士のお仕事・冬の準備</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_070 一輪の花
 SB_080 ミスタースランプ＆歌姫メル
 SB_090 Gの記憶
 SB_130 社長
 SB_140 マネークレイジー
 SB_150 グーングニル
-SB_160 英雄にふさわしきものSB_170 法術師の宿命
+SB_160 英雄にふさわしきもの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_170 法術師の宿命
 SB_180 いたずらっ娘
 SB_190 奮闘！　漆黒の翼
 SB_200 意外な発見
 SB_210 父の形見
 SB_220 お手伝い大好き
-SB_230 やんちゃ坊主SB_240 父の手紙
+SB_230 やんちゃ坊主</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_240 父の手紙
 SB_250 クレスの荒行
 SB_260 チェスターの特訓
 SB_270 アーチェからのご教授
 SB_280 すずとの修行
 SB_290 追憶の歪み
-SB_300 ラブラブ・クレミンSB_310 温泉はいいね
+SB_300 ラブラブ・クレミン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_310 温泉はいいね
 SB_330 TOP#Rマスター
 SB_340 闘技場
 SB_350 ナム孤島
 SB_360 うしうしにんにん
 SB_370 召喚の指輪
-SB_380 私の土人形SB_390 禁魔術の謎
+SB_380 私の土人形</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>4</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_390 禁魔術の謎
 SB_400 精霊と契約
 SB_410 うさギルド
 SB_420 タルロウX
 SB_430 傍若無人アルベルト
-SB_440 バジルの頼まれごとSB_450 ロディとダオス
+SB_440 バジルの頼まれごと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>73</SpeakerId>
+      <Id>197</Id>
+      <BubbleId>5</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546206</PointerOffset>
+      <JapaneseText>SB_450 ロディとダオス
 SB_460 ロディの父
 SB_470 クレスたちの未来
 SB_480 メルの猫好き？
@@ -3797,7 +3692,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>73</SpeakerId>
-      <Id>210</Id>
+      <Id>197</Id>
       <BubbleId>6</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -3811,7 +3706,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>74</SpeakerId>
-      <Id>217</Id>
+      <Id>204</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3821,7 +3716,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>75</SpeakerId>
-      <Id>218</Id>
+      <Id>205</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3832,7 +3727,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>76</SpeakerId>
-      <Id>219</Id>
+      <Id>206</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3845,7 +3740,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>77</SpeakerId>
-      <Id>220</Id>
+      <Id>207</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3856,7 +3751,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>78</SpeakerId>
-      <Id>221</Id>
+      <Id>208</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3867,7 +3762,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>79</SpeakerId>
-      <Id>222</Id>
+      <Id>209</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3879,7 +3774,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>80</SpeakerId>
-      <Id>223</Id>
+      <Id>210</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3889,7 +3784,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>81</SpeakerId>
-      <Id>224</Id>
+      <Id>211</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3900,7 +3795,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>82</SpeakerId>
-      <Id>225</Id>
+      <Id>212</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3911,7 +3806,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>83</SpeakerId>
-      <Id>226</Id>
+      <Id>213</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3921,7 +3816,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>84</SpeakerId>
-      <Id>227</Id>
+      <Id>214</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3936,7 +3831,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>85</SpeakerId>
-      <Id>228</Id>
+      <Id>215</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3946,7 +3841,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>86</SpeakerId>
-      <Id>229</Id>
+      <Id>216</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3955,7 +3850,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>87</SpeakerId>
-      <Id>230</Id>
+      <Id>217</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3964,7 +3859,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>88</SpeakerId>
-      <Id>231</Id>
+      <Id>218</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3973,7 +3868,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>89</SpeakerId>
-      <Id>232</Id>
+      <Id>219</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3982,7 +3877,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>90</SpeakerId>
-      <Id>233</Id>
+      <Id>220</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3991,7 +3886,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>91</SpeakerId>
-      <Id>234</Id>
+      <Id>221</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4000,7 +3895,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>92</SpeakerId>
-      <Id>235</Id>
+      <Id>222</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4009,7 +3904,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>93</SpeakerId>
-      <Id>236</Id>
+      <Id>223</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4018,7 +3913,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>94</SpeakerId>
-      <Id>237</Id>
+      <Id>224</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4027,7 +3922,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>95</SpeakerId>
-      <Id>238</Id>
+      <Id>225</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4040,7 +3935,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>96</SpeakerId>
-      <Id>239</Id>
+      <Id>226</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4051,7 +3946,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>97</SpeakerId>
-      <Id>240</Id>
+      <Id>227</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4060,7 +3955,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>98</SpeakerId>
-      <Id>241</Id>
+      <Id>228</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4069,7 +3964,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>99</SpeakerId>
-      <Id>242</Id>
+      <Id>229</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4082,7 +3977,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>100</SpeakerId>
-      <Id>243</Id>
+      <Id>230</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4093,7 +3988,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>101</SpeakerId>
-      <Id>244</Id>
+      <Id>231</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4106,7 +4001,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>102</SpeakerId>
-      <Id>245</Id>
+      <Id>232</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4116,7 +4011,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>103</SpeakerId>
-      <Id>246</Id>
+      <Id>233</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4128,7 +4023,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>104</SpeakerId>
-      <Id>247</Id>
+      <Id>234</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4140,7 +4035,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>105</SpeakerId>
-      <Id>248</Id>
+      <Id>235</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4153,7 +4048,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>106</SpeakerId>
-      <Id>249</Id>
+      <Id>236</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4162,7 +4057,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>107</SpeakerId>
-      <Id>250</Id>
+      <Id>237</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4172,7 +4067,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>108</SpeakerId>
-      <Id>251</Id>
+      <Id>238</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4181,27 +4076,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>109</SpeakerId>
-      <Id>252</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>549352</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>110</SpeakerId>
-      <Id>253</Id>
-      <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>549352</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>110</SpeakerId>
-      <Id>253</Id>
-      <BubbleId>1</BubbleId>
+      <Id>239</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4212,13 +4087,33 @@ SB_500 アーチェと宝箱</JapaneseText>
 その　４　シルフ
 その　５　ウンディーネ
 その　６　マクスウェル
-その　７　十二星座の塔入口その　８　十二星座の塔・直前
+その　７　十二星座の塔入口</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>110</SpeakerId>
+      <Id>240</Id>
+      <BubbleId>0</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>549352</PointerOffset>
+      <JapaneseText>その　８　十二星座の塔・直前
 その　９　ルナ
 その１０　アスカ
 その１１　シャドウ
 その１２　オリジン
 その１３　ヴォルト
-その１４　フラムベルグその１５　フェンビースト
+その１４　フラムベルグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>110</SpeakerId>
+      <Id>240</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>549352</PointerOffset>
+      <JapaneseText>その１５　フェンビースト
 その１６　プルート
 その１７　グレムリンレア
 その１８　トーティス教会
@@ -4228,7 +4123,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>110</SpeakerId>
-      <Id>253</Id>
+      <Id>240</Id>
       <BubbleId>2</BubbleId>
       <Status>To Do</Status>
     </Entry>
@@ -4242,7 +4137,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>111</SpeakerId>
-      <Id>256</Id>
+      <Id>243</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4255,7 +4150,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>112</SpeakerId>
-      <Id>257</Id>
+      <Id>244</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4270,7 +4165,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>113</SpeakerId>
-      <Id>258</Id>
+      <Id>245</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4280,7 +4175,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>114</SpeakerId>
-      <Id>259</Id>
+      <Id>246</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4290,7 +4185,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>115</SpeakerId>
-      <Id>260</Id>
+      <Id>247</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4303,7 +4198,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>116</SpeakerId>
-      <Id>261</Id>
+      <Id>248</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4312,7 +4207,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>117</SpeakerId>
-      <Id>262</Id>
+      <Id>249</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4326,7 +4221,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>118</SpeakerId>
-      <Id>263</Id>
+      <Id>250</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4337,7 +4232,7 @@ SB_500 アーチェと宝箱</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>119</SpeakerId>
-      <Id>264</Id>
+      <Id>251</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4355,7 +4250,7 @@ CG　その７　瘴気のくさび
       <EnglishText/>
       <Notes/>
       <SpeakerId>120</SpeakerId>
-      <Id>265</Id>
+      <Id>252</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4373,7 +4268,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>121</SpeakerId>
-      <Id>266</Id>
+      <Id>253</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4392,7 +4287,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>122</SpeakerId>
-      <Id>267</Id>
+      <Id>254</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4401,7 +4296,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>268</Id>
+      <Id>255</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4410,7 +4305,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>269</Id>
+      <Id>256</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4419,7 +4314,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>270</Id>
+      <Id>257</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4428,7 +4323,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>271</Id>
+      <Id>258</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4438,7 +4333,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>272</Id>
+      <Id>259</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4447,7 +4342,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>273</Id>
+      <Id>260</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4456,7 +4351,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>274</Id>
+      <Id>261</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4465,7 +4360,7 @@ Test
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
-      <Id>275</Id>
+      <Id>262</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -38,6 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37208</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,6 +49,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37516</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -58,6 +60,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37812</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,28 +71,31 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>37924</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42780</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_005&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Claus&gt;ずっとがさんと
+      <JapaneseText>ずっと&lt;Mel&gt;が&lt;Claus&gt;さんと
 話してたよね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38036</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42900</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_006&gt;</VoiceId>
-      <JapaneseText>&lt;Claus&gt;さっき、さんちの前で会った人にも
+      <JapaneseText>さっき、&lt;Claus&gt;さんちの前で会った人にも
 『あんた誰』とか言ってたし</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>38336</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +107,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>38948</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -112,6 +119,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>39196</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -122,6 +130,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>39572</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -132,6 +141,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>39880</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -142,6 +152,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>40112</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -152,6 +163,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>40612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -162,6 +174,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
+      <OldPtr>41056</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -172,6 +185,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
+      <OldPtr>41224</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -182,6 +196,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
+      <OldPtr>41484</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -192,6 +207,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
+      <OldPtr>41784</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

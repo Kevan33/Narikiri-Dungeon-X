@@ -38,6 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37208</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -49,6 +50,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37528</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -60,17 +62,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37760</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41620</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;もしが発見しなかったら、
+      <JapaneseText>もし&lt;Mel&gt;が発見しなかったら、
 ずっとあのままだったんだぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38032</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -82,6 +86,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38512</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -93,17 +98,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
+      <OldPtr>38888</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41948</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_007&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;そうだね、それって
-のおかげだよね</JapaneseText>
+      <JapaneseText>そうだね、それって
+&lt;Mel&gt;のおかげだよね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39576</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -115,17 +122,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>39980</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42124</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_009&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;ほんと、って
+      <JapaneseText>ほんと、&lt;Mel&gt;って
 前向きになんねーのな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>40452</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

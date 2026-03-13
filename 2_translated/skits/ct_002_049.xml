@@ -32,12 +32,13 @@
     <Entry>
       <PointerOffset>45484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_001&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;&lt;Cless&gt;……さん、オレも
-さんたちの部隊に入りたい</JapaneseText>
+      <JapaneseText>……&lt;Cless&gt;さん、オレも
+&lt;Cless&gt;さんたちの部隊に入りたい</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37300</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -48,6 +49,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38084</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -59,6 +61,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38484</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -70,6 +73,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38972</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -81,6 +85,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39192</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -91,6 +96,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39716</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,6 +107,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39948</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -111,6 +118,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41076</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -121,17 +129,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41400</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46272</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_010&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;それって本当に
-のやりたかったこと？</JapaneseText>
+      <JapaneseText>それって本当に
+&lt;Dio&gt;のやりたかったこと？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>41896</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -143,6 +153,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>42384</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -153,6 +164,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>43008</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -164,6 +176,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
+      <OldPtr>43316</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -175,6 +188,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
+      <OldPtr>43888</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -186,6 +200,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
+      <OldPtr>44512</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -196,6 +211,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
+      <OldPtr>44744</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

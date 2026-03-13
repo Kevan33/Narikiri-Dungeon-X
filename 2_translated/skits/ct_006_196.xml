@@ -45,16 +45,18 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37376</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46756</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_196_002&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;大丈夫、？</JapaneseText>
+      <JapaneseText>大丈夫、&lt;Dio&gt;？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37688</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -66,6 +68,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38036</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,17 +80,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38728</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47120</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_196_005&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;んだんだ、おめぇが怪我するのは勝手だが、
-に余計な心配掛けんじゃねぇよ</JapaneseText>
+      <JapaneseText>んだんだ、おめぇが怪我するのは勝手だが、
+&lt;Mel&gt;&lt;Mel&gt;に余計な心配掛けんじゃねぇよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39212</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,6 +103,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40076</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +114,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40336</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,17 +125,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>42048</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47488</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_196_009&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;そんぐれぇのキズ、に頼るなんて贅沢だ。
+      <JapaneseText>そんぐれぇのキズ、&lt;Mel&gt;&lt;Mel&gt;に頼るなんて贅沢だ。
 おらの屁ぇ掛けときゃ治るだーよ。ぶひゃひゃひゃ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>43028</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -140,6 +149,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
+      <OldPtr>44528</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -150,6 +160,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>45756</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -160,6 +171,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
+      <OldPtr>46044</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

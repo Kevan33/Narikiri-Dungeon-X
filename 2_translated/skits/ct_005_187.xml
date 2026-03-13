@@ -45,6 +45,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37432</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38604</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,6 +69,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>39412</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -78,6 +81,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <OldPtr>40476</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,17 +92,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40588</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46256</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_187_006&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;成長不足のは、
+      <JapaneseText>成長不足の&lt;Arche&gt;は、
 たくさん飲んだ方がいいな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41360</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -109,6 +115,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42724</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -120,6 +127,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
+      <OldPtr>43556</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -130,6 +138,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>44312</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

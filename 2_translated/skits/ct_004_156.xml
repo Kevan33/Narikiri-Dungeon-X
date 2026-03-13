@@ -61,50 +61,55 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37640</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47684</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;うんうん、やっぱりの法術があると、
+      <JapaneseText>うんうん、やっぱり&lt;Mint&gt;の法術があると、
 安心して攻撃に集中できるよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38016</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47836</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Suzu&gt;そんなことありません。ちゃんやちゃんが
+      <JapaneseText>そんなことありません。&lt;Mel&gt;ちゃんや&lt;Suzu&gt;ちゃんが
 頑張ってくれているので、詠唱に集中できるだけです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38672</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47988</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_004&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;&lt;Rody&gt;さんの動きに比べれば、私などまだまだです。
-もっと修行して、さんのようになりたいです</JapaneseText>
+      <JapaneseText>&lt;Rody&gt;さんの動きに比べれば、私などまだまだです。
+もっと修行して、&lt;Rody&gt;さんのようになりたいです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39496</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>48100</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_005&gt;</VoiceId>
-      <JapaneseText>&lt;Suzu&gt;あれ～ちゃん？
+      <JapaneseText>あれ～&lt;Suzu&gt;ちゃん？
 そんなに褒めても、なんも出ないよ？∀</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40508</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -116,6 +121,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
+      <OldPtr>42616</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -127,6 +133,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
+      <OldPtr>43376</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -137,6 +144,7 @@
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
+      <OldPtr>44560</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -147,6 +155,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
+      <OldPtr>45580</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -157,6 +166,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
+      <OldPtr>46000</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -167,6 +177,7 @@
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>11</Id>
+      <OldPtr>46748</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

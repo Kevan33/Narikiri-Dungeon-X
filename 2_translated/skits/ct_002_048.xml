@@ -24,11 +24,12 @@
     <Entry>
       <PointerOffset>42232</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_048_001&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;さっきくんが着ていた衣装……</JapaneseText>
+      <JapaneseText>さっき&lt;Dio&gt;くんが着ていた衣装……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37120</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -40,28 +41,31 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37360</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42444</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_048_003&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;きっと、が
+      <JapaneseText>きっと、&lt;Chester&gt;が
 彼にあげたんだろう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37528</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42544</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_048_004&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;あれは……が
+      <JapaneseText>あれは……&lt;Chester&gt;が
 アミィのために作ったものだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>37892</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -73,6 +77,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38204</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,6 +89,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>38552</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -95,6 +101,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39176</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -105,6 +112,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>39612</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -115,6 +123,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <OldPtr>39972</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -125,28 +134,31 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
+      <OldPtr>40084</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43216</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_048_011&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;&lt;Cless&gt;さんを傷つけたくない……
-さんは優しいんですね。でも……</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;さんを傷つけたくない……
+&lt;Cless&gt;さんは優しいんですね。でも……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>40468</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43324</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_048_012&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;わかってるよ、。
+      <JapaneseText>わかってるよ、&lt;Mint&gt;。
 正直に言うのも……優しさだよね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
+      <OldPtr>40972</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -157,6 +169,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
+      <OldPtr>41472</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

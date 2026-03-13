@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,6 +57,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37636</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -66,6 +68,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>37880</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -77,6 +80,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38200</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -88,6 +92,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38640</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -98,17 +103,19 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39088</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41864</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_007&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;&lt;Mel&gt;観察力が足りないよ、は。
-ね、？</JapaneseText>
+      <JapaneseText>観察力が足りないよ、&lt;Dio&gt;は。
+ね、&lt;Mel&gt;？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39452</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -119,6 +126,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40180</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -130,6 +138,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
+      <OldPtr>40480</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

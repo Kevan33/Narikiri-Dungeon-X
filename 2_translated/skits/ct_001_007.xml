@@ -45,6 +45,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -55,6 +56,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37548</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -65,6 +67,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38208</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -76,6 +79,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38596</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -86,17 +90,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39284</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47568</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_006&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;こ、こういうの、の方が得意でしょ？
+      <JapaneseText>こ、こういうの、&lt;Dio&gt;の方が得意でしょ？
 いつも図鑑とか読んでんだかラ……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39780</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,6 +114,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
+      <OldPtr>41284</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,6 +125,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41808</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -128,6 +136,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41988</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -138,17 +147,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42244</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>48020</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_011&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;絶対、ダメ！　そんなのかわいそうだよ！
-はタヌキだよ、タヌキだよね？</JapaneseText>
+      <JapaneseText>絶対、ダメ！　そんなのかわいそうだよ！
+&lt;Couleur&gt;はタヌキだよ、タヌキだよね？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
+      <OldPtr>42736</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -159,6 +170,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44448</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -170,6 +182,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
+      <OldPtr>44848</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -180,6 +193,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
+      <OldPtr>46028</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

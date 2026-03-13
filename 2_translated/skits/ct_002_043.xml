@@ -46,6 +46,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37320</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -57,6 +58,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>37608</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,6 +70,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38076</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -78,6 +81,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38372</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -89,17 +93,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>38704</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43440</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_043_006&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;だって、それはが
+      <JapaneseText>だって、それは&lt;Dio&gt;が
 男の子だからでしょ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>39060</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -111,6 +117,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>39572</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -121,6 +128,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
+      <OldPtr>40128</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -131,6 +139,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41112</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -141,17 +150,19 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
+      <OldPtr>41716</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>43896</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_043_011&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;……うーん、の言ってた、
+      <JapaneseText>……うーん、&lt;Arche&gt;の言ってた、
 女心がわかってないってこういうことなのか……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
+      <OldPtr>42112</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -45,6 +45,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37576</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -55,6 +56,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38120</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -65,6 +67,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38232</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -75,6 +78,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
+      <OldPtr>38816</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -85,6 +89,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
+      <OldPtr>39192</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -95,6 +100,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <OldPtr>40376</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -106,6 +112,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
+      <OldPtr>40908</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -116,17 +123,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
+      <OldPtr>41492</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>47820</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_154_009&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おめぇ、ちーっとばかし戦闘に参加してるからっで、
-にかわいがられてるつもりか知らんけんどよ</JapaneseText>
+      <JapaneseText>おめぇ、ちーっとばかし戦闘に参加してるからっで、
+&lt;Mel&gt;&lt;Mel&gt;にかわいがられてるつもりか知らんけんどよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
+      <OldPtr>41948</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -138,6 +147,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
+      <OldPtr>42756</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -148,17 +158,19 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
+      <OldPtr>44176</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>48200</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_154_012&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;うるせーっちゅーに！　ええか、おら忠告しただーよ。
-に甘えるのは、金輪際許さねーだ！</JapaneseText>
+      <JapaneseText>うるせーっちゅーに！　ええか、おら忠告しただーよ。
+&lt;Mel&gt;&lt;Mel&gt;に甘えるのは、金輪際許さねーだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
+      <OldPtr>44748</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -169,6 +181,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
+      <OldPtr>46384</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -38,17 +38,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <OldPtr>37304</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44188</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_176_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;お～、、エライだなぁ。
+      <JapaneseText>お～、&lt;Mel&gt;&lt;Mel&gt;、エライだなぁ。
 今日も一所懸命、頑張っているだか？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <OldPtr>38072</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -60,17 +62,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <OldPtr>38988</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44456</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_176_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;開発中ですと？　おおっ、ということは、
-の創作料理が食べられるだか！？</JapaneseText>
+      <JapaneseText>開発中ですと？　おおっ、ということは、
+&lt;Mel&gt;&lt;Mel&gt;の創作料理が食べられるだか！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <OldPtr>39720</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -82,16 +86,18 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
+      <OldPtr>40636</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44672</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_176_006&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;いんや～、は料理上手だで、心配ねーだーよ</JapaneseText>
+      <JapaneseText>いんや～、&lt;Mel&gt;&lt;Mel&gt;は料理上手だで、心配ねーだーよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <OldPtr>41136</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -103,6 +109,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
+      <OldPtr>42792</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>
