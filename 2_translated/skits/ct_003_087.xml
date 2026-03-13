@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43080,43428,43912</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43152,43508,43812,44008</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43252,43332,43628,43724</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,131 +34,117 @@
       <VoiceId>&lt;audio:VCT_003_087_001&gt;</VoiceId>
       <JapaneseText>あの仮面の人たち、
 何したいんだろ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those Masked people... I wonder what they're up to.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43156</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_002&gt;</VoiceId>
       <JapaneseText>単なる嫌がらせだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Simply being a pain in the ass, that's what.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43256</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_003&gt;</VoiceId>
       <JapaneseText>でもどうして、嫌がらせなんて
 する必要があるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...why would they feel they need to do these bad things in the first place?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43336</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_004&gt;</VoiceId>
       <JapaneseText>どこかでなんかの恨み買った？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Perhaps they hold a grudge against us?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43432</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_005&gt;</VoiceId>
       <JapaneseText>今までわたしたち、
 家出たことなかったのに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Until now they've been convincing us to stay home. Maybe that's it?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43512</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_006&gt;</VoiceId>
       <JapaneseText>顔見ただけでむかついたとかさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I get so angry whenever they show up!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43632</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_007&gt;</VoiceId>
       <JapaneseText>ぼくのかわいい双子ちゃんたちは、
 そんなむかつく顔なんてしてないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My fair pair of twins shouldn't get angry just seeing someone's face!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39312</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43728</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_008&gt;</VoiceId>
       <JapaneseText>あっちの方がよっぽど、
 むかつく顔してるっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They've done so many things to us all I'm also irritated just looking at their faces!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43816</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_009&gt;</VoiceId>
       <JapaneseText>顔って……あいつら顔隠してるだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Their faces...? But they are wearing masks...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43916</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_010&gt;</VoiceId>
       <JapaneseText>大体、なんで顔隠してるの？
 あの人たち、誰なの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For starters, why do they hide their faces? Just who are they?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44012</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_087_011&gt;</VoiceId>
       <JapaneseText>あんなもんひっぺがして、
 全部喋らせようぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm gonna rip those masks offa their faces and we'll have a long, sweet talk.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

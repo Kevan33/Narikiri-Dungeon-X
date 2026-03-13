@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>44572,45312,45400</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44644,44796,45188</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44724,44888,44996,45092,45504</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45252</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,141 +42,126 @@
       <VoiceId>&lt;audio:VCT_002_039_001&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、おなか空いてない？
 なにか食べなくて平気？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;, aren't you hungry? You haven't been eating much lately...are you ok?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44648</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_002&gt;</VoiceId>
       <JapaneseText>うん、平気だよ、全然</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah I'm fine, at all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44728</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_003&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、その『全然』、違うぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;, that "at all" is wrong.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38224</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44800</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_004&gt;</VoiceId>
       <JapaneseText>え？　どういうこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-what do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38924</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44892</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_005&gt;</VoiceId>
       <JapaneseText>『全然』の後には、必ず否定の言葉が来んだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At all is always right after a negative word.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45000</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_006&gt;</VoiceId>
       <JapaneseText>だから、全然ダメ、とか
 全然おもしろくねーとかはいいけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why "No good at all" and "That's no fun at all" are ok.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45096</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_007&gt;</VoiceId>
       <JapaneseText>全然いいとか、全然面白いとかは
 違うんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But "Good at all" and "Fun at all" are wrong.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45192</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_008&gt;</VoiceId>
       <JapaneseText>へぇ……さすが、色々と
 本読んでるだけあるね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woow! It shows you read a lot of books!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41260</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45256</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_009&gt;</VoiceId>
       <JapaneseText>クリュル～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45316</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_010&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45404</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_011&gt;</VoiceId>
       <JapaneseText>それできみは
 何も食べなくて平気？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At any rate you haven't been eating much either, are you okay?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45508</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_012&gt;</VoiceId>
       <JapaneseText>え？　オレ？　うーんと、
 オレも全然だいじょーぶ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? Me? Mmm, it's no problem at all!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42800</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

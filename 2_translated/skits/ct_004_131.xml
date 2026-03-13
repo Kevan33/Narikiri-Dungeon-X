@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>45156,45316,45532,45784,45952,46128</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45240,45624</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45452,45884</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46052</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -45,7 +45,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37404</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,7 +55,6 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37756</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,7 +65,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38236</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -79,7 +76,6 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38592</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -90,7 +86,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39680</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -102,7 +97,6 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40312</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -114,7 +108,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41036</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -126,7 +119,6 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42544</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -137,7 +129,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>43260</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -149,7 +140,6 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43852</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -160,11 +150,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>44296</OldPtr>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

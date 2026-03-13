@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>41280,41436</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41364,41616,42080</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41532,41960</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41720,41836</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,109 +42,97 @@
       <VoiceId>&lt;audio:VCT_003_094_001&gt;</VoiceId>
       <JapaneseText>ここでふたつの国が
 戦争をしてたんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is where the war between both countries took place...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41368</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_002&gt;</VoiceId>
       <JapaneseText>……なんで人は戦争をするのかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why do people wage war?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41440</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_003&gt;</VoiceId>
       <JapaneseText>争いが好きだから？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because we enjoy conflict?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41536</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_004&gt;</VoiceId>
       <JapaneseText>違うよ、大切な何かを
 守るために戦うんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not really true. War sparks when there are very important things that have to be fought for.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>37832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41620</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_005&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さんは
 どう思いますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you think about this, Miss &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41724</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_006&gt;</VoiceId>
       <JapaneseText>弱い者は滅び、優秀なものが
 残るのがこの世のならい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The weak are destroyed while the strong remain...That's the one cruel reality of the world.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41840</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_007&gt;</VoiceId>
       <JapaneseText>戦って勝った者だけが生き残っていくのが
 生物の本能だから、かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only the victors are allowed to leave the battlefield alive. It's in our instinct to fight for our survival. Don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39540</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41964</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_008&gt;</VoiceId>
       <JapaneseText>それじゃあ、みんな仲良くってのは
 自然の法則に反するってことになるよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you think that to be in good terms with everyone is against the nature of humanity?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39824</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42084</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_094_009&gt;</VoiceId>
       <JapaneseText>例え、そうだとしても……わたしは、
 もっとみんなと仲良くしたいな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That...might be true. After all, we haven't been at peace with everyone we met in this journey...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42896,42992,43212,43340,43616</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43088,43272,43500</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43432</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,108 +33,96 @@
       <PointerOffset>42900</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_001&gt;</VoiceId>
       <JapaneseText>ヴァルハラか。なつかしいな～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really missed Valhalla!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42996</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_002&gt;</VoiceId>
       <JapaneseText>前来たのは……
 仲間探してた時だったっけ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last time I came here...was when I was looking for my friends...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43092</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_003&gt;</VoiceId>
       <JapaneseText>……エトはまたいつか、
 旅立っちゃうの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto... would you want to go again?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43216</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_004&gt;</VoiceId>
       <JapaneseText>仲間を探して？　うふふ、きみたちを
 ほってどこかに行けるはずないでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To look for my companions? Hahahaha, do you think I would ever abandon you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38772</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43276</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_005&gt;</VoiceId>
       <JapaneseText>本当に？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-do you mean that just now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43344</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_006&gt;</VoiceId>
       <JapaneseText>ずっと一緒だよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll always be together!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43436</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_007&gt;</VoiceId>
       <JapaneseText>マジで、&lt;Mel&gt;って
 エトには甘えん坊だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh no! Eto and &lt;Mel&gt; got all softy and corny!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43504</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_008&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;もでしょ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Y-you moved too!</EnglishText>
+      <Notes>what</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43620</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_009&gt;</VoiceId>
       <JapaneseText>……だってね……きみたちがいれば
 他に仲間なんて必要ないかラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's because... now you are my irreplaceable friends...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

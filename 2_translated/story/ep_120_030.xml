@@ -5,66 +5,66 @@
     <Entry>
       <PointerOffset>298488</PointerOffset>
       <JapaneseText>不敵な声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unknown Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298552,298768,300788,300996,301320,301560</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298620,300712,300908</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298708</PointerOffset>
       <JapaneseText>不敵な小さい生物</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Small Creature</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298840,299220,299720,299964,300256,301444</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>299160,299380</PointerOffset>
       <JapaneseText>不敵な妖精</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fearless Fairy</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299296,299524,300448,301076</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>299620,299868,300124,300368,300548,301164,301228,301504</PointerOffset>
       <JapaneseText>アルテミス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Artemis</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -114,68 +114,62 @@
       <VoiceId>&lt;audio:VSM_120_030_001&gt;</VoiceId>
       <JapaneseText>出せー、僕を
 ここから出せよー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lemme out! Lemme out I said!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298556</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_002&gt;</VoiceId>
       <JapaneseText>なに……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's going on?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298624</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_003&gt;</VoiceId>
       <JapaneseText>なんだ、この虫</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh look, it's a bug.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>280528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298712</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_004&gt;</VoiceId>
       <JapaneseText>虫じゃない！
 僕は妖精だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not a bug, dammit! I'm a fairy!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>280780</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298772</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_005&gt;</VoiceId>
       <JapaneseText>妖精！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fairy!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>281240</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298844</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_006&gt;</VoiceId>
       <JapaneseText>ぼくも妖精なんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm a fairy, too!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>281596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299164</PointerOffset>
@@ -183,108 +177,104 @@
       <JapaneseText>ふん、
 オレとおまえが同じ？
 違うね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You think we are the same?
+Oh how wrong you are.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <OldPtr>281848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299224</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_011&gt;</VoiceId>
       <JapaneseText>え……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <OldPtr>281988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299300</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_012&gt;</VoiceId>
       <JapaneseText>おまえ、アルテミスだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're Artemis.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <OldPtr>282184</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299384</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_013&gt;</VoiceId>
       <JapaneseText>だったら、
 なんだってんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What if I am?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
-      <OldPtr>282380</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299528</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_014&gt;</VoiceId>
       <JapaneseText>やっぱりな。
 &lt;Cless&gt;に聞いてたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knew it, I've heard from &lt;Cless&gt; about you.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>282520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299528</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_015&gt;</VoiceId>
       <JapaneseText>口の悪い小生意気な妖精に
 会ったってさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He said he met such a foul
+mouthed fairy once.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>282520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299624</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_016&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;なんてそんなやつ
 知らないもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know any dumb
+pricks named &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>13</Id>
-      <OldPtr>282716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299724</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_017&gt;</VoiceId>
       <JapaneseText>ねぇ？　どういうこと？
 ぼく、妖精じゃないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, what did you mean?
+I'm not a fairy?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <OldPtr>283016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299872</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_018&gt;</VoiceId>
       <JapaneseText>比べりゃわかんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you so blind that you
+can't see the difference?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>283212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299872</PointerOffset>
@@ -292,13 +282,13 @@
       <JapaneseText>キュートな羽根も
 すらりとした体も
 全然違う。だろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From the cute feathers to the long and
+slender body, you got it all wrong.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>283212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299968</PointerOffset>
@@ -306,24 +296,23 @@
       <JapaneseText>だとしたら、
 きみが妖精じゃない、
 とか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If that's the case, you aren't
+a fairy either, really...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
-      <OldPtr>283512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300128</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_021&gt;</VoiceId>
       <JapaneseText>なんでそうなるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The hell are you saying!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>283764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300128</PointerOffset>
@@ -331,39 +320,38 @@
       <JapaneseText>そもそも、おまえこそ
 勝手にそう思い込んでる
 だけじゃないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For starters, how sure are
+you that you're a fairy?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>283764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300260</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_023&gt;</VoiceId>
       <JapaneseText>ぼくが……思い込んでた、
 だけ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe I was just...convinced
+that I was a fairy...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>283996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300260</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_024&gt;</VoiceId>
       <JapaneseText>じゃあ、
 ぼくは何なの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case, what am I?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>283996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300372</PointerOffset>
@@ -371,60 +359,56 @@
       <JapaneseText>ふん、
 ここから出してくれたら、
 教えてやってもいいけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh! If you want to know,
+get me out of here first!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>22</Id>
-      <OldPtr>284136</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300452</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_026&gt;</VoiceId>
       <JapaneseText>うぉっ！
 こりゃ、やばいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow! That's some dangerous stuff there!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>23</Id>
-      <OldPtr>285128</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300552</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_027&gt;</VoiceId>
       <JapaneseText>意地悪魔術師のじじぃに
 呪文かけられたんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was cursed by some jerk sorcerer!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>24</Id>
-      <OldPtr>285336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300716</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_029&gt;</VoiceId>
       <JapaneseText>こんなやつ
 ほっといていこーぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say we leave him rotting here.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <OldPtr>286096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300792</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_030&gt;</VoiceId>
       <JapaneseText>でも、
 エトのことが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, what about Eto?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
-      <OldPtr>286340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>300912</PointerOffset>
@@ -432,118 +416,111 @@
       <JapaneseText>いーじゃん、別にエトが、
 妖精と違くても、
 何かが変わるわけでもなし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's okay. Even if Eto isn't a fairy,
+it wouldn't really change anything
+if we learn she's something different.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
-      <OldPtr>286536</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301000</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_032&gt;</VoiceId>
       <JapaneseText>そうかな……
 ……うん、そうかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... I guess you got a point...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
-      <OldPtr>286676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301080</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_033&gt;</VoiceId>
       <JapaneseText>ま、そういうわけだ。
 悪いな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess that's settled.
+Too bad for you!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
-      <OldPtr>287572</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301168</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_034&gt;</VoiceId>
       <JapaneseText>あ、こら、待ってよ！
 ヒドイぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, wait right there! You jerks!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>30</Id>
-      <OldPtr>287964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301232</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_035&gt;</VoiceId>
       <JapaneseText>なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now what?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>31</Id>
-      <OldPtr>288272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301324</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_036&gt;</VoiceId>
       <JapaneseText>マクスウェルに
 頼んでみたらどうかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couldn't we ask Maxwell to set you free?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
-      <OldPtr>288412</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301448</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_037&gt;</VoiceId>
       <JapaneseText>そうか……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>288656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301448</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_038&gt;</VoiceId>
       <JapaneseText>待ってて。ぼくたちが
 解放してあげるかラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please wait! We'll set you free!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>288656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301508</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_039&gt;</VoiceId>
       <JapaneseText>ふん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tch.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>35</Id>
-      <OldPtr>288988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>301564</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_030_040&gt;</VoiceId>
       <JapaneseText>行こ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
-      <OldPtr>289128</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

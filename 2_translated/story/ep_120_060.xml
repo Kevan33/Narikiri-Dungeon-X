@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>297696,297884,297980,298252,298508,299088,299272,299484</PointerOffset>
       <JapaneseText>マクスウェル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maxwell</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297780,298584,299168,299852</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298076,299400,299560</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298312,298656,298992,299332,299784</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>299636</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>299700</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -98,24 +98,23 @@
       <VoiceId>&lt;audio:VSM_120_060_001&gt;</VoiceId>
       <JapaneseText>おぬしらか、
 わしを呼んだのは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've successfully summoned
+me, my earnest visitors.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>277976</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297784</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_002&gt;</VoiceId>
       <JapaneseText>マクスウェル？
 このじじぃが？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THIS is Maxwell? This old fart?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297888</PointerOffset>
@@ -123,257 +122,246 @@
       <JapaneseText>そうじゃ、
 このじじぃこそ、
 マクスウェルじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Correct. This old fart, as you
+masterfully put it, is Maxwell.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>279844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297984</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_004&gt;</VoiceId>
       <JapaneseText>おや？
 おぬしはダオス戦役におった？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are my eyes playing tricks on me?
+Isn't that one of the fine warriors
+who I fought with against Dhaos?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>280408</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298080</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_005&gt;</VoiceId>
       <JapaneseText>よう、じいさん。
 元気か、風邪引いてないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yo, gramps. How're you
+doing? Healthy as ever?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>280548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298256</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_007&gt;</VoiceId>
       <JapaneseText>して、今日は何用があって
 ここへ来た？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pardon, but what exactly is
+the motive for this visit?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>280688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298316</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_008&gt;</VoiceId>
       <JapaneseText>実は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You see...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>281580</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298512</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_009&gt;</VoiceId>
       <JapaneseText>ふむ、おぬしたちの
 力を引き出す、か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I understand. I shall proceed to
+test the limits of your powers.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>282044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298512</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_010&gt;</VoiceId>
       <JapaneseText>やるのはかまわん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We shall engage in battle.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>282044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298512</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_011&gt;</VoiceId>
       <JapaneseText>だが、失敗すれば、
 おぬしらの体は壊れてしまうぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, I'm afraid failure will result
+in the destruction of your bodies.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>282044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298588</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_012&gt;</VoiceId>
       <JapaneseText>そ、そんな危険なのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-That's too dangerous!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>282464</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298660</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_013&gt;</VoiceId>
       <JapaneseText>覚悟はできています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm prepared for the test.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <OldPtr>282772</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298996</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_017&gt;</VoiceId>
       <JapaneseText>だって、これをやらなきゃ、
 『虹輪』を消せないんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll do anything in my power
+to stop the Prism Ring!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <OldPtr>283788</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299092</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_018&gt;</VoiceId>
       <JapaneseText>それでは嬢ちゃんだけ、
 やってみるかね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see you are determined. I shall
+test the young lady, then.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <OldPtr>284152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299172</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_019&gt;</VoiceId>
       <JapaneseText>い、いいや、
 オレもやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-Not so fast! I'll do this too!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <OldPtr>284772</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299276</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_020&gt;</VoiceId>
       <JapaneseText>ほっほっほ、威勢がいいの。
 では、その力を示せ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hohoho! Showing such courage is
+commendable. With no further 
+ado, let us test your abilities!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <OldPtr>285004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299336</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_021&gt;</VoiceId>
       <JapaneseText>はい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <OldPtr>285292</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299404</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_022&gt;</VoiceId>
       <JapaneseText>ひとつやるか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's take him down!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
-      <OldPtr>285648</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299488</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_023&gt;</VoiceId>
       <JapaneseText>おぬしはひっこんどるんじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm afraid this test is only for these two.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <OldPtr>285788</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299564</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_024&gt;</VoiceId>
       <JapaneseText>おっ……
 なんだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <OldPtr>286096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299640</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_025&gt;</VoiceId>
       <JapaneseText>ふたりとも、がんばって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know you can do it, you two!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
-      <OldPtr>286828</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299704</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_026&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
-      <OldPtr>287072</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299788</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_027&gt;</VoiceId>
       <JapaneseText>うん……
 &lt;Dio&gt;、準備はいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... &lt;Dio&gt;, are you prepared?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
-      <OldPtr>287212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299856</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_028&gt;</VoiceId>
       <JapaneseText>おぅ……行くぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course... Let's do it!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
-      <OldPtr>287352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

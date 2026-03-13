@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>41292</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41424,41792,41924</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41500</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41588,41696</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,85 +41,75 @@
       <PointerOffset>41296</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_001&gt;</VoiceId>
       <JapaneseText>これが魔科学兵器の力なんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is the power of Magitech weapons...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41428</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_002&gt;</VoiceId>
       <JapaneseText>多くの人の命を奪って、さらに星のマナも
 食らいつくす、それが魔科学兵器、か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A weapon capable of not only slaughtering countless people but also destroying the entire planet by Mana exhaustion...that's what a Magitech weapon is.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41504</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_003&gt;</VoiceId>
       <JapaneseText>禁止して正解だったよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good thing it's forbidden for use!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41592</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_004&gt;</VoiceId>
       <JapaneseText>でも、これも失敗があっての答え……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yet... to fire it is a mistake in and out of itself...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38732</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41700</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_005&gt;</VoiceId>
       <JapaneseText>たくさんの人が犠牲になってから
 ダメだったって気付く……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's impossible to be ignorant the thousands, let alone millions, of possible victims...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39028</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41796</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_006&gt;</VoiceId>
       <JapaneseText>人はそうして過ちを過ちとして
 認めるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Humans are capable of ignoring its mistakes and believing this time it'll be fine.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41928</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_095_007&gt;</VoiceId>
       <JapaneseText>そのためにこの世界の歴史も一度、
 変えられなければならなかった、&lt;Cless&gt;たちの手で</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That fallacy leads to history repeating itself time and time again, refusing to learn...As &lt;Cless&gt; and the others know...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

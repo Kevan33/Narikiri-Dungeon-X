@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>46440,46656</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46576,46776,46988,47128,47592</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46844</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47192</PointerOffset>
       <JapaneseText>一同</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47388</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47460</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -57,130 +57,116 @@
       <PointerOffset>46444</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_001&gt;</VoiceId>
       <JapaneseText>アルベルトさんの体って、木でできてるんですよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is Mister Albert's body made of any specific type of wood?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46580</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_002&gt;</VoiceId>
       <JapaneseText>おぉ、そうだど、&lt;Mel&gt;&lt;Mel&gt;。
 ただ木っつても、そんじょそこらの木とは違うだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, of course my &lt;Mel&gt;-&lt;Mel&gt;. It's made of a specific type of tree and yet you could say it's not a tree at the same time.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37788</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46660</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_003&gt;</VoiceId>
       <JapaneseText>それは、材質が特別ってこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then...you're made with special unique materials?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38840</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46780</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_004&gt;</VoiceId>
       <JapaneseText>そーいうこった。
 おらの体は世界樹のご神木からできてるだーよ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeppers! I'm made from sacred wood extracted from the Mana Tree.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39140</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46848</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_005&gt;</VoiceId>
       <JapaneseText>え？　うソ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? That can't be true, right!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40180</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46992</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_006&gt;</VoiceId>
       <JapaneseText>ま、ほんとかどうかは、おらも知らんが。
 た～ぶん、そんぐらい貴重なもんを使ってるはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who knows if it's true? Honestly, I don't know myself but I'm confident they'd need nothing less special to create this much awesomeness.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47132</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_007&gt;</VoiceId>
       <JapaneseText>んで、そのたいそう立派なご神木使って、
 ノルン様が日曜大工して、おらを作っただーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure Miss Norn took carpenting as a hobby and thought I should be no less than a masterpiece and use only the best materials like divine wood.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47196</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_008&gt;</VoiceId>
       <JapaneseText>日曜大工ー！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An amateur carpenter!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42708</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47392</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_011&gt;</VoiceId>
       <JapaneseText>クルゥ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuru?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <OldPtr>43596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47464</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_012&gt;</VoiceId>
       <JapaneseText>ほんとかよ、それ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really think that's what happened??</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47596</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_013&gt;</VoiceId>
       <JapaneseText>アホかぁ？　作るところ見たわけじゃねぇから、
 おらだって、わかるわけねぇべ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really are dumb. How the heck would I know how I was made if I wasn't even conscious until after!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>44284</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>43128,43328,43684</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43236,43536,43936</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43424,43808</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43620,43748</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43868</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,129 +50,120 @@
       <VoiceId>&lt;audio:VCT_005_182_001&gt;</VoiceId>
       <JapaneseText>……&lt;Rody&gt;の料理の
 味付けって、なんかなんかなんだよな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;, your cooking tastes...
+Uhm...something...something...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43240</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_002&gt;</VoiceId>
       <JapaneseText>何それ？　&lt;Dio&gt;くんの
 お口には合わないってことかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? &lt;Dio&gt; is it really that hard to 
+put into words?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43332</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_003&gt;</VoiceId>
       <JapaneseText>合わないっていうか……
 なぁ、&lt;Mel&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rather than not put into words...
+Uhh...&lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43428</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_004&gt;</VoiceId>
       <JapaneseText>え？　あぁ……えっと
 美味しい……よ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Ahh...Uhm...
+It's tasty...I guess...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39056</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43540</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_005&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;ちゃんまで、奥歯に
 ものがはさまったような言い方して</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even you, &lt;Mel&gt;? Did a cat got your
+tongue too?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43624</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_006&gt;</VoiceId>
       <JapaneseText>何か一味足りてないっていうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's something that's way more than a single taste...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40140</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43688</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_007&gt;</VoiceId>
       <JapaneseText>ビミョー？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Subtle?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43752</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_008&gt;</VoiceId>
       <JapaneseText>そう、微妙！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's it! It's "subtle"!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41104</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43812</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_009&gt;</VoiceId>
       <JapaneseText>微妙！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Subtle!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41872</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43872</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_010&gt;</VoiceId>
       <JapaneseText>クリュ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coloor!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43940</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_182_011&gt;</VoiceId>
       <JapaneseText>微妙って……何？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's...subtle?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42324</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

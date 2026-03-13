@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>46376,46640,46924,47228,47424,47604,47752</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46452,46716,47004,47308</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46548,46792,47080,47508,47688</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,185 +33,166 @@
       <PointerOffset>46380</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_001&gt;</VoiceId>
       <JapaneseText>……そうだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's RIGHT!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46456</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_002&gt;</VoiceId>
       <JapaneseText>うぉっ！　びっくりした！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, what's that out of nowhere!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38252</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46552</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_003&gt;</VoiceId>
       <JapaneseText>と、突然、大きな声、
 出さないでください……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P-please don't raise your voice like that so suddenly...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46644</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_004&gt;</VoiceId>
       <JapaneseText>ダオスにした話を
 ひとつ思い出したんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've remembered another thing about Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39408</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46720</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_005&gt;</VoiceId>
       <JapaneseText>なんだ、そんなこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, now what?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40064</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46796</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_006&gt;</VoiceId>
       <JapaneseText>どんな話したんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What did you remember?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40388</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46928</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_007&gt;</VoiceId>
       <JapaneseText>一度、ダオスに料理を作ってあげようと思って、
 好きなものを聞いたことがあったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One time Dhaos tried cooking for me and it was surprisingly really tasty.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41028</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47008</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_008&gt;</VoiceId>
       <JapaneseText>ダオスってもの食うんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos...can cook?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47084</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_009&gt;</VoiceId>
       <JapaneseText>当たり前でしょ。それで？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, duh...! And then?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41784</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47232</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_010&gt;</VoiceId>
       <JapaneseText>アイツがなかなか話さないから、ずっと私が自分の
 好きな食べ物の話して終わったっていう色気のない話</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since he wasn't talking at all I mentioned all the foods I liked. But that didn't really spark any conversation.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47312</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_011&gt;</VoiceId>
       <JapaneseText>なんだ、それで終わりなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it just ends like that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47428</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_012&gt;</VoiceId>
       <JapaneseText>ううん。しょうがないから、
 あれこれたくさん作って持ってったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. Well, sort of. Since it couldn't be helped I decided to prepare a lot of things myself for him.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>43504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47512</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_013&gt;</VoiceId>
       <JapaneseText>ダオスはそれを食べたんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And Dhaos ate anything?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>44492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47608</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_014&gt;</VoiceId>
       <JapaneseText>うん、たくさん持ってったのにひとつ残らずね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes! He ate every single meal I made for him with glee.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <OldPtr>44792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47692</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_015&gt;</VoiceId>
       <JapaneseText>へぇ……よかったじゃないですか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haah! Isn't that a nice memory?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <OldPtr>45304</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47756</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_101_016&gt;</VoiceId>
       <JapaneseText>そうだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it is a fond memory indeed.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <OldPtr>45576</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

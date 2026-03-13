@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>273584,273904,274012,274608</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273692,274536</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273756</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273840,274200,274432</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274260</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -90,12 +90,12 @@
       <VoiceId>&lt;audio:VSM_190_040_001&gt;</VoiceId>
       <JapaneseText>そう言えば、
 &lt;Rody&gt;はなんでいんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah... What are you
+doing here, anyways, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259448</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273696</PointerOffset>
@@ -103,46 +103,44 @@
       <JapaneseText>時間転移装置使って、
 ダオスを追ったんじゃ
 ないんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weren't you going to use the time
+travel facility to chase after Dhaos?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259692</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273760</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_003&gt;</VoiceId>
       <JapaneseText>クルール？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273844</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_004&gt;</VoiceId>
       <JapaneseText>それが、その装置が
 壊れててさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, you see... It seems Mister Computer
+broke down or something.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>260084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273908</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_005&gt;</VoiceId>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>260348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274016</PointerOffset>
@@ -150,37 +148,36 @@
       <JapaneseText>もしかして……
 オレらが元の時代に
 戻れなかったのも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-Does that mean...we can't
+return to our timeline...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260908</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274204</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_007&gt;</VoiceId>
       <JapaneseText>ご名答</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274204</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_008&gt;</VoiceId>
       <JapaneseText>それで、私は昔なじみの
 &lt;Suzu&gt;ちゃんのお家にご厄介に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I went to bother my old
+pal &lt;Suzu&gt; and barged into her house.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274204</PointerOffset>
@@ -188,37 +185,36 @@
       <JapaneseText>そしたら君たちが
 捕まってた、と。
 ね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And then you guys got caught.
+That's the gist of it?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274264</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_010&gt;</VoiceId>
       <JapaneseText>はい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Correct...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>262280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274436</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_011&gt;</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃんに道具借りたから、
 これで直せるかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With &lt;Suzu&gt;'s tools, we might
+be able to fix Mister Oz up.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274436</PointerOffset>
@@ -226,13 +222,13 @@
       <JapaneseText>期待しててよね。
 直ったら、君たちも
 元の時代に戻れるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>See, and then you guys can go
+back to your time no problem!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274540</PointerOffset>
@@ -240,24 +236,23 @@
       <JapaneseText>あっちが直っても
 エトが見つからないと
 戻れないよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if Oz gets repaired, we
+can't go back without Eto...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>263828</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274612</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_040_014&gt;</VoiceId>
       <JapaneseText>だな。
 エト探そうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right. Let's go search for Eto.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <OldPtr>264392</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

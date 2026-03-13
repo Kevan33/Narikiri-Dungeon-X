@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>44464,44644,44896,45136,45284,45420,45560</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44568,44780,44996,45200,45352,45488</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,152 +26,141 @@
       <VoiceId>&lt;audio:VCT_006_207_001&gt;</VoiceId>
       <JapaneseText>なぁなぁなぁ、
 オレら大金持ちなんじゃねか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, hey, aren't we rich?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44572</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_002&gt;</VoiceId>
       <JapaneseText>たくさん貯まったね。
 でも、無駄遣いしちゃダメだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've definitely saved a lot.
+We can't just squander this though!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37904</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44648</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_003&gt;</VoiceId>
       <JapaneseText>……わ、わかってるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I-I know that!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38616</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44784</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_004&gt;</VoiceId>
       <JapaneseText>お金は計画的に使わないと。アレもこれもって
 買ってたらすぐに無くなっちゃうんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have to carefully plan how we're going to save money.
+If we keep buying this and that, we'll lose it all in no time!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44900</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_005&gt;</VoiceId>
       <JapaneseText>でもちょっとだけいいか？
 どーしても欲しいものがあんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, but how about just a teeny tiny bit?
+I have something I have an eye on...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45000</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_006&gt;</VoiceId>
       <JapaneseText>物と値段によっては少しはいいけど……
 ……なに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, if it doesn't cost that much, I don't
+see why not...&lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45140</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_007&gt;</VoiceId>
       <JapaneseText>オンドゥオオカブトと、ダディヤオオクワガタ。
 これでリアル『バトル昆虫ファイト』したい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want a Hercules Beetle and a Great Stag Beetle.
+I want to see them face off in a real hardy battle!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45204</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_008&gt;</VoiceId>
       <JapaneseText>いくら……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So...how much?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42064</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45288</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_009&gt;</VoiceId>
       <JapaneseText>……合わせて、に、２５万ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All together...250 thousand gald...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45356</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_010&gt;</VoiceId>
       <JapaneseText>……………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45424</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_011&gt;</VoiceId>
       <JapaneseText>……………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45492</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_012&gt;</VoiceId>
       <JapaneseText>……………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>43328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45564</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_207_013&gt;</VoiceId>
       <JapaneseText>……やっぱ、いいです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nevermind.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <OldPtr>43604</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

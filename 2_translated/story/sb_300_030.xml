@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>261164,261402,261467,261503,261574,261640,261679,261755,261826,261892,261903,262021,262107,262188,262264,262335,262401,262412,262581,262614,262625,262740,262850,262861,262988,263031,263216,263980,263991,264146,264254,264428,264504,264602,264708,264774,264827,264941,265138,265380,265445,265510,265575,266249,266590,266791,267116</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -55,7 +55,6 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>257980</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,7 +67,6 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>257980</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

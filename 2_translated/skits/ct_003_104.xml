@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>43564,43836,43956,44116,44244,44520</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43644</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43748,44184,44316,44456</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44028,44588</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,150 +42,134 @@
       <VoiceId>&lt;audio:VCT_003_104_001&gt;</VoiceId>
       <JapaneseText>そっか、だから双子ちゃんは
 魔法が使えたんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah! So THAT is why you twins can use magic!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43648</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_002&gt;</VoiceId>
       <JapaneseText>どうしたの、&lt;Rody&gt;、突然</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean so suddenly, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43752</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_003&gt;</VoiceId>
       <JapaneseText>オレらが魔法を使えるのは、
 『なりきり士』だからだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can use magic because of the Roleplayer power.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38224</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43840</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_004&gt;</VoiceId>
       <JapaneseText>この地上でマナを紡げるのはエルフだけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only elves are able to control the world's Mana.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43960</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_005&gt;</VoiceId>
       <JapaneseText>『なりきり士』でも、エルフが
 生まれつき持ってる力まではマネできない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You may be a Roleplayer but that sort of talent is a birthright and near impossible to imitate.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44032</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_006&gt;</VoiceId>
       <JapaneseText>それじゃあなんで？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So how come?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39648</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44120</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_007&gt;</VoiceId>
       <JapaneseText>君たちがデリス・カーラーン人だから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, you are people from Derris Kharlan.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44188</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_008&gt;</VoiceId>
       <JapaneseText>そ、そんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-that's...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40412</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44248</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_009&gt;</VoiceId>
       <JapaneseText>残念？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Deplorable?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40712</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44320</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_010&gt;</VoiceId>
       <JapaneseText>残念とかと違くて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I'm not shameful but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40824</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44460</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_011&gt;</VoiceId>
       <JapaneseText>じゃあ、オレの魔法が&lt;Mel&gt;よりもしょぼいのは
 服装の差じゃなくて、もともとなのかっ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then you mean...&lt;Mel&gt; is better at using magic than me and it has nothing to do with the clothes!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41072</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44524</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_012&gt;</VoiceId>
       <JapaneseText>才能の差？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe a talent difference?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44592</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_013&gt;</VoiceId>
       <JapaneseText>才能の差だよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah definitely a difference in talent!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <OldPtr>42804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

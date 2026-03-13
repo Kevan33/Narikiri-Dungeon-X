@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>269856,270168,270636</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269988,270776</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270104,270336</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -75,13 +75,14 @@
       <JapaneseText>王としての責任を
 果たせなかった非力さの罪を
 あがなうため……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As a King, he had no power to accomplish
+what his people needed...So with that guilt
+in his heart, he tried to make up for it...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>258956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269860</PointerOffset>
@@ -89,13 +90,14 @@
       <JapaneseText>だから、ダオスは
 魔王と呼ばれても、
 故郷のために戦った？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that why he took on the role
+of a Demon Lord? To make it
+up to his people?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>258956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269992</PointerOffset>
@@ -103,12 +105,13 @@
       <JapaneseText>だから、犠牲をたくさん出してでも
 『大いなる実り』を
 故郷に持ち帰ろうとしたんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So to that end, he decided no matter the
+number of victims, he needed to bring back
+the Mana Seed to his home world.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270108</PointerOffset>
@@ -116,110 +119,104 @@
       <JapaneseText>そして、また同じ罪を
 繰り返すかもしれない
 オレらを消そうとした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's what he meant by saying we could
+repeat that same sin. After all, he was faced
+with a similar situation once again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259236</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270172</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_005&gt;</VoiceId>
       <JapaneseText>ダオス……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259536</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270340</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_007&gt;</VoiceId>
       <JapaneseText>どうすんだ、&lt;Rody&gt;。
 こっから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;, it's only a little further.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>259676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270640</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_008&gt;</VoiceId>
       <JapaneseText>もちろん、会いに行くよ、
 ダオスに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, let's go meet with Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270640</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_009&gt;</VoiceId>
       <JapaneseText>止めなきゃ、あの人を……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I need to put him to rest...</EnglishText>
+      <Notes>TL check</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>270640</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_010&gt;</VoiceId>
       <JapaneseText>もうこれ以上、
 苦しまないでいいって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or else he'll be suffering here forever...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>260108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270640</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_011&gt;</VoiceId>
       <JapaneseText>ちゃんと
 言ってあげなきゃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I need to talk to him...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>260108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270640</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_012&gt;</VoiceId>
       <JapaneseText>それに、双子ちゃんたちも
 聞きたいことあるんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Besides, you twins have a lot
+to hear from him too, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>4</BubbleId>
-      <OldPtr>260108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270780</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_070_014&gt;</VoiceId>
       <JapaneseText>行こう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>260672</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

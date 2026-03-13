@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>288240</PointerOffset>
       <JapaneseText>ダオス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>288304</PointerOffset>
       <JapaneseText>一同</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -65,23 +65,21 @@
       <PointerOffset>288244</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_030_004&gt;</VoiceId>
       <JapaneseText>倒したか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've defeated it. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278088</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288308</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_030_005&gt;</VoiceId>
       <JapaneseText>うわぁあっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wooaah!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278576</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

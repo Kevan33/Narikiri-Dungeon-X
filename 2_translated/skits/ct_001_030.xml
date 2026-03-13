@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>42152,42464,42748,42844,42940</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42260,42360,42576,42672,43036,43124</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,134 +26,120 @@
       <VoiceId>&lt;audio:VCT_001_030_001&gt;</VoiceId>
       <JapaneseText>オレらが行ったヴァルハラと、
 この世界のヴァルハラ、ずいぶん違ったよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Valhalla we first visited is so different from this time's Valhalla...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42264</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_002&gt;</VoiceId>
       <JapaneseText>わたしたちの時代のヴァルハラは
 もっときれいだったけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our era's Valhalla is definitely prettier but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42364</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_003&gt;</VoiceId>
       <JapaneseText>でも、この時代のヴァルハラの方が
 温かかったよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But this Valhalla is livelier and warmer, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38040</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42468</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_004&gt;</VoiceId>
       <JapaneseText>そうかな、オレはちょっと寒くて
 上着欲しかったぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that what you think? The people seemed sad and they wear shabby clothes.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42580</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_005&gt;</VoiceId>
       <JapaneseText>そういうことじゃなくて、
 なんか人の心が温かかったってこと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not what I'm talking about. The people's hearts are warm.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42676</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_006&gt;</VoiceId>
       <JapaneseText>私は貧しくても、
 心が温かな方が好きだな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think they are in the best conditions but I prefer the warmth in their hearts!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39500</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42752</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_007&gt;</VoiceId>
       <JapaneseText>確かにそうかもだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure, that may be the case, but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42848</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_008&gt;</VoiceId>
       <JapaneseText>でも、それってオレらが
 よそ者だかんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't you looking it from a stranger's perspective?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40188</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42944</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_009&gt;</VoiceId>
       <JapaneseText>当人たちにしたら、
 金のあった方がいいと思う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For the people involved, money actually matters.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43040</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_010&gt;</VoiceId>
       <JapaneseText>うーん……そう、なのかな……
 そうかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm...Is that...so?...You're right.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43128</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_030_011&gt;</VoiceId>
       <JapaneseText>……でも、本当に
 それでいいのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But is this really how things should be?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

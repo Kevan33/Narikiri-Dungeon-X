@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43660,43932,44264,44432,44632</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43748,44092,44364,44712</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43812,44008,44188,44560</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,151 +34,135 @@
       <VoiceId>&lt;audio:VCT_001_026_001&gt;</VoiceId>
       <JapaneseText>続・エトちゃん奪還、
 ウルトラローリングアタックミッション！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Begin, Operation Rescue Miss Eto... Mission Ultra Rolling Attack!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37248</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43752</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_002&gt;</VoiceId>
       <JapaneseText>その計画の名前、決定なんですか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That project name...who decided it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43816</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_003&gt;</VoiceId>
       <JapaneseText>決定だろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wasn't it decided before?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43936</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_004&gt;</VoiceId>
       <JapaneseText>名前はさておき、どうやってエトちゃんを
 救うか、ってことだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The name has to be big if we really want to bring Eto back...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38644</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44012</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_005&gt;</VoiceId>
       <JapaneseText>ノームの穴に水流そうぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's fill the hole Gnome is in with water!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39104</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44096</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_006&gt;</VoiceId>
       <JapaneseText>エトも一緒におぼれちゃうってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We would drown Eto...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39532</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44192</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_007&gt;</VoiceId>
       <JapaneseText>じゃあ、穴を掘り返して、
 ほじくりだすとか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok, what about if we dig a big hole all the way there?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44268</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_008&gt;</VoiceId>
       <JapaneseText>ドロンコになっちゃうよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the way down there?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44368</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_009&gt;</VoiceId>
       <JapaneseText>エトを助けるためなら、それくらい。
 平気です！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If it's to save Eto, then nothing matters. It's fine by me!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40496</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44436</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_010&gt;</VoiceId>
       <JapaneseText>その覚悟やよし！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then let's get our hands dirty!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41000</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44564</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_011&gt;</VoiceId>
       <JapaneseText>じゃあ、今度逃げたら、その
 ゴーゴーアンダーグラウンド作戦で追いかけようぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case let's call this strategy "Operation Go-Go-Around-Underground!"</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44636</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_012&gt;</VoiceId>
       <JapaneseText>あはは、それいいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahahaha! That's the spirit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42464</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44716</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_026_013&gt;</VoiceId>
       <JapaneseText>名前なんてどうでもいいってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How can you think that that's a good name...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>42888</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

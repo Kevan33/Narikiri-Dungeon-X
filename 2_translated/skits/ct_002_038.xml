@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>44720,45064,45176,45536</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44852,44944,45316,45456,45696</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45800</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,121 +34,108 @@
       <VoiceId>&lt;audio:VCT_002_038_001&gt;</VoiceId>
       <JapaneseText>ノルンさんはどうしてわたしたちのところへ
 アルベルトさんを？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One question, why did Miss Norn send Mister Albert to our home in the first place?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44856</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_002&gt;</VoiceId>
       <JapaneseText>それは、&lt;Mel&gt;&lt;Mel&gt;が一人前の大人として、
 成長できるようにするためだ～よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That'd be because &lt;Mel&gt;-&lt;Mel&gt;'s about to start turning into a full-fledged adult, so I was sent to watch over your growth to become a great person.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44948</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_003&gt;</VoiceId>
       <JapaneseText>ノルン様も、さっき、そう言ってただ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mrs. Norn said that some time ago.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38416</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45068</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_004&gt;</VoiceId>
       <JapaneseText>そうじゃなくて、ノルンさんは
 どうしてわたしたちに親切なんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's...not what I meant. Why is she doing all these kind things for us?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38760</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45180</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_005&gt;</VoiceId>
       <JapaneseText>そう聞いたのに、ノルンさんに
 質問をそらされた気がして……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss Norn simply evaded that question...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39356</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45320</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_006&gt;</VoiceId>
       <JapaneseText>むはは、大丈夫だよ。ノルン様がどったらつもりでも、
 きっと、悪い事にはならないはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahahaha! That's ok! I'm sure it wasn't Miss Norn intention. She isn't a bad person at all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45460</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_007&gt;</VoiceId>
       <JapaneseText>そういうこって、今だって『なりきり士』の力が、
 &lt;Mel&gt;&lt;Mel&gt;の役に立ってるはずだど？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For instance, weren't &lt;Mel&gt;-&lt;Mel&gt;'s "Roleplayer" powers useful so far?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40604</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45540</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_008&gt;</VoiceId>
       <JapaneseText>それはそうなんですけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right about that but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41660</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45700</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_009&gt;</VoiceId>
       <JapaneseText>そんだけわかればだいじょぶだぁ。ほれ、&lt;Mel&gt;&lt;Mel&gt;、
 ここで、新しい衣装に着替えて、また役に立って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then everything's all right! Now &lt;Mel&gt;-&lt;Mel&gt;...what about if you try this new garment I made just for you...It will be useful...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45804</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_010&gt;</VoiceId>
       <JapaneseText>このエロタンス！
 &lt;Mel&gt;の着替えが見たいだけだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You perverted piece of wood! You just want to see &lt;Mel&gt; changing clothes!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

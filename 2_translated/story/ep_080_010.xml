@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>276908,279228</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>276992,277088,277600,277756,277868,278064,278172,278304</PointerOffset>
       <JapaneseText>バジル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277160,277980,278452,278620,278736</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277224</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277688</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>278392,278548,279160</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -97,93 +97,85 @@
       <PointerOffset>276912</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_001&gt;</VoiceId>
       <JapaneseText>いた……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There he is!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276996</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_002Z&gt;</VoiceId>
       <JapaneseText>おや、君たち。
 元気だったかい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, it's you people! You look great!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>261272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277092</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_003Z&gt;</VoiceId>
       <JapaneseText>なんだ、&lt;Claus&gt;も。
 僕に会いたくなったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even &lt;Claus&gt;'s here! Does everyone want to meet me?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>261516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277164</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_004&gt;</VoiceId>
       <JapaneseText>帰っていいか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Is it really him?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>261924</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277228</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_005&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuuru! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>262328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277604</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_010Z&gt;</VoiceId>
       <JapaneseText>で、精霊探しは
 うまくいっているのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is the Spirit hunt going smoothly?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>262468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277692</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_011&gt;</VoiceId>
       <JapaneseText>実はそのことで
 お願いがあって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Actually, concerning that, we need to ask you for a favor... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <OldPtr>262900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277760</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_012Z&gt;</VoiceId>
       <JapaneseText>なるほど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>263432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
@@ -191,12 +183,12 @@
       <JapaneseText>そうだな、&lt;Claus&gt;は
 王国のお歴々の心証も
 よくないだろうし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right. Alvanista's kingdom doesn't exactly have the
+highest opinion of &lt;Claus&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>263676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277984</PointerOffset>
@@ -204,24 +196,22 @@
       <JapaneseText>それでおまえから
 陛下宛てに手紙を
 書いてもらいたいのだが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could you please write a letter to the King for us?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>263872</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278068</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_015Z&gt;</VoiceId>
       <JapaneseText>君に頼りにされちゃ、
 仕方ないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez, if you ask it like that, then I guess I can't say no.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>264012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278176</PointerOffset>
@@ -229,12 +219,12 @@
       <JapaneseText>その代わり。
 僕の研究を手伝う件、
 よろしくな、&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In exchange, I want you to help me with my research.
+Welcome to the team, &lt;Claus&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>264152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278308</PointerOffset>
@@ -242,35 +232,33 @@
       <JapaneseText>アルヴァニスタから返事が
 あるまで一晩はかかるだろう。
 それまで待っていてくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Until we get a formal reply from Alvanista,
+stick around here please. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>264348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278396</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_018&gt;</VoiceId>
       <JapaneseText>変なの……
 でも、ちゃっかりしてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weird guy...but he's as smart as a whip.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
-      <OldPtr>264756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>278456</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_019&gt;</VoiceId>
       <JapaneseText>まぁな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I guess.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <OldPtr>265056</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278552</PointerOffset>
@@ -278,23 +266,21 @@
       <JapaneseText>技術提供、
 約束させられちゃった
 みたいだしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like you got yourself compromised into some work.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
-      <OldPtr>265668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>278624</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_021&gt;</VoiceId>
       <JapaneseText>まぁ、構わないが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not a problem.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <OldPtr>266020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278740</PointerOffset>
@@ -302,35 +288,33 @@
       <JapaneseText>返事があるまで
 時間があるだろうから、
 私は少しぶらぶらするかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It'll be some time until we get a reply,
+so I'll go take a walk.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
-      <OldPtr>266216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279164</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_027&gt;</VoiceId>
       <JapaneseText>じゃ、ま、一旦、
 かいさーんってことで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll follow suit and go take a rest myself!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
-      <OldPtr>266888</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279232</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_028&gt;</VoiceId>
       <JapaneseText>おう、また後で</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok! See you later, then!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <OldPtr>267524</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

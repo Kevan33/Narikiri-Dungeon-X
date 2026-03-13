@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42876,43060,43264,43464,43620,43860</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42948,43360,43528</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43148,43708,43772</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,142 +34,127 @@
       <VoiceId>&lt;audio:VCT_002_045_001&gt;</VoiceId>
       <JapaneseText>エト、この文字のこことここ、
 これ、どういう意味？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto, what does this letter mean?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42952</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_002&gt;</VoiceId>
       <JapaneseText>え？　なに、この字？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? What's this character?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43064</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_003&gt;</VoiceId>
       <JapaneseText>マクスウェルのところにあった
 石盤の文字。メモっといたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've written down the letters from Maxwell's lithograph back when we met him.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43152</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_004&gt;</VoiceId>
       <JapaneseText>そんなん勉強してどんな得になんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you trying to do studying that?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38304</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43268</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_005&gt;</VoiceId>
       <JapaneseText>わかんないけど……勉強しておけば、
 いつか役に立つかもしれないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not sure yet but...No research can do any bad!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38748</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43364</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_006&gt;</VoiceId>
       <JapaneseText>読めない、けど……
 こんな文字だったっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't read it...is this actually a letter?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43468</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_007&gt;</VoiceId>
       <JapaneseText>あれ？　どこか間違ってる？
 じゃあ、こっちの文字は？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way! Did I write it wrong? Then what about this one?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43532</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_008&gt;</VoiceId>
       <JapaneseText>さぁ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, um...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40184</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43624</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_009&gt;</VoiceId>
       <JapaneseText>あれ？　やっぱり、
 写し間違えたのかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew it, I copied them wrong.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43712</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_010&gt;</VoiceId>
       <JapaneseText>字が汚くて読めないだけじゃないのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course! It was unreadable because they were only scribbles!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41116</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43776</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_011&gt;</VoiceId>
       <JapaneseText>いてっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43864</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_045_012&gt;</VoiceId>
       <JapaneseText>汚いんじゃなくて、
 タッピツなの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're not scribbles! It's called "speedy writing"!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

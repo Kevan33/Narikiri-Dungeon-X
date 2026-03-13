@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43436,44036,44224</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43504,43644,43776,43964</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43572,43708,43892,44140</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,128 +34,114 @@
       <VoiceId>&lt;audio:VCT_003_086_001&gt;</VoiceId>
       <JapaneseText>街もないし、人もいない……
 なんか気味が悪いね、暗黒時空って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are no towns or people... I sense a strong feeling of enmity everywhere... So this is the Darkened Time-Space...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43508</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_002&gt;</VoiceId>
       <JapaneseText>真っ暗だしな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so damn pitch-black everywhere...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37760</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43576</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_003&gt;</VoiceId>
       <JapaneseText>暗いの、怖いの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you scared of the dark?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43648</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_004&gt;</VoiceId>
       <JapaneseText>怖くなんてねーよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not scared!!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38524</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43712</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_005&gt;</VoiceId>
       <JapaneseText>うふふ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43780</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_006&gt;</VoiceId>
       <JapaneseText>な、なんだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's so funny?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43896</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_007&gt;</VoiceId>
       <JapaneseText>夜中に一人じゃトイレに行けない
 って言ってたのを思い出しちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just remembered when you couldn't go to the bathroom by yourself at night.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43968</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_008&gt;</VoiceId>
       <JapaneseText>メ、&lt;Mel&gt;だろ、それ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>T-that was &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44040</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_009&gt;</VoiceId>
       <JapaneseText>わたしじゃないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No it wasn't!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41324</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44144</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_010&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;は暗くなると興奮して
 寝つけなかった方だもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt; couldn't sleep at night sometimes because she'd be too agitated.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44228</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_086_011&gt;</VoiceId>
       <JapaneseText>え？　え？
 そ、そうだったかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-what!? That can't be true!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

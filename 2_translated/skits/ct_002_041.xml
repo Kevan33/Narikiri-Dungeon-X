@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>42576</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42676,43216</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42764,43108,43328</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42884,42992,43444</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,110 +41,98 @@
       <PointerOffset>42580</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_001&gt;</VoiceId>
       <JapaneseText>ぼく妖精じゃないのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems after all, I'm not a fairy...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42680</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_002&gt;</VoiceId>
       <JapaneseText>オレも妖精ってのは
 初めてだからよくわからないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Honestly, I didn't believe it when you said you were a fairy at first.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37696</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42768</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_003&gt;</VoiceId>
       <JapaneseText>さっきの子が妖精じゃなかったのかも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't be sure if that small creature just now was a fairy, either...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37928</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42888</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_004&gt;</VoiceId>
       <JapaneseText>大体、妖精なんて伝説だけで、誰も見た時ねんだろ？
 本に書いてあったぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Generally fairies are considered stuff from legends. I mean no one has really seen one, have they? I've read that in a book once.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38164</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42996</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_005&gt;</VoiceId>
       <JapaneseText>人よりちっこくて、羽根が生えてるってしか
 わかんないって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apart from being small human-like things with wings not much else is known.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38568</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43112</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_006&gt;</VoiceId>
       <JapaneseText>じゃあ、小さくて羽根があったら、
 全部妖精に当てはまるってこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then any creature with small wings is considered a fairy?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43220</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_007&gt;</VoiceId>
       <JapaneseText>それって妖精って結局、
 何なのかわかんないってことだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To me it sounds we don't know the first thing of what a "fairy" really is.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43332</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_008&gt;</VoiceId>
       <JapaneseText>じゃあ、エトもさっきの子も
 妖精じゃない可能性があるんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then...there's a chance what that creature said was true...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40968</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43448</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_041_009&gt;</VoiceId>
       <JapaneseText>だから、エトが妖精じゃなくても
 何も変わんないって、言ってんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, as I said before, it doesn't really change a thing if Eto is or not a fairy.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41372</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>43608,43788,44016,44248,44436,44508</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43700,43916,44144,44320,44636</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -25,131 +25,123 @@
       <PointerOffset>43612</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_001&gt;</VoiceId>
       <JapaneseText>なんだ、さっきの料理人みてーなの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What was up with that cook?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43704</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_002&gt;</VoiceId>
       <JapaneseText>びっくりした……爆発したかと思っちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That scared me...I thought they 
+were going to explode.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43792</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_003&gt;</VoiceId>
       <JapaneseText>『素晴らしき青空の』……なんだっけ？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>"Wonderful blue"...what was it again?</EnglishText>
+      <Notes>IS THIS A REBIRTH REFERENCE</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37788</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43920</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_004&gt;</VoiceId>
       <JapaneseText>『すばらしき味の世界』だって。
 それってこの世界と違う別の世界ってことかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Wonderful world of flavors". They might 
+be from a world outside ours.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44020</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_005&gt;</VoiceId>
       <JapaneseText>んなもんねーよ。
 ただの集まりだろ。料理同好会</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ain't no way...It's probably just a group or a 
+Cooking Association or something.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44148</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_006&gt;</VoiceId>
       <JapaneseText>そう、なのかな？　後、あの変身っていうか
 変装っていうか、擬態っていうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you really think so? With that transformation...
+disguise...or would camouflage fit better?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44252</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_007&gt;</VoiceId>
       <JapaneseText>そうだ！　あれ、なんだよ？
 いろいろおかしくないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh I know! That was...what was it?
+It's super suspicious, wasn't it?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40728</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44324</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_008&gt;</VoiceId>
       <JapaneseText>魔法……なのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it was magic...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44440</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_009&gt;</VoiceId>
       <JapaneseText>そうだとしてもさ……
 アレ、誰にも見つからなかったらどーすんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even so...What would they do if no one found them?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41728</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44512</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_010&gt;</VoiceId>
       <JapaneseText>かなり悲惨だぞ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't it kind of sad?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44640</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_191_011&gt;</VoiceId>
       <JapaneseText>わからないことだらけだね……
 まさに謎のシェフ……ワンダー……シェフ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's a lot we don't know about them...
+Truly a mysterious chef...A wonder... chef...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42420</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>293732,293984,294308,294564,294848,295028</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293828</PointerOffset>
       <JapaneseText>仮面の女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Masked Girl</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293892</PointerOffset>
       <JapaneseText>仮面の男</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Masked Guy</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294080,294368</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294196,294916</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,71 +89,67 @@
       <PointerOffset>293736</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_001&gt;</VoiceId>
       <JapaneseText>そ、そんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What have you done...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293832</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_002&gt;</VoiceId>
       <JapaneseText>これであなたたちは
 元の時代には戻れない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With this, now you'll never return
+to your original timeline.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278652</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293896</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_003&gt;</VoiceId>
       <JapaneseText>ふん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>278792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293988</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_004&gt;</VoiceId>
       <JapaneseText>待て！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, wait!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>279268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293988</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_005&gt;</VoiceId>
       <JapaneseText>……くそっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Crap!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>279268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294084</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_006&gt;</VoiceId>
       <JapaneseText>帰れなくなっちゃった……
 どうしよ、エト……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we can't return, we can't stop the
+Prism Ring...! What should we do, Eto!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>280428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294200</PointerOffset>
@@ -161,12 +157,13 @@
       <JapaneseText>……どうしようっても、
 なんか元の時間に戻る
 方法を考えないと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, uhm... If we can't return with the paintings,
+there might be some other way to travel
+through time. But nothing comes to mind...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <OldPtr>280864</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294312</PointerOffset>
@@ -174,97 +171,95 @@
       <JapaneseText>なんだよ、
 あんなえらそーなこと
 言った後にいきなり弱気だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right after that big speech about
+fear and stuff, now you act all
+weak? C'mon, &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>281340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294372</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_009&gt;</VoiceId>
       <JapaneseText>だって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, what can we do...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>281696</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294568</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_010&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんたちなら、
 いい方法を教えてくれっかも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm pretty sure Mister &lt;Cless&gt; knows of
+another way to travel through time.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>282084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294568</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_011&gt;</VoiceId>
       <JapaneseText>だって、時空戦士なんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They aren't called the Heroes
+of Time for nothing!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>282084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294568</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_012&gt;</VoiceId>
       <JapaneseText>時間転移の方法くらい
 知ってるって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If anyone knows how to
+travel through time is them!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>282084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294852</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_015&gt;</VoiceId>
       <JapaneseText>で、それ聞いたらもっぺん、
 マクスウェルんとこ行こーぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once we get that done, we
+should go pay Maxwell a visit.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>282528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294852</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_016&gt;</VoiceId>
       <JapaneseText>で、いいだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds good to me. Any objections?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>282528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294920</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_050_017&gt;</VoiceId>
       <JapaneseText>え？　あ、うん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? Well, I guess...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
-      <OldPtr>282996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295032</PointerOffset>
@@ -272,12 +267,12 @@
       <JapaneseText>あと……その、ゴメン……
 オレ、いじけて……
 メーワクかけて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And...uh...well... I'm sorry for
+being all depressed back there.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <OldPtr>283720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

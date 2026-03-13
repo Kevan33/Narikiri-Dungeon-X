@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>46892,47504,47740,48012</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46988,48104</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47052</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47164,47348</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47252,47596,47864</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -49,141 +49,132 @@
       <PointerOffset>46896</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_001&gt;</VoiceId>
       <JapaneseText>やーっぱり、&lt;Mel&gt;&lt;Mel&gt;のご飯が一番おいしいだぁな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As I thought, &lt;Mel&gt;'s meals really are the best~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46992</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_002&gt;</VoiceId>
       <JapaneseText>ほんと、ほんと、どんどん美味しくなってるよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Truly, truly, it seems to improve with every meal we have.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47056</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_003&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cooloor!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47168</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_004&gt;</VoiceId>
       <JapaneseText>そ、そうかな？　まだまだおかわりあるから、
 どんどん食べてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-Do you really think so? Well, there's still a lot left
+so please help yourselves!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47256</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_005&gt;</VoiceId>
       <JapaneseText>……ちょい野菜多すぎじゃねーか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, isn't there TOO much veggies in here?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39736</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47352</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_006&gt;</VoiceId>
       <JapaneseText>そういうこと言う人は、食べなくてもいいから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you don't like it then just don't eat it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47508</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_007&gt;</VoiceId>
       <JapaneseText>んだ、んだ。おめぇは、食わんでもええだーよ。
 その分おらが、&lt;Mel&gt;&lt;Mel&gt;の手料理ぜーんぶたいらげるだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's right! You don't have to eat if you don't like the food!
+I can just help myself to your portion of &lt;Mel&gt;'s home-cooking~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47600</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_008&gt;</VoiceId>
       <JapaneseText>てめぇはタンスのくせに食いすぎなんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't you eating a WAY TOO MUCH?
+You're a wardrobe!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47744</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_009&gt;</VoiceId>
       <JapaneseText>へっへ～ん、野菜嫌いのお子ちゃまが、吠えてるだぁ。
 そんなおめぇには、これで十分だーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heheh...Bark all you want you veggie-hating youth.
+With how scrawny you are, this isn't even enough!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42188</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47868</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_010&gt;</VoiceId>
       <JapaneseText>な、てめぇ！　オレの肉、全部取りやがったな！
 返せ！　このタンス野郎！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-You took all my meat! Give that back you
+enlarged-furniture!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43568</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48016</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_011&gt;</VoiceId>
       <JapaneseText>肉の代わりに、たーっぷり野菜を入れてやっただど。
 腹が減ってるなら、それを食えばええだ～よ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you crying for, lad? I just swapped the meat
+with vegetables. Just eat that if you're hungry.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>44388</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48108</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_195_012&gt;</VoiceId>
       <JapaneseText>まったく食事時まで喧嘩するんだかラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Goodness, even during mealtime...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>45956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

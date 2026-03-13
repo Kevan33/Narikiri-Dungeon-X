@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>269868,270116,270300</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269940,270208</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270032,270368,270448</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,94 +73,91 @@
       <PointerOffset>269872</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_001&gt;</VoiceId>
       <JapaneseText>朝だよ、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's morning, &lt;Suzu&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269944</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_002&gt;</VoiceId>
       <JapaneseText>おはよ、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mornin', &lt;Suzu&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258628</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270036</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_003&gt;</VoiceId>
       <JapaneseText>今のは……夢……？
 ああ……そうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this...my dream...?
+Ahh...That is right...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270120</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_004&gt;</VoiceId>
       <JapaneseText>どうしたの？
 まだ寝ぼけてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you mumbling? Oh,
+so you're still half-asleep!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270212</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_005&gt;</VoiceId>
       <JapaneseText>顔洗ってこいよ、
 ボケボケしてないでさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time to wash your face, then!
+No sleepyheads allowed!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259584</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270304</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_006&gt;</VoiceId>
       <JapaneseText>朝ご飯を食べたら、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;行くよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll eat some breakfast,
+then go to &lt;Red&gt;Valhalla&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270372</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_007&gt;</VoiceId>
       <JapaneseText>……わかりました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270452</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_030_008&gt;</VoiceId>
       <JapaneseText>夢だったのですね、
 全部……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is just a dream...
+All of it...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

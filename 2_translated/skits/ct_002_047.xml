@@ -13,34 +13,34 @@
     <Entry>
       <PointerOffset>51912,52124,52376,52480,52620,53092</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>52004,52240,52708,52796</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>52888</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>52952</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,154 +50,138 @@
       <VoiceId>&lt;audio:VCT_002_047_001&gt;</VoiceId>
       <JapaneseText>うわ！
 きゃっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woah!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51916</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_003&gt;</VoiceId>
       <JapaneseText>はい、は～い！　はじめまして『ミーたま』∀
 おらアルベルトだど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, heya, hi! A pleasure you meet you, Miss &lt;Mint&gt;y! My name's the great Albert!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>39168</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52008</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_004&gt;</VoiceId>
       <JapaneseText>は、はじめまして……アルベルト……さん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-nice to meet you too...Mr...Albert?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>40984</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52128</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_005&gt;</VoiceId>
       <JapaneseText>んな、緊張せんでもええだーよ。
 それともカマトトぶってるだか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh please don't be so tense! Your innocent act won't work with me, you know!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>41540</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52244</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_006&gt;</VoiceId>
       <JapaneseText>か、かまとと、ですか？
 それは、いったい、なんなのでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-innocent act, you say? I-I wonder what exactly you hope to mean with those words.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>43440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52380</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_007&gt;</VoiceId>
       <JapaneseText>知らぬが仏ってこともあるだ。
 それより、ミーたま、そこの野暮天と恋仲なんだか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are things better left unsaid... So Miss &lt;Mint&gt;y, this pushover here is your lover or what?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>44056</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_008&gt;</VoiceId>
       <JapaneseText>あーあー、もうええだ！　それだけで腹一杯だーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can see it in your eyes. It's frankly absolutely revolting.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>45904</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52624</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_009&gt;</VoiceId>
       <JapaneseText>だども、そのひらひらマント野郎に飽きた
 っちゅー時には、いつでもおらんとこに来るだど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In any case if you ever get tired of this flickering mantle weirdo I'll always be available.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>46472</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52712</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_010&gt;</VoiceId>
       <JapaneseText>ク、&lt;Cless&gt;さんに飽きるなんて……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Me getting tired of &lt;Cless&gt;, you say...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>47348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52800</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_011&gt;</VoiceId>
       <JapaneseText>……わ、私、絶対にありませんから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I'm afraid that'll never happen.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>47804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52892</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_012&gt;</VoiceId>
       <JapaneseText>……&lt;Mint&gt;……
 僕だって、そう、だよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;... That's right! I feel the same way!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <OldPtr>48424</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52956</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_013&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <OldPtr>49684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53096</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_014&gt;</VoiceId>
       <JapaneseText>さっきっから、おらがイチャイチャを促してるだか？
 あ～？　んなの、やってらんねーだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flirting in public? There's no hope for the youth, I'm afraid.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>50240</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

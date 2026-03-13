@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>273576,273756,273956,274044,274596,274944,275468,275656,275820,275992</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273680,273844,274348,274784,275112,275572,275724,275928</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -67,12 +67,12 @@
       <JapaneseText>こうして、
 ふたりきりで会うのって
 久しぶり、だね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's been some time since we've
+been alone, hasn't it...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273684</PointerOffset>
@@ -80,96 +80,90 @@
       <JapaneseText>ダオスと戦う前……
 アーリィでお話して以来、
 ですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We haven't talked like this since the
+night before Dhaos's fight in Arlee... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273760</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_002&gt;</VoiceId>
       <JapaneseText>えっと……そう、だっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...It's been...that long?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>258920</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273848</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_003&gt;</VoiceId>
       <JapaneseText>あれから……１年半も
 経ったんですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One year has passed since...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259188</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273960</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_004&gt;</VoiceId>
       <JapaneseText>１年半……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One year...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273960</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_005&gt;</VoiceId>
       <JapaneseText>……そうか。
 もうそんなに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's right...regrettably...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274048</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_006&gt;</VoiceId>
       <JapaneseText>僕たち、本当に
 これでいいのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are we really okay being like this?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>259712</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274352</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_010&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さん……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...&lt;Cless&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274600</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_011&gt;</VoiceId>
       <JapaneseText>戦ってる時は
 無我夢中だった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When we were fighting, I
+got selfishly absorbed in...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274600</PointerOffset>
@@ -177,13 +171,13 @@
       <JapaneseText>父さんたちの仇を取りたい、
 使命を引き継ぎたいって
 ずっと思ってた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After father died, my mission
+was all I could ever think of. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274600</PointerOffset>
@@ -191,13 +185,14 @@
       <JapaneseText>なのに、終わってみれば、
 世界を救った英雄として、
 まつりあげられて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And once everything was finally
+over, the world branded me a 
+hero" for some reason.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>260152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274788</PointerOffset>
@@ -205,13 +200,13 @@
       <JapaneseText>……&lt;Cless&gt;さんは、
 英雄として、人々のために
 がんばってます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...&lt;Cless&gt;, as a hero, you tried
+your best for countless people. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260476</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274788</PointerOffset>
@@ -219,25 +214,24 @@
       <JapaneseText>私は……本当に
 皆さんのご期待に
 添えているのでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I...wonder...Am I honestly
+helping people?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260476</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274948</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_016&gt;</VoiceId>
       <JapaneseText>何言ってるんだ、&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you saying, &lt;Mint&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261552</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274948</PointerOffset>
@@ -245,13 +239,14 @@
       <JapaneseText>君は十分にみんなの声を
 聞いてるし、みんなに
 喜ばれてるじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You listen to people's problems
+and heal them. Aren't you
+satisfied with that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261552</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275116</PointerOffset>
@@ -259,37 +254,37 @@
       <JapaneseText>……確かに法術師の力を
 使えば、皆さんの体を
 治すことはできます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I can certaintly heal people's
+wounds, thanks to my use of 
+the Divine Power.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275116</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_019&gt;</VoiceId>
       <JapaneseText>でも、人の心までは
 治せないんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, people's hearts can't
+simply be healed with spells.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275472</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_023&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <OldPtr>262280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275576</PointerOffset>
@@ -297,47 +292,45 @@
       <JapaneseText>&lt;Cless&gt;さんの
 心ひとつだって……
 私には治せない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To begin with, I can't even repair
+the damage done to your heart...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <OldPtr>262420</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275660</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_025&gt;</VoiceId>
       <JapaneseText>そんな……僕は
 君さえいれば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's...not true! I'll always have you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <OldPtr>262792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275728</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_026&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;, that's...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <OldPtr>263160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275824</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_027&gt;</VoiceId>
       <JapaneseText>……僕たちはどこへ
 流されていくんだろう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I really wonder...where the world
+will brush us away to... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <OldPtr>263356</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275932</PointerOffset>
@@ -345,23 +338,23 @@
       <JapaneseText>どこへだって……
 &lt;Cless&gt;さんと一緒なら
 ……私は平気ですよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It doesn't matter where we end up
+or how bad it gets...As long as I'm
+with you, I'll be all right.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <OldPtr>263608</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275996</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_060_029&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <OldPtr>263872</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

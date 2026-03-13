@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>271268,271500,271660</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271332,271592</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271424,271992</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,46 +73,42 @@
       <PointerOffset>271272</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_001&gt;</VoiceId>
       <JapaneseText>着いたか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did we...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259560</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271336</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_002&gt;</VoiceId>
       <JapaneseText>かな……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Make it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271428</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_003&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;トーティス村&lt;White&gt;に
 行くんだったよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Should we head to &lt;Red&gt;Totus village&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271504</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_004&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;に会えんだよな♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll get to meet with &lt;Cless&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>260516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271596</PointerOffset>
@@ -120,35 +116,33 @@
       <JapaneseText>&lt;Dio&gt;。
 遊びに来てるんじゃ
 ないんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! We aren't here to play around!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>260980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271664</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_006&gt;</VoiceId>
       <JapaneseText>わかってるって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, yeah!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>261520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271996</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_010_010&gt;</VoiceId>
       <JapaneseText>じゃ、行こう。
 &lt;Red&gt;ユークリッド&lt;White&gt;の南だったよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then, let's get going. &lt;Red&gt;Totus&lt;White&gt;
+should be south of Euclid. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>261840</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

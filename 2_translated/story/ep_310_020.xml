@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>289344</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -66,23 +66,21 @@
       <VoiceId>&lt;audio:VSM_310_020_001&gt;</VoiceId>
       <JapaneseText>おまえたちは
 ダオス様には会えぬ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You will not reach Lord Dhaos!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>279352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289348</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_020_002&gt;</VoiceId>
       <JapaneseText>なんだと！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What did you say!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>279492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289452</PointerOffset>
@@ -90,12 +88,11 @@
       <JapaneseText>なぜなら、
 おまえたちは、
 ここで死ぬからだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because this is where you shall die!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>279632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

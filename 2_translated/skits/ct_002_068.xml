@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>50076,50440,50596,50816</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50184,50364,50740,51000,51168</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50296,50920</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50528</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>51072</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,153 +50,137 @@
       <VoiceId>&lt;audio:VCT_002_068_001&gt;</VoiceId>
       <JapaneseText>うーん、ここからの風景、絵にしたら、
 いい感じになるな、たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh! Such beautiful scenery really inspires me to paint something real nice!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37444</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50188</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_002&gt;</VoiceId>
       <JapaneseText>絵？　芸術的センスゼロのおまえが
 絵なんか描いてるのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A painting? You're kidding me, right? Your artistic sense is as dead as that raw fish over there.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50300</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_003&gt;</VoiceId>
       <JapaneseText>センスゼロなんて、&lt;Arche&gt;さんの絵、
 情熱的でステキですよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She has skill! &lt;Arche&gt;'s paintings are dreamy, deep and passionate!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50368</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_004&gt;</VoiceId>
       <JapaneseText>そ、そうなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...R-really?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>40080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50444</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_005&gt;</VoiceId>
       <JapaneseText>そうそう♪　ね、&lt;Dio&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, you've got no idea! Right, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50532</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_006&gt;</VoiceId>
       <JapaneseText>え……？　あ、んんん……
 う～ん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, err...Mmm...Uhm...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40816</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50600</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_007&gt;</VoiceId>
       <JapaneseText>何、その反応！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's that reaction supposed to mean!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41744</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50744</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_008&gt;</VoiceId>
       <JapaneseText>ははっ、なんかその反応、逆に興味湧いたな。
 その情熱的にステキでビミョーな絵、見せてくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha...Now you see that's one reaction that comes from the heart. Such dreamy, deep and definitely passionate painting must have simply made our poor &lt;Dio&gt; awe in its beauty.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>43008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50820</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_009&gt;</VoiceId>
       <JapaneseText>何よ！　&lt;Chester&gt;のバカっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What does all of that mean!? &lt;Chester&gt; you idiot!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>45032</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50924</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_010&gt;</VoiceId>
       <JapaneseText>あ、&lt;Arche&gt;さん……！
 もう……&lt;Chester&gt;さんのバカっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A-ah! Miss &lt;Arche&gt;! Mister Ch-&lt;Chester&gt; you idiot!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>45956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51004</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_011&gt;</VoiceId>
       <JapaneseText>あ、おいっ！　なんだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-hey...Man that hurt...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>47232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51076</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_012&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;のおバカさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;, you lovable idiot!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <OldPtr>47876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51172</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_068_013&gt;</VoiceId>
       <JapaneseText>な、なんだよ、&lt;Rody&gt;まで……！
 くそっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why is even &lt;Rody&gt;...!? Well, crap.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>48868</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

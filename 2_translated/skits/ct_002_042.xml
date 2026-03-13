@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>44136,44316,44520,44696,44892</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44244,44412,44796,44972</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44596</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,120 +34,107 @@
       <VoiceId>&lt;audio:VCT_002_042_001&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;さんって、
 弓を使った攻撃がお上手なんですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm impressed Mister &lt;Chester&gt;! Your skill with the bow is excellent!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44248</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_002&gt;</VoiceId>
       <JapaneseText>ああ、まぁな。
 それから、オレのことは&lt;Chester&gt;でいいぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, thanks. About that, please just call me "&lt;Chester&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37356</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44320</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_003&gt;</VoiceId>
       <JapaneseText>あ、わ、わかりました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-understood!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37928</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44416</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_004&gt;</VoiceId>
       <JapaneseText>それからその敬語じゃなくて、
 フツーで頼む</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Again, don't be so polite all the time. Lighten up a bit.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44524</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_005&gt;</VoiceId>
       <JapaneseText>あ、は、はい、わかりまし……
 わかる……わかったわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-yes, undertoo—G-Got it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44600</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_006&gt;</VoiceId>
       <JapaneseText>……何やってんだ、&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatcha doing, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44700</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_007&gt;</VoiceId>
       <JapaneseText>こ、こんな感じで
 い、いいのかな……&lt;Chester&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is t-this okay, &lt;Chester&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40620</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44800</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_008&gt;</VoiceId>
       <JapaneseText>ふふん、いい感じだ。
 そんな感じでお願いするよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahaha. Yes it's great. Please speak like that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41872</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44896</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_009&gt;</VoiceId>
       <JapaneseText>わ、わかりました、&lt;Chester&gt;さん……
 あっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood, Mister &lt;Chester&gt;—Oh.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44976</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_010&gt;</VoiceId>
       <JapaneseText>ま……無理することはないさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, well. There's no use to it, is there?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43248</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

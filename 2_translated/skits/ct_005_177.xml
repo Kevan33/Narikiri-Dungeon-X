@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>40804,41020,41152</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>40876,41216</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>40952</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,71 +34,64 @@
       <VoiceId>&lt;audio:VCT_005_177_001&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、たまにはお肉とかお魚料理以外も
 食べたいのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, &lt;Dio&gt;, I wanna eat something other than meat
+or fish.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40880</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_002&gt;</VoiceId>
       <JapaneseText>オレは肉が食いたいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I only want to eat meat dishes!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37732</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40956</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_003&gt;</VoiceId>
       <JapaneseText>好き嫌いは体によくないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, being picky isn't good for your body.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38276</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41024</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_004&gt;</VoiceId>
       <JapaneseText>もうお肉飽きた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh, I'm already sick of meat!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38444</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41156</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_005&gt;</VoiceId>
       <JapaneseText>お肉ばっか食べてる&lt;Dio&gt;なんて、ハゲワシか
 イソギンチャクになっちゃえばいいんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You always eat meat, &lt;Dio&gt;! It'd be better if
+you were a vulture or an anemone!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41220</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_177_006&gt;</VoiceId>
       <JapaneseText>なんないって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, that'd never happen!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

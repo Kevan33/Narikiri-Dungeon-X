@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>290556</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>290656</PointerOffset>
       <JapaneseText>イフリート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>290780</PointerOffset>
       <JapaneseText>ウンディーネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Undine</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>290848</PointerOffset>
       <JapaneseText>ノーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gnome</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>290920,290984</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>291140</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -97,24 +97,23 @@
       <PointerOffset>290560</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_009&gt;</VoiceId>
       <JapaneseText>ダメ、なの……！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It...didn't...work!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278304</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290660</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_010&gt;</VoiceId>
       <JapaneseText>精霊晶核の身の我らは
 あまりにも脆弱すぎる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We could manifest the Atomism Cores properly.
+However, our powers proved too weak!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290784</PointerOffset>
@@ -122,57 +121,53 @@
       <JapaneseText>精霊晶核を操るに足る
 それなりの魔法の素地を
 持った術者が必要じゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our Atomism Core manipulation was insufficient.
+We need the Lord of the Four Elements!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>278656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290852</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_012&gt;</VoiceId>
       <JapaneseText>術者を探すのら～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's impossible without hiiiim!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>278796</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290924</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_013&gt;</VoiceId>
       <JapaneseText>術者ったって……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lord of the what...!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <OldPtr>279084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290988</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_014&gt;</VoiceId>
       <JapaneseText>うわっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woaah!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>279944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291144</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_030_016&gt;</VoiceId>
       <JapaneseText>ここは危ないよ！
 とにかく逃げよう……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's too dangerous around here! Let's get away!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <OldPtr>280440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

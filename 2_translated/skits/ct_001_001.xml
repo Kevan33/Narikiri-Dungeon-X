@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>44856,45036,45200,45656</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44936,45104,45464,45580</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45276,45396</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,118 +34,105 @@
       <VoiceId>&lt;audio:VCT_001_001_001&gt;</VoiceId>
       <JapaneseText>ちょっと&lt;Dio&gt;、
 バタバタしないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! &lt;Dio&gt;, stop making a racket! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37612</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44940</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_002&gt;</VoiceId>
       <JapaneseText>妹が、兄貴に命令すんなよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Little sisters shouldn't order their older brothers around!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38484</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45040</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_003&gt;</VoiceId>
       <JapaneseText>何言ってんの？
 私がお姉ちゃん、&lt;Dio&gt;は弟でしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about? I'm the big sister and you're the little brother!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45108</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_004&gt;</VoiceId>
       <JapaneseText>オレの方が上だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah right! I'm older than you!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39648</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45204</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_005&gt;</VoiceId>
       <JapaneseText>もう……エトぉ！
 お姉ちゃんはわたしだよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unnngh! Eto! I'm the older one, right!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45280</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_006&gt;</VoiceId>
       <JapaneseText>だから、わかんないってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I already told you, I have no clue.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41056</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45400</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_007&gt;</VoiceId>
       <JapaneseText>ふたり一緒にぼくんとこに来たんだって。
 前から何度も言ってるでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've been over this countless times that I got you both of you at the same time.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45468</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_008&gt;</VoiceId>
       <JapaneseText>んだよ、もう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's how it is, huh...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42096</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45584</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_009&gt;</VoiceId>
       <JapaneseText>よーし！　今日こそ虫とり対決で、
 白黒はっきりつけるぞ、&lt;Mel&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's it! We'll settle this once and for all with a bug catching competition, &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45660</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_001_010&gt;</VoiceId>
       <JapaneseText>もうっ！　お子ちゃまっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh! He's such a brat!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

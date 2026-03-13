@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>297012,297312</PointerOffset>
       <JapaneseText>仮面の男</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Masked Guy</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297084,297248</PointerOffset>
       <JapaneseText>浅緑の生き物</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Green Colored Thing</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297176,297404,297604,297796,297984,298140</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297484</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>289536,289774,289839,289875,289946,290012,290051,290127,290198,290264,290275,290393,290479,290560,290636,290707,290773,290784,290953,290986,290997,291112,291222,291233,291360,291403,291588,292352,292363,292518,292626,292800,292876,292974,293080,293146,293199,293313,293510,293752,293817,293882,293947,294621,294962,295163,297708,297900</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -81,12 +81,11 @@
       <PointerOffset>297016</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_017&gt;</VoiceId>
       <JapaneseText>行け！　すべて壊せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come! Kill everything! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297088</PointerOffset>
@@ -96,7 +95,6 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278828</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,83 +102,76 @@
       <VoiceId>&lt;audio:VSM_020_030_019&gt;</VoiceId>
       <JapaneseText>わぷ……！
 お、おまえ、だいじょーぶか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa! H-Hey, you ok? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>280656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297252</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_020&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>280812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297316</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_021&gt;</VoiceId>
       <JapaneseText>来たか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you came... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>280952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297408</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_022&gt;</VoiceId>
       <JapaneseText>あの仮面ヤローか、
 こいつ操ってんの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that masked clown controlling the monsters? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>281092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297488</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_023&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！
 また無茶して……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! This is very dangerous...! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>281600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297608</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_024&gt;</VoiceId>
       <JapaneseText>無茶かどーか、
 試してみよーぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if it is, we gotta give it a shot! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>281844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297608</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_025&gt;</VoiceId>
       <JapaneseText>出でよ、タンス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come forth, O dresser! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>281844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297712</PointerOffset>
@@ -188,24 +179,22 @@
       <JapaneseText>ぐっ、おめぇ、
 またタンスって
 いいやがっただな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I told you to cut it off with the "dresser" thing already! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>282588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297800</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_027&gt;</VoiceId>
       <JapaneseText>いーから！
 今ある服、出してくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now's not the time! We really need your help! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>283060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297904</PointerOffset>
@@ -213,35 +202,34 @@
       <JapaneseText>だぁ～～！
 ま、魔物がいるべ！
 さっさと着替えれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Daaah! M-Monsters! Quickly, it's
+time to change your clothes! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <OldPtr>283528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297988</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_029&gt;</VoiceId>
       <JapaneseText>よし！　行くぞ、
 変身の合言葉！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right! Here we go, it's time for
+our transformation's catchphrase! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>284540</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298144</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_031&gt;</VoiceId>
       <JapaneseText>なりきり！　クロぉスシフトっ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Roleplayer! Cross Shift! </EnglishText>
+      <Notes>Review. Narikiri?</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <OldPtr>284912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

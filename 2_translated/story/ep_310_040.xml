@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>269600</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269684,269972</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269748,270180</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269868</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,35 +82,32 @@
       <VoiceId>&lt;audio:VSM_310_040_001&gt;</VoiceId>
       <JapaneseText>これは……
 デリス・カーラーンの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is...Derris Kharlan's...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259124</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269688</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_002&gt;</VoiceId>
       <JapaneseText>あの戦争での
 ダオスの記憶……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He was pondering over the facts of the war...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269752</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_003&gt;</VoiceId>
       <JapaneseText>ダオス……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259404</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269872</PointerOffset>
@@ -118,12 +115,13 @@
       <JapaneseText>そして、パレスグドラは……
 ……わたしたちは、
 魔科学兵器を使ったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And then...his suspicions became
+reality... When Palace Gudora–we
+used the Mana Cannon...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269976</PointerOffset>
@@ -131,62 +129,62 @@
       <JapaneseText>ダオスも苦しんでた。
 ただ、戦争を
 見てただけじゃない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos was suffering too. But,
+he was just analyzing the war.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_006&gt;</VoiceId>
       <JapaneseText>違うよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259984</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_007&gt;</VoiceId>
       <JapaneseText>ただ見てただけなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He had to stay calm and analyze
+the war for his people.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259984</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_008&gt;</VoiceId>
       <JapaneseText>だからこそ、
 彼は苦しんだんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not being able to think of other
+actions ate away at him...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>259984</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_040_009&gt;</VoiceId>
       <JapaneseText>見てただけの罪を
 彼は背負い続けてきた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He was burdened with the sin
+of just observing and forever
+cursed himself for his inaction...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>259984</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

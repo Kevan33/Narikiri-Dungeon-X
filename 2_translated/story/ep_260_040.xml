@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>292964,293208</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293132</PointerOffset>
@@ -21,18 +21,18 @@
     <Entry>
       <PointerOffset>293292</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293380</PointerOffset>
       <JapaneseText>フラムベルク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flamberge</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,72 +82,71 @@
       <VoiceId>&lt;audio:VSM_260_040_001&gt;</VoiceId>
       <JapaneseText>うわっ……っと、おまえ……
 あいつらの仲間か！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woah! ...Are you friends
+with those circus freaks!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>280712</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293136</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_002&gt;</VoiceId>
       <JapaneseText>我が名はフラムベルク、
 この塔の守護者</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am Flamberge, the protector
+of this tower.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>282040</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293136</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_003&gt;</VoiceId>
       <JapaneseText>『不燃の古木』を奪った
 貴様らの罪、我が剣にて裁く！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You who have stolen away the
+"Unburnable Tree" shall be judged
+for your sin by this sword!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>282040</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293212</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_004&gt;</VoiceId>
       <JapaneseText>ちょっ……な、何を……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wai...Wh-WHAT...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>282384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293296</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_005&gt;</VoiceId>
       <JapaneseText>それはわたしたちじゃありません！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We aren't the ones you seek!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>282580</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293384</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_006&gt;</VoiceId>
       <JapaneseText>言い訳は無用！
 死ぬがいい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your excuses are worthless!
+Prepare to die!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>282720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

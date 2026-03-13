@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>44712,44896</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44820,45200,45272,45348</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45004,45108</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45444</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,107 +41,98 @@
       <PointerOffset>44716</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_001&gt;</VoiceId>
       <JapaneseText>はぐはぐはぐ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Omnomnomnomnom</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37572</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44824</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_002&gt;</VoiceId>
       <JapaneseText>また食ってんのか、おまえ。
 さっき昼飯食ったばっかだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're eating again? We just 
+had lunch, didn't we?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44900</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_003&gt;</VoiceId>
       <JapaneseText>これはデザートなの、ね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Duh! This is dessert! Right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45008</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_004&gt;</VoiceId>
       <JapaneseText>そうそう、甘いものはお昼ご飯とは
 別のところに入るんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Exactly! Dessert goes into a different stomach.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45112</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_005&gt;</VoiceId>
       <JapaneseText>だから、少しくらいおなかいっぱいでも
 食べられるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why we can always eat dessert
+even after we're full.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45204</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_006&gt;</VoiceId>
       <JapaneseText>食えるとか食えないとかってよりさあ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Erm... being able to eat it or not aside...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41408</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45276</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_007&gt;</VoiceId>
       <JapaneseText>……また体重増えるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'll end up gaining even more weight, y'know.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45352</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_008&gt;</VoiceId>
       <JapaneseText>……あ、いってぇ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Agh! Owww...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42000</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45448</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_175_009&gt;</VoiceId>
       <JapaneseText>だから、それは繊細な乙女には
 禁句だってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Again, this is a taboo topic
+for delicate young ladies.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>43660</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>40552,40656,40740,40868,40960,41048,41140,41216</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -18,97 +18,86 @@
       <VoiceId>&lt;audio:VCT_002_081_001&gt;</VoiceId>
       <JapaneseText>……『音』の精霊って
 何ができるのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I'm the Spirit of Sound...what kind of abilities do I possess?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40660</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_002&gt;</VoiceId>
       <JapaneseText>『音』を操ったり……？
 でも、ぼく音痴なんだけド……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He said I can manipulate sound but...I've never composed music...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37252</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40744</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_003&gt;</VoiceId>
       <JapaneseText>あ、記憶が封印されてるからかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh! Maybe I lost my powers along my memories?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40872</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_004&gt;</VoiceId>
       <JapaneseText>歌が上手くなったら、&lt;Dio&gt;と&lt;Mel&gt;に
 すてきな子守唄を歌ってあげられるかも♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I re-learn my latent musical ability, maybe I can create a nice lullaby for &lt;Dio&gt; and &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40964</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_005&gt;</VoiceId>
       <JapaneseText>……ふたりとも子守唄って
 歳でもないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Though I think they might be a bit too old for lullabies.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41052</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_006&gt;</VoiceId>
       <JapaneseText>……うーん……
 全然、わかんないや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Mmm, I really don't know what I'm able to do.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41144</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_007&gt;</VoiceId>
       <JapaneseText>……別に今のままでも
 不便はないけド……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it's never been an inconvenience before but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41220</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_081_008&gt;</VoiceId>
       <JapaneseText>やっぱり、気になる、な</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...The thought really makes me uneasy...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39780</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

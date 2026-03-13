@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43436,43608,43780,44252</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43532,43692,43972,44148,44396</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43888,44064,44328</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,140 +34,125 @@
       <VoiceId>&lt;audio:VCT_001_014_001&gt;</VoiceId>
       <JapaneseText>あっ……&lt;Dio&gt;！
 ヒジに擦り傷が！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah! &lt;Dio&gt;, you got a scratch on your elbow...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37508</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43536</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_002&gt;</VoiceId>
       <JapaneseText>ツバつけときゃ治るって。
 死なない死なない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spit on it, rub it a little and it all heals on its own! Nothing to worry about!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37760</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43612</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_003&gt;</VoiceId>
       <JapaneseText>背中にも青アザできてる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think I felt a shiver run down my back...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43696</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_004&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶ！　痛くねーし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No worries! It doesn't hurt!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43784</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_005&gt;</VoiceId>
       <JapaneseText>痛くなくても、ばい菌が入ったラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if it doesn't hurt we should disinfect the wound...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38948</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_006&gt;</VoiceId>
       <JapaneseText>いつもエトに心配かけて。
 落ち着いて行動しないからでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're always making Eto worry, what a child!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39368</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43976</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_007&gt;</VoiceId>
       <JapaneseText>あ、&lt;Mel&gt;、ヒザから血が出てるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, &lt;Mel&gt;. Your knee's bleeding.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44068</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_008&gt;</VoiceId>
       <JapaneseText>え……ほ、ほんとだ……
 ど、どうしよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>R-really? N-no! What should I do?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40256</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44152</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_009&gt;</VoiceId>
       <JapaneseText>さっき魔物と戦ってこけた時のだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did that because you fell when we were fighting that monster earlier.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44256</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_010&gt;</VoiceId>
       <JapaneseText>早くばんそうこう！
 あ、その前に消毒しなきゃ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We need a bandage, quick! Oh no! That wound is pretty old, we need to disinfect!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44332</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_011&gt;</VoiceId>
       <JapaneseText>うぅ……痛ぃよ……エト～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh! It hurts! Etoo!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41740</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44400</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_012&gt;</VoiceId>
       <JapaneseText>……落ち着けよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What a child...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

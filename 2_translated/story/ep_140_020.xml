@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>277540,277704,278056,278216,278580,279016,279348,279848,280308,280812,281188,281380</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277604,277772,278148,278368,278664,279616,280060,280372,280876</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277860,278752,278840,279104,279532,279716,279964,280128,280480</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,23 +73,21 @@
       <PointerOffset>277544</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_001&gt;</VoiceId>
       <JapaneseText>眠れないのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Can't sleep?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277608</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_002&gt;</VoiceId>
       <JapaneseText>あ、うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, no...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277708</PointerOffset>
@@ -97,35 +95,33 @@
       <JapaneseText>そう言えば、
 僕の話を聞きたいって
 言ってたよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like there's something
+you wish to tell me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277776</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_004&gt;</VoiceId>
       <JapaneseText>あ……だった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Erm...it's just...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259484</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277864</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_005&gt;</VoiceId>
       <JapaneseText>わたしたち、
 ダオスに襲われたんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos tried to attack us earlier.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259840</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278060</PointerOffset>
@@ -133,13 +129,14 @@
       <JapaneseText>ダオスに？
 また時空を越えて……
 いや、そんなまさか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos, you say!? Could he have
+travelled through time again...?
+No, that's impossible...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278060</PointerOffset>
@@ -147,49 +144,49 @@
       <JapaneseText>それにしても、どうして
 ダオスに襲われるんだ。
 君たちみたいな子どもが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why would Dhaos attack you?
+You look just like regular kids.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278152</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_008&gt;</VoiceId>
       <JapaneseText>魔王が人間襲うのに
 理由なんてねんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Demon King is known for attacking
+innocent people. So nothing to worry
+about there, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278220</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_009&gt;</VoiceId>
       <JapaneseText>『魔王』か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Demon King...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>260428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278372</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_010&gt;</VoiceId>
       <JapaneseText>読んだ本には、
 そう書いてあったぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's how all the books
+I read refer to him.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278372</PointerOffset>
@@ -197,39 +194,40 @@
       <JapaneseText>&lt;Cless&gt;さんたちは
 『魔王』を倒した
 『英雄』だって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When Mister &lt;Cless&gt; and company
+defeated the "Demon King"
+they became "Heroes."</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278584</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_012&gt;</VoiceId>
       <JapaneseText>確かに彼は
 多くの人の命を奪った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, I've ended the lives
+of many innocent beings.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278584</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_013&gt;</VoiceId>
       <JapaneseText>『魔王』と呼ばれても
 仕方がないのかもしれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What I've done is no different
+from the "Demon King."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278584</PointerOffset>
@@ -237,62 +235,64 @@
       <JapaneseText>でも、それは
 魔科学を排除する
 ためだったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You see, he was just trying
+to stop Magitechnology.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278668</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_015&gt;</VoiceId>
       <JapaneseText>魔科学って
 前に聞いたよな！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magitechnology!? We've heard of
+that before back with &lt;Claus&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <OldPtr>261756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278756</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_016&gt;</VoiceId>
       <JapaneseText>世界のことわりを
 破壊するって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's related to how the world
+was almost destroyed, right...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <OldPtr>262076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278844</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_017&gt;</VoiceId>
       <JapaneseText>だから、ダオスは、
 魔科学を……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, Dhaos trying to
+stop Magitechnology
+makes no sense...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <OldPtr>262376</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279020</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_018&gt;</VoiceId>
       <JapaneseText>ダオスは人間に魔科学を
 やめるように言った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos only ever wanted humans
+to stop abusing Magitechnology.
+He knew of its dangers.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279020</PointerOffset>
@@ -300,51 +300,52 @@
       <JapaneseText>それでもその利便性を
 追求する人間たちは、
 魔科学をやめなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, due to the selfish interests of people,
+Magitechnology research continued.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279108</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_020&gt;</VoiceId>
       <JapaneseText>だから、ダオスは
 人々を襲った……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then Dhaos attacked the humans...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <OldPtr>263076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279352</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_021&gt;</VoiceId>
       <JapaneseText>未だその真実は
 語られないままだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is because people refused to listen
+to him. They would rather wage war
+than listen to an honest plea.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279352</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_022&gt;</VoiceId>
       <JapaneseText>君たちがそのことを
 知らないように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That part was concealed from history.
+You wouldn't have known. Mankind's
+ego wouldn't let it BE known.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279352</PointerOffset>
@@ -352,26 +353,27 @@
       <JapaneseText>自分たちがおかした罪の重さに
 誰も向き合うことができないまま、
 世界は前に進んでいっている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've killed and sinned. However, since it
+was in everyone's best interests, the world
+moved on and ignored our—my crimes. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>263272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279536</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_024&gt;</VoiceId>
       <JapaneseText>わたし、魔術を
 暴走させてしまったんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt;...It's my fault that
+magic has gone rampant...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279536</PointerOffset>
@@ -379,25 +381,25 @@
       <JapaneseText>それがもしかしたら、
 マナをたくさん使ってて、
 それでダオスがわたしを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Prism Ring is consuming mana...and will
+destroy the world eventually. If so, then Dhaos
+thinks I'm a threat to the world, too... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279620</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_026&gt;</VoiceId>
       <JapaneseText>でも、あれは
 わざとと違うだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, but that's completely wrong!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
-      <OldPtr>264068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279720</PointerOffset>
@@ -405,24 +407,23 @@
       <JapaneseText>わざとじゃなくても
 魔術使ったのは、
 わたしだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not wrong. All this happened
+because I used magic...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
-      <OldPtr>264492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_028&gt;</VoiceId>
       <JapaneseText>……なるほどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Is that so?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>264808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
@@ -430,13 +431,13 @@
       <JapaneseText>それじゃあ、君は
 ダオスのされるがまま
 なのかい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, Dhaos did leave
+you be, didn't he?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>264808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279968</PointerOffset>
@@ -444,48 +445,48 @@
       <JapaneseText>……他に罪を償う方法が
 ないなら、そうしたかも
 しれないです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...If that's not the "sin" he
+was referring to, I'm not
+sure what it could be...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
-      <OldPtr>265384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280064</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_031&gt;</VoiceId>
       <JapaneseText>そうならないよう
 ちゃんと方法見つけただろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing like that. I think you're
+overthinking it way too much.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
-      <OldPtr>265748</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280132</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_032&gt;</VoiceId>
       <JapaneseText>わかってるってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know, I know.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
-      <OldPtr>266048</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280312</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_033&gt;</VoiceId>
       <JapaneseText>……誰が悪いとかいいとか、
 人はすぐ決めたがる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>..."If there's evil in this world,
+it lurks in the hearts of men."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>266244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280312</PointerOffset>
@@ -493,24 +494,24 @@
       <JapaneseText>でも、何が罪で何が正義か、
 それを決めるのは
 自分の心じゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, what is sinful and what
+is just isn't something simply
+determined by the heart.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>266244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280376</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_035&gt;</VoiceId>
       <JapaneseText>自分の心？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't determined...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
-      <OldPtr>266624</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280484</PointerOffset>
@@ -518,12 +519,13 @@
       <JapaneseText>自分が自分の行動を
 恥じるか、誇るか……
 ってことですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>People decide what's good or
+bad depending on what they're 
+proud or ashamed of...correct?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
-      <OldPtr>266764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280816</PointerOffset>
@@ -531,25 +533,25 @@
       <JapaneseText>……かな。
 僕はダオスを倒したことを
 後悔はしていない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Indeed. I used to have
+no regrets inside of me
+for defeating Dhaos.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>266960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280816</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_038&gt;</VoiceId>
       <JapaneseText>でも今でも思うんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...I'm not so sure now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>266960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280816</PointerOffset>
@@ -557,13 +559,14 @@
       <JapaneseText>ダオスは滅ぼうとしていた
 自分の故郷の世界樹を
 生き返らせるため、戦っていた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos brought war and despair,
+but he fought to bring his
+homeworld back to life.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>266960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280816</PointerOffset>
@@ -571,50 +574,51 @@
       <JapaneseText>自分の世界を守ろうとした彼を
 倒した僕たちこそが、
 実は悪だったんじゃないかって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We were both fighting to protect our
+own worlds. In the end, it wasn't evil
+what drove him. We were the same.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>266960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280880</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_041&gt;</VoiceId>
       <JapaneseText>そんな……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not true! He was attacking
+innocent people without any hesitation!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
-      <OldPtr>267212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281192</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_042&gt;</VoiceId>
       <JapaneseText>そんなことはないって、
 いつも自分に言い聞かせてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It wasn't. At every turn
+he tried to talk to us.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>267352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281192</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_043&gt;</VoiceId>
       <JapaneseText>でも、この世には多くの人がいて、
 善悪の基準もその人の数だけある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...people's standard of what's "good"
+as well as their values differed.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>267352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281192</PointerOffset>
@@ -622,65 +626,64 @@
       <JapaneseText>いまだに僕は
 自分のやったことに
 答えを出せないでいる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even now, I still can't tell what would have
+been the right answer for that conflict...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>267352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281192</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_045&gt;</VoiceId>
       <JapaneseText>それなのに、
 『英雄』だなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And yet, I'm labeled a "hero."...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>267352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_046&gt;</VoiceId>
       <JapaneseText>……さあ、
 話はこれくらいにして</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, I believe that's enough
+talk for one night.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>267844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_047&gt;</VoiceId>
       <JapaneseText>もう夜も遅い。
 テントに戻って休むんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please, try to get some rest.
+Return to the tent.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>267844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_020_048&gt;</VoiceId>
       <JapaneseText>起きられなかったら、
 置いていくよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll let you know when
+it's time to wake up.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>267844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

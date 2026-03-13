@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>49004,49476,49956,50184</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49076,49732</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49232,49352,49636,49888,50100</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,133 +34,119 @@
       <VoiceId>&lt;audio:VCT_001_008_001&gt;</VoiceId>
       <JapaneseText>あれ？　なんかヘンくね？
 さっきまで戦い疲れてたのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? What's going on around here? The wounds from all those fights are...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49080</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_002&gt;</VoiceId>
       <JapaneseText>体力が回復してる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our strength has... been recovered?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37708</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49236</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_003&gt;</VoiceId>
       <JapaneseText>エッヘヘ～ン！　アルベルト様が教えてやるだーよ。
 それも『なりきり士』の力のひとつだ、&lt;Mel&gt;&lt;Mel&gt;∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ehehe! The great Albert shall teach you! That's yet another of the powers of Roleplayer, &lt;Mel&gt;&lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37820</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49356</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_004&gt;</VoiceId>
       <JapaneseText>ノルン様の加護ある場所なら、
 大地の力で体力も全回復だ～～よ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss Norn's divine protection is present in this place, the power of earth will fully recover your inner strength.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49480</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_005&gt;</VoiceId>
       <JapaneseText>おまえがそんなでけーずーたい隠して、
 手伝わないから疲れるんだっての！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're hiding something from us, aren't you? Don't try to act all innocent, it's getting old!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49640</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_006&gt;</VoiceId>
       <JapaneseText>はん、おら、戦ってもええだが、衣装がボロボロになるだど！
 偉そうなこと言って。おめぇが使えねぇからだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You know, I might not be doing the fighting, but I'm already tired helping out with clothing! I even tell you guys important information, so I'm certainly more useful than you!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41560</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49736</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_007&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、アルベルトさんも……
 やめてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, Mister Albert... please just cut it out.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>43076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_008&gt;</VoiceId>
       <JapaneseText>あう～～ん、&lt;Mel&gt;&lt;Mel&gt;ぅ、言ってやってほしいだ。
 このクソぼうずに、おらがどれだけ大変かっちゅーの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohhhh! &lt;Mel&gt;-&lt;Mel&gt;! Now YOU're one I really want to talk to. It's so difficult to relate with uncivilized people at times!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>44352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49960</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_009&gt;</VoiceId>
       <JapaneseText>こんのぉ～……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You little...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>46300</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50104</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_010&gt;</VoiceId>
       <JapaneseText>っつーことで、ダンジョンから外に出れば、
 体力が全快だで、いちいち寝る必要もないだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh that's right, whenever you come out from a dungeon your inner strength will be fully recovered, so there is no need to sleep in inns at all.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>46564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50188</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_008_011&gt;</VoiceId>
       <JapaneseText>……誰に向かって
 言ってんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Who's he talking to?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>48076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

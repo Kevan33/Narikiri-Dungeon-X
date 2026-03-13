@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>266720</PointerOffset>
       <JapaneseText>魔女の声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magician's Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -62,7 +62,6 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>257484</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -75,7 +74,6 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>257484</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

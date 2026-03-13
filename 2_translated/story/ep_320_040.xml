@@ -13,18 +13,18 @@
     <Entry>
       <PointerOffset>272532,272760,273232,273596</PointerOffset>
       <JapaneseText>メルティア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272844,273396,273664</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -74,13 +74,13 @@
       <VoiceId>&lt;audio:VSM_320_040_001&gt;</VoiceId>
       <JapaneseText>……驚きの頭脳だな……
 まだ１３だと言うのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Your intellect is impressive,
+for a 13 year old girl...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272472</PointerOffset>
@@ -88,37 +88,36 @@
       <JapaneseText>おまえのその頭脳は、
 いつか我が国を支える、
 偉大な財産となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you wish, you could use that
+intelligence of yours to help obtain
+a better futurefor our country.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272472</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_003&gt;</VoiceId>
       <JapaneseText>よく学べ、メルティア。
 おまえは私の自慢の娘だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Study well, Meltia. You are my pride and joy.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>260656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272536</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_004&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>260796</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
@@ -126,26 +125,26 @@
       <JapaneseText>わたしは本当の親に
 いらないと言われて
 捨てられた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My biological parents decided to
+throw me out on the streets.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_006&gt;</VoiceId>
       <JapaneseText>ずっと、誰かに
 必要とされたかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...I really needed someone. I was
+a child starving for affection.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
@@ -153,38 +152,37 @@
       <JapaneseText>だから、
 １３歳のわたしは、
 魔科学研究者を志したの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why at the young age of
+13, I decided to start my research
+into Magitechnology.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272848</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_008&gt;</VoiceId>
       <JapaneseText>そして
 魔科学兵器を作ったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And then, we created the Mana Cannon.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>261652</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273236</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_009&gt;</VoiceId>
       <JapaneseText>そう、お父様に
 喜んでいただくため</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. Anything to make my father happy.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273236</PointerOffset>
@@ -192,26 +190,25 @@
       <JapaneseText>そうすれば、
 わたしはずっとお父様に
 必要とされる</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>By doing that, father would
+always appreciate me.</EnglishText>
+      <Notes>TL check unsure of the first part</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273236</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_011&gt;</VoiceId>
       <JapaneseText>でも、わたしには、
 いつも恐怖があった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, I was scared all that time.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273236</PointerOffset>
@@ -219,26 +216,27 @@
       <JapaneseText>もし、何もできなくなったら、
 わたしはまたいらないって
 言われるんじゃないかって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There was nothing I wouldn't do
+for him, so I was at the mercy
+of his expectations.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>261792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273236</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_013&gt;</VoiceId>
       <JapaneseText>だから、必死でがんばったの。
 お父様に愛される子でいるために</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I was so desperate. I
+needed to be father's pride and joy.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>4</BubbleId>
-      <OldPtr>261792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273400</PointerOffset>
@@ -246,13 +244,12 @@
       <JapaneseText>本当に、そう？
 そこまでしなくても、
 あなたを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that true? But, you went as far as to...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262196</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273400</PointerOffset>
@@ -260,62 +257,60 @@
       <JapaneseText>わたしを
 必要としてくれる人は、
 他にも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean...there are important
+people in my life too, yet...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262196</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273600</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_016&gt;</VoiceId>
       <JapaneseText>あなたにはわからない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How could you understand...!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273600</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_017&gt;</VoiceId>
       <JapaneseText>あなたが妬ましかった。
 不必要だと言われることなく、</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I am jealous of you. Do I
+have to explain it outright?</EnglishText>
+      <Notes>TL check</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273600</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_018&gt;</VoiceId>
       <JapaneseText>常に何者かに
 守られているあなたが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You always had someone to love
+you and take care of you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>262596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273668</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_040_019&gt;</VoiceId>
       <JapaneseText>わたし、は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <OldPtr>263124</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

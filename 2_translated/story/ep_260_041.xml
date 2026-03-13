@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>274440,274628,275000,275212,276024,276316</PointerOffset>
       <JapaneseText>フラムベルク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flamberge</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274532,275100,275388,275568,276216</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744,275300,275460,275828,276380</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -75,36 +75,35 @@
       <JapaneseText>む、無念……人間ごときに
 膝を突かされ、『不燃の古木』も
 奪われるとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hngh...How pitiful of me... To be
+felled by mere mortals, and right
+after losing the Unburnable Tree...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258304</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274536</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_008&gt;</VoiceId>
       <JapaneseText>だから、それは
 わたしたちじゃないんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're trying to tell you...it wasn't us!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258624</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274632</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_009&gt;</VoiceId>
       <JapaneseText>この期に及んで
 まだそんなことを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last time I heard the same lie...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>258764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274748</PointerOffset>
@@ -112,25 +111,26 @@
       <JapaneseText>だから本当だって。
 大体、『不燃の古木』って、
 それなんなんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it IS true this time! I mean,
+we don't even know what the
+Unburnable Tree is!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>258960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275004</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_011&gt;</VoiceId>
       <JapaneseText>我が主、焔王の魂から
 作られたマテリアル……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is the material source of my
+lord, the Lord of Fire's soul.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275004</PointerOffset>
@@ -138,13 +138,14 @@
       <JapaneseText>多くの怨念を含み、
 手がつけられなくなった
 『怒れる大地』</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is necessary to suppress the
+unmanageable excess of negative
+emotions in the Land of Ire.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275004</PointerOffset>
@@ -152,72 +153,69 @@
       <JapaneseText>それを
 混沌空間（カオスフィールド）に
 封印する折、使われた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In essence, it serves as a seal for
+this time-space, the Chaos Field.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>259212</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275104</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_014&gt;</VoiceId>
       <JapaneseText>その『不燃の古木』が
 奪われたらどうなるんです？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why did they steal this Unburnable Tree?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>259444</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275216</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_015&gt;</VoiceId>
       <JapaneseText>『怒れる大地』の封印が解かれ、
 この世界は怨嗟に満ちる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the seal in the Land of Ire becomes void,
+this entire realm will be overwhelmed by the
+deep resentment contained within.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>259584</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275304</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_016&gt;</VoiceId>
       <JapaneseText>……もしかして！
 仮面の奴らが……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Those masked guys are probably behind this!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>260404</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275392</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_017&gt;</VoiceId>
       <JapaneseText>そうだよ、
 たぶん、あの人たち……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For all we know, yeah. Those two...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>260892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275464</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_018&gt;</VoiceId>
       <JapaneseText>何企んでんだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just...what are they really up to?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <OldPtr>261276</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275572</PointerOffset>
@@ -225,37 +223,36 @@
       <JapaneseText>フラムベルクさん！
 その『不燃の古木』を
 取り戻してきます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss Flamberge, we'll bring
+your Unburnable Tree back!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>261704</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275832</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_022&gt;</VoiceId>
       <JapaneseText>でも、あいつら、
 どこへ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still...where could they be?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <OldPtr>262740</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276028</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_023&gt;</VoiceId>
       <JapaneseText>あれを必要とする者があれば
 必ず目的は『怒れる大地』</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That object's purpose is deeply
+connected with the Land of Ire.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276028</PointerOffset>
@@ -263,48 +260,47 @@
       <JapaneseText>『不燃の古木』を手にする者は
 対となる『不凍の流体』も
 求めるであろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If they stole the Unburnable Tree for
+that purpose, they will most likely be
+after the Unfreezable Water next.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276220</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_026&gt;</VoiceId>
       <JapaneseText>その『不凍の流体』って
 どこにあるんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where may we find this Unfreezable Water?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <OldPtr>263800</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276320</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_027&gt;</VoiceId>
       <JapaneseText>『不凍の流体』は、
 『&lt;Red&gt;氷狼王の礎&lt;White&gt;』に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Unfreezable Water lies within
+the &lt;Red&gt;Cornerstone of the Ice Wolf&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <OldPtr>263940</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276384</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_040_028&gt;</VoiceId>
       <JapaneseText>そこ行こうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go there.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <OldPtr>264804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

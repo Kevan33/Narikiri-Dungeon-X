@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>48076,48240,48460,48620,48844,49048,49196,49340,49716</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48156,48544</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48324,49812</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48748,48952,49472,49628</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,199 +41,190 @@
       <PointerOffset>48080</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_000&gt;</VoiceId>
       <JapaneseText>なー、なんでそんな何回も温泉に入んだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-Why were you going in and out of the
+hot springs?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37324</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48160</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_001&gt;</VoiceId>
       <JapaneseText>え？　だって気持ちいいよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Well, it feels nice.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37436</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48244</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_002&gt;</VoiceId>
       <JapaneseText>そっかー？　めんどくせーじゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It does? It's kind of a pain though.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48328</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_003&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;は昔からお風呂嫌いだもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahah...No wonder.
+You've always hated baths, &lt;Dio&gt;</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>37992</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48464</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_004&gt;</VoiceId>
       <JapaneseText>そりゃ汚れたり、汗でベトベトすりゃ
 入っけど、意味もなく何度も入んのはワケわかんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean I at least get taking a bath because you're
+icky and all...But doing it just because...? Not really.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38168</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48548</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_005&gt;</VoiceId>
       <JapaneseText>そう？　でも温泉は体にいいんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You think so? Hot springs can be good for you though.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38608</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48624</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_006&gt;</VoiceId>
       <JapaneseText>それってなんかじじくせー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow you sounded just like a grandpa just now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39040</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48752</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_007&gt;</VoiceId>
       <JapaneseText>ま～ったく、この毛無しのハゲぼうずは、
 本当にロマンがわかってねーやつだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh for goodness sake! I fear this feather-headed
+nincompoop might never get the notion of romance.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40032</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48848</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_008&gt;</VoiceId>
       <JapaneseText>ロマン、ロマンうるせー！
 このタンス野郎が！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Romance shromance! What do you know?
+You're just a cabinet!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48956</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_009&gt;</VoiceId>
       <JapaneseText>温泉といえば覗きイベントだべ。
 混浴って手もあるだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well when we talk about hot springs, there's the
+activity of sneaking in a peek. Mixed-bathing also!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41372</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49052</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_010&gt;</VoiceId>
       <JapaneseText>……おまえ……男とか女とかわかってんのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You...Do you really get boys and girls?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49200</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_011&gt;</VoiceId>
       <JapaneseText>男湯には男しか入れない、女湯には女しか入れない！
 だからタンス、おまえに入れる『湯』は、ない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only men can go in the men's bath, and women in the
+womens' bath! There's no bath for a wardrobe like you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49344</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_012&gt;</VoiceId>
       <JapaneseText>……『タンス湯』とかありゃ、おまえも入れたのにな。
 いやそもそも、湯に浸かったらマズイだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if there is a bath for "wardrobes"...
+can one even fit you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <OldPtr>44160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49476</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_013&gt;</VoiceId>
       <JapaneseText>あ～、んなもん関係ねーだ～。
 おらはどこにでも行ける、自由な小鳥さんだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aghh! That's irrelevant!
+I go wherever I want! I am a free bird!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <OldPtr>45012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49632</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_014&gt;</VoiceId>
       <JapaneseText>ぬはっ！　そ、そうだ、そうだよ。おらが温泉に入っだら
 &lt;Mel&gt;&lt;Mel&gt;のだ～いじな衣装がびしょ濡れに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gwagh! Th-That's right...&lt;Mel&gt;'s clothes would
+get ruined if I were to take a plunge!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <OldPtr>45704</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49720</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_015&gt;</VoiceId>
       <JapaneseText>……なんか知んねーけど、勝った……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't know what just happened...but
+it looks like I won.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <OldPtr>46632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49816</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_194_016&gt;</VoiceId>
       <JapaneseText>……ばかなことやってないで、ほら、行くよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop saying nonesense... let's go.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <OldPtr>47048</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

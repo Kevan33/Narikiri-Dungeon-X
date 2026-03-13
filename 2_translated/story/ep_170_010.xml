@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>274068,274668,275964</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274128,274188,274256,274364,274472,274576,275000,275616,275740</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274912,275516</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,45 +73,41 @@
       <PointerOffset>274072</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_001&gt;</VoiceId>
       <JapaneseText>開かない……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not opening...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274132</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_002&gt;</VoiceId>
       <JapaneseText>うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259448</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274192</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_003&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, are you in here?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274260</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_004&gt;</VoiceId>
       <JapaneseText>いるんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please answer me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>260056</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274368</PointerOffset>
@@ -119,24 +115,26 @@
       <JapaneseText>何イジけてるの！？
 思い通りにいかないって
 言われたから？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>What's up with you all of a sudden!? You're acting like a 
+huge thickhead! Weren't you the one that said we'd not only do 
+things for our own? </EnglishText>
+      <Notes>Tl check</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>260252</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>274476</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_006&gt;</VoiceId>
       <JapaneseText>勝手に想像して、期待して。
 それが全部裏切られたから？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>To not think only of yourself and to not carry 
+everything by yourself even when things don't
+go as planned...Will you betray your own beliefs?</EnglishText>
+      <Notes>Tl check</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260392</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>274580</PointerOffset>
@@ -144,37 +142,37 @@
       <JapaneseText>外に出る時、あんなに
 はしゃいでたくせに。
 バカみたい</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>When you finally got to see the world, you were
+so happy. Now that you know what's out there,
+you shut yourself away? You look like an idiot.</EnglishText>
+      <Notes>Tl check</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>274672</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_008&gt;</VoiceId>
       <JapaneseText>ちょっと、&lt;Mel&gt;、
 きみ、そんなこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;...I think you went too far...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274916</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_009&gt;</VoiceId>
       <JapaneseText>どうせバカだよ！
 ダメダメだよ、オレ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's right! I'm a huge idiot!
+I can't do anything right...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274916</PointerOffset>
@@ -182,38 +180,39 @@
       <JapaneseText>大切なエレメンツポットを
 壊すし、&lt;Cless&gt;さんの代わりも
 ちゃんとできない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They told me to take care of the Elements'
+Pot and I broke it... Mister &lt;Cless&gt; trusted
+me with his job and I failed to help him...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>274916</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_011&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;が魔物に襲われた時も
 すぐ動けなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whenever &lt;Mel&gt;'s in danger, I can't
+do anything to protect her!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261488</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275004</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_012&gt;</VoiceId>
       <JapaneseText>そんなこと……
 気にしてたんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've been...bottling up all
+these feelings, haven't you...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>261964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275520</PointerOffset>
@@ -221,13 +220,14 @@
       <JapaneseText>いくら色々夢見ても、
 結局、全部思い通りなんて
 いかないんだろ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even though I could finally see the
+world, nothing has ever turned
+out the way I wanted it to...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275520</PointerOffset>
@@ -235,13 +235,13 @@
       <JapaneseText>バジルさんだけじゃない……
 &lt;Claus&gt;さんも、
 &lt;Cless&gt;さんも&lt;Mint&gt;さんも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've failed Mister Basil...and Mister &lt;Claus&gt;...
+and Mister &lt;Cless&gt; and Miss &lt;Mint&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275520</PointerOffset>
@@ -249,25 +249,26 @@
       <JapaneseText>こんなんなら、
 オレ、外なんて
 出るんじゃなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I don't want to see what's out
+there anymore! Everything I try
+to do goes wrong!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>262160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275620</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_019&gt;</VoiceId>
       <JapaneseText>もういい。『虹輪』は
 わたしひとりでなんとかする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine. I don't need your negativity.
+I'll go stop the Prism Ring alone.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <OldPtr>262628</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275744</PointerOffset>
@@ -275,23 +276,23 @@
       <JapaneseText>勝手にひとりでいじけて、
 とじこもって、ヤドカリに
 なっちゃえばいいんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now you can do whatever you want and
+everything will turn out just how you want
+it. Stay safe inside the house, you hermit!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <OldPtr>263684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275968</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_010_023&gt;</VoiceId>
       <JapaneseText>あ、ちょっと、待って……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Wait, &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <OldPtr>264900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

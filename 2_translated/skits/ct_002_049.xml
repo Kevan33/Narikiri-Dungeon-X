@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>45480,45564,45768,46036,46172,46348,46784,46844</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45676,45860,45952,46552,46696</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46108,46268,46424</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,188 +34,169 @@
       <VoiceId>&lt;audio:VCT_002_049_001&gt;</VoiceId>
       <JapaneseText>……&lt;Cless&gt;さん、オレも
 &lt;Cless&gt;さんたちの部隊に入りたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt;... I want to go wherever you and your journeys take you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37300</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45568</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_002&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんと一緒に戦いたいんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to fight alongside you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45680</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_003&gt;</VoiceId>
       <JapaneseText>申し訳ないけど、トーティス遊撃隊は
 １８歳未満はお断りなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm very thankful for your plea but in Totus' commando unit new recruits must be at least 18 years old.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38484</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45772</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_004&gt;</VoiceId>
       <JapaneseText>でも見てくれただろ、
 オレの戦いっぷり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haven't you seen how strong I am? I'm much stronger than your average kid!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38972</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45864</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_005&gt;</VoiceId>
       <JapaneseText>ああ、君が歳の割に
 強いこともわかってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I understand perfectly how strong you are.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45956</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_006&gt;</VoiceId>
       <JapaneseText>でも、そういう問題（こと）じゃないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, that's not the case discussed here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46040</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_007&gt;</VoiceId>
       <JapaneseText>じゃあ、どういうことなんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then what is the "case"!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39948</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46112</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_008&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、やめなって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; stop it already!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46176</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_009&gt;</VoiceId>
       <JapaneseText>邪魔すんなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't bother me!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41400</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46272</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_010&gt;</VoiceId>
       <JapaneseText>それって本当に
 &lt;Dio&gt;のやりたかったこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, think about it! Is this really what you want to do with your life?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46352</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_011&gt;</VoiceId>
       <JapaneseText>それは……
 ……そうだよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I...I'm sure!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46428</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_012&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　きみね……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, don't be such a brat!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <OldPtr>43008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46556</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_013&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、将来（さき）は長いよ。
 他にもっとやりたいことが出てくるかもしれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, there's a long way ahead of you. I'm not exactly sure what fate awaits you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>43316</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46700</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_014&gt;</VoiceId>
       <JapaneseText>今ここで結論を出さなくてもいいんじゃないか。
 君はこれからどんなものにだってなれるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's still too early to conclude what you'll do at this point. From here on you have your entire life to become anything!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <OldPtr>43888</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46788</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_015&gt;</VoiceId>
       <JapaneseText>どんなものにだって……
 なれる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To become anything...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <OldPtr>44512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46848</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_049_016&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <OldPtr>44744</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

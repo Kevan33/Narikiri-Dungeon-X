@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>268080,268244</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>268144</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -65,23 +65,21 @@
       <PointerOffset>268084</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_020_001&gt;</VoiceId>
       <JapaneseText>ここは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This place...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>268148</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_020_002&gt;</VoiceId>
       <JapaneseText>どうしたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's the matter?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>268248</PointerOffset>
@@ -89,12 +87,13 @@
       <JapaneseText>ここは……
 &lt;Cless&gt;さんたちに
 初めて会った場所です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is where I met with &lt;Cless&gt;
+and his travelling party for 
+the first time...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>258916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

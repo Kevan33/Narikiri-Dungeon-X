@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>42400,42736,42900,43224,43416</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42476,42624,42828,43012,43132,43332,43484,43572</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,153 +26,137 @@
       <VoiceId>&lt;audio:VCT_002_069_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さんと旅するのは
 ダオス戦役ぶりですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am very glad to travel with you, &lt;Rody&gt;. It has been since Dhaos's War that we seen each other.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42480</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_002&gt;</VoiceId>
       <JapaneseText>え？　……ああ、そうだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, I guess that's true.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42628</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_003&gt;</VoiceId>
       <JapaneseText>私ってばついさっき、その時代から来たばっかで、
 &lt;Suzu&gt;ちゃんともひさしぶりって感じしないんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But since I time travelled from that point to here it feels like we never stopped seeing each other.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37752</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42740</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_004&gt;</VoiceId>
       <JapaneseText>そうなのですね。
 でも、こちらの時代ではもう半年になります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see. However half a year has passed since you left for us.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42832</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_005&gt;</VoiceId>
       <JapaneseText>半年か……
 私の時間は半年さえも進まない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Half a year, huh... My time hasn't moved on for half a year...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38724</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42904</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_006&gt;</VoiceId>
       <JapaneseText>どういうことですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean by that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39116</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43016</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_007&gt;</VoiceId>
       <JapaneseText>ダオスを追いかけ始めてから、
 ずっと私の時間は止まってるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ever since I started chasing after Dhaos my personal time has stopped.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43136</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_008&gt;</VoiceId>
       <JapaneseText>３００年近い時間の帯を行き来してるのに、
 時間はずっと止まったまま</JapaneseText>
-      <EnglishText/>
+      <EnglishText>About 300 years have come and gone by in a flash. There's no doubt my own time has stopped completely.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43228</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_009&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さんはどうしてそうまでして……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;...Why would you go so far as to sacrifice this much...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43336</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_010&gt;</VoiceId>
       <JapaneseText>ダオスを倒すのか？
 ……その質問されるの、もう何回目かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To defeat Dhaos? Ah I wonder how many times I've heard that question already.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40576</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43420</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_011&gt;</VoiceId>
       <JapaneseText>……みんな知りたいんだと思います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I believe everyone just wants to know more about you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41000</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43488</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_012&gt;</VoiceId>
       <JapaneseText>そうかもね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe that's the case...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>41280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43576</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_069_013&gt;</VoiceId>
       <JapaneseText>私も知りたいよ、この衝動の理由……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to know too... Why I'm so obsessed with this...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>41620</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

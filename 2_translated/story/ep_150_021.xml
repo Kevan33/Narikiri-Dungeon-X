@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>293204,293484</PointerOffset>
       <JapaneseText>ルナ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293280</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293372,293748,293924</PointerOffset>
@@ -29,26 +29,26 @@
     <Entry>
       <PointerOffset>294024,294228</PointerOffset>
       <JapaneseText>アルテミス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Artemis</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294096</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294160</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -98,35 +98,34 @@
       <VoiceId>&lt;audio:VSM_150_020_016&gt;</VoiceId>
       <JapaneseText>くっ……っちぃ……
 少しは手加減しろよな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow...ie... You coulda gone
+easy on me, you know!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293284</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_017&gt;</VoiceId>
       <JapaneseText>なんか変くないか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, hey... That voice just
+now was kinda weird...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293376</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_018&gt;</VoiceId>
       <JapaneseText>アルテミス。
 おやめなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Artemis. Cease this at once.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>278976</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293488</PointerOffset>
@@ -134,12 +133,12 @@
       <JapaneseText>だって、こいつらまた、
 ルナお姉ちゃんを
 連れてこうとしてんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if I do that, these people will
+take you away again, Miss Luna.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>279688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293752</PointerOffset>
@@ -147,12 +146,11 @@
       <JapaneseText>もう、あなたを置いて、
 どこかへ行ったりは
 しませんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please. I won't leave you alone ever again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>280348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293928</PointerOffset>
@@ -160,69 +158,64 @@
       <JapaneseText>約束します。
 だから、その方たちを
 お通ししなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a promise, then. But please
+leave these people be.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>280600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294028</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_025&gt;</VoiceId>
       <JapaneseText>うん……わかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hrmph... Understood.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>280776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294028</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_026&gt;</VoiceId>
       <JapaneseText>通れよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Move along!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>280776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294100</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_027&gt;</VoiceId>
       <JapaneseText>ありがとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <OldPtr>281784</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294164</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_028&gt;</VoiceId>
       <JapaneseText>ありがとうね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, thank you!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
-      <OldPtr>282380</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294232</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_029&gt;</VoiceId>
       <JapaneseText>ふんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure, whatever.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <OldPtr>282644</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

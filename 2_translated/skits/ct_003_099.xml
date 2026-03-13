@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>41256,41432,41628,41752,41932,42072</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41344,41548,41868,41992,42144</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -25,129 +25,115 @@
       <PointerOffset>41260</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_001&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……全部、思い出した？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...do you remember everything now?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41348</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_002&gt;</VoiceId>
       <JapaneseText>ああ、うん……
 なにもかも思い出した</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, yeah...I don't think there's anything else to remember.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37524</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41436</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_003&gt;</VoiceId>
       <JapaneseText>ずいぶん、遠くまで来ちゃったんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have come a long way...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37940</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41552</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_004&gt;</VoiceId>
       <JapaneseText>ノルンはオレらを飛ばす場所に
 どうして、この星を選んだんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder...Why did Norn choose to make us live on Aselia?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41632</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_005&gt;</VoiceId>
       <JapaneseText>ダオスがいるからじゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It might be because Dhaos was here, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38276</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41756</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_006&gt;</VoiceId>
       <JapaneseText>わたしたちのこと許せないダオスがいる、
 そしてわたしたちもダオスを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A person who would never forgive for our transgressions... After all we also destroyed Dhaos's...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41872</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_007&gt;</VoiceId>
       <JapaneseText>……やっぱオレらとダオスは
 向き合わなくちゃいけない運命かもな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So it was part of our destiny to face Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39204</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41936</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_008&gt;</VoiceId>
       <JapaneseText>運命だって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destined, huh?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41996</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_009&gt;</VoiceId>
       <JapaneseText>何だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>39716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42076</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_010&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;らしくない単語使ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've noticed you're learning to use big words recently, huh?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>39952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42148</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_099_011&gt;</VoiceId>
       <JapaneseText>……うん……そうだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...Yeah that's right...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>40272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

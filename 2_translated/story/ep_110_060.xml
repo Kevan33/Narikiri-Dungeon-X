@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>268988</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269076,269344</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269224</PointerOffset>
       <JapaneseText>銀髪の青年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blue Haired Man</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269440,269568</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,112 +82,105 @@
       <VoiceId>&lt;audio:VSM_110_060_001&gt;</VoiceId>
       <JapaneseText>ここって……
 &lt;Cless&gt;さんの道場だよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here? Isn't this Mister &lt;Cless&gt;'s Dojo?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258508</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269080</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_002&gt;</VoiceId>
       <JapaneseText>じゃ……あんたが……
 &lt;Cless&gt;さん！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then... YOU'RE Mister &lt;Cless&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269228</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_003&gt;</VoiceId>
       <JapaneseText>オレが？
 ははっ、違うって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who, me? Hahahaha, no I'm not.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269228</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_004&gt;</VoiceId>
       <JapaneseText>オレは&lt;Chester&gt;・バークライト。
 &lt;Cless&gt;の幼馴染だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My name's &lt;Chester&gt; Barklight, I'm
+one of &lt;Cless&gt;'s childhood friends.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259076</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269348</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_005&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;……って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;... You...don't say...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269348</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_006&gt;</VoiceId>
       <JapaneseText>じゃあ、あんたも
 時空戦士！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-Then you're an Eternal Hero, too!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269444</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_007&gt;</VoiceId>
       <JapaneseText>まぁ、そんなふうにも
 呼ばれてるみたいだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I guess you could put it that way.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>259656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269572</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_008&gt;</VoiceId>
       <JapaneseText>ま、とりあえず入れよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyways, let's go inside my place.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259796</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269572</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_060_009&gt;</VoiceId>
       <JapaneseText>って言っても、
 オレんちじゃないけどな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Or at least that's what I'd like to
+say, but it's not really my house.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259796</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

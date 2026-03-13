@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43440,43632,43856,43972,44168,44372,44480,44584</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43516,43756,44088,44644</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44248</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,155 +33,139 @@
       <PointerOffset>43444</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_001&gt;</VoiceId>
       <JapaneseText>あいつら……元気かな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope they're doing okay...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37272</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43520</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_002&gt;</VoiceId>
       <JapaneseText>子どもたちのことですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You mean the kids back in Totus?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43636</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_003&gt;</VoiceId>
       <JapaneseText>あ、ああ……おかしいだろ。
 まだここへ来てそれほど経ってないのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, yeah...Sorry. Weird thing to think out loud after I've come all the way here, eh?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37644</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43760</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_004&gt;</VoiceId>
       <JapaneseText>いえ……大切な人と離れ離れだと、
 ほんのひと時でも、とても長く感じますね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, it's okay. It's just normal to feel a little sad when we aren't close to loved ones.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43860</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_005&gt;</VoiceId>
       <JapaneseText>そうだな……
 あいつらを引き取って１年半か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...It's been a year and a half since I've started taking care of them.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43976</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_006&gt;</VoiceId>
       <JapaneseText>長いようで、短かく感じたのも、
 あいつらとずっと一緒だったからか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's been a long time, but it really feels otherwise. All four of us have been always together.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38664</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44092</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_007&gt;</VoiceId>
       <JapaneseText>たった１年半であの子たち、
 あんなに&lt;Chester&gt;さんを慕ってるんですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though it may not seem like much, I'm sure that year and half they got to know Mister &lt;Chester&gt; very well!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39052</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44172</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_008&gt;</VoiceId>
       <JapaneseText>ガキのお守りは慣れてるからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I grew used to babysit those brats!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39284</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44252</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_009&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;の頭がガキなんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe you've become a brat yourself!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>39912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44376</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_010&gt;</VoiceId>
       <JapaneseText>おい！　こら！　自分で思ってても、
 人に言われるとむかつくぞ、それは！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! Don't jump into conversations like that or you'll really know me!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_011&gt;</VoiceId>
       <JapaneseText>でも、そっか……
 ……アミィがいなくなってそんなに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh...yeah...It's also about the time Ami's passed away...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44588</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_012&gt;</VoiceId>
       <JapaneseText>あいつがいない時間は
 １年にも１０年にも感じた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One year... ten years...It'll always feel the same without her...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>42440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44648</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_013&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>42656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

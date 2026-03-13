@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>45312,45436,45560,45716,45836</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45904</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45996</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,85 +34,75 @@
       <VoiceId>&lt;audio:VCT_002_053_001&gt;</VoiceId>
       <JapaneseText>声を聞いただけで、ルナ様の美しさはわかっただ。
 戦わねーとわかって、覗いて見たおらは勝ち組だーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh...Even when I could only hear her voice I knew Miss Luna would be gorgeous. When they were fighting I could get a good peek whenever she attacked!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37832</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45440</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_002&gt;</VoiceId>
       <JapaneseText>いやー、この世界には、こったらべっぴんさんが
 多いの多くねーのって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh dear, in this world there sure are lots of beautiful women.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>39184</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45564</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_003&gt;</VoiceId>
       <JapaneseText>ましてや精霊様だなんて神秘的過ぎて、
 おらもう興奮のるつぼだーよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon Spirit girls are so enigmatic... Ahh the excitement makes me &lt;Mel&gt;t inside!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45720</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_004&gt;</VoiceId>
       <JapaneseText>問題はあの、アルテなんちゃらってちっこいヤツだ。
 あれはエト助に任せて、その間におらがルナ様に……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The question is...how can I get through that annoying little pest Artemis. I know! I'll let Ethos handle that while me and Luna...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>40776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45840</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_005&gt;</VoiceId>
       <JapaneseText>ぐふ……、ぐふふ……、ぐふふふ……。
 ふふふ…………………、ふぅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hehehe...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>41976</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45908</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_006&gt;</VoiceId>
       <JapaneseText>どうしたのエト？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's wrong, Eto?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>43816</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46000</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_053_007&gt;</VoiceId>
       <JapaneseText>う……ううん……なんか寒気がしたかラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah...I don't know why, but I just felt weird now...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>44136</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

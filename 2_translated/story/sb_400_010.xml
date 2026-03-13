@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>267888,268040</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,7 +60,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258268</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -72,7 +71,6 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258836</OldPtr>
       <Status>To Do</Status>
     </Entry>
   </Strings>

@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>46784,46944,47120,47368,47724,47952</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46868,47032,47260,47500,47644,47864</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -25,141 +25,126 @@
       <PointerOffset>46788</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_001&gt;</VoiceId>
       <JapaneseText>アミィと間違えるなんてな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Can't believe I mistook her for Ami...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37132</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46872</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_002&gt;</VoiceId>
       <JapaneseText>アミィって、おめぇの妹だか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ami, you say. Isn't that your sister?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46948</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_003&gt;</VoiceId>
       <JapaneseText>あ、ああ、そうだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-yeah. That's right.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47036</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_004&gt;</VoiceId>
       <JapaneseText>ほぇ～～～、おめぇに妹がなぁ～～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh... A little sister and his big brother...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38252</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47124</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_005&gt;</VoiceId>
       <JapaneseText>な、なんだよ！　人の顔ジロジロ見て</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-what's wrong with you!? Do I have something in my face?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39116</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47264</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_006&gt;</VoiceId>
       <JapaneseText>おめぇみてーなキツネ目の妹っつーことは、
 そのアミィっての、名前に合った顔なんだなや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can see it in those puppy eyes each time you talk about your sister. If someone says as much as "Ami" you already get all giddy.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39612</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47372</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_007&gt;</VoiceId>
       <JapaneseText>なんだよ、それ。
 アミィが俺に似てるって言いたいのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you going on about? You're just on my case because she resembles Ami?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47504</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_008&gt;</VoiceId>
       <JapaneseText>みなまで言わんでええだ、ええだ。
 おめぇの顔見てれば、ぜぇ～んぶわかるだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On your case is correct, very correct. Watching your face it's as clear as day.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40884</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47648</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_009&gt;</VoiceId>
       <JapaneseText>おめぇはかわいい妹が欲しかったんだ。
 だから、さっき&lt;Mel&gt;&lt;Mel&gt;をわざと間違えたんだど？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You want a girl to act as a cute "little sister" for you. Isn't that why you "confused" &lt;Mel&gt;-&lt;Mel&gt; with Ami before?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42024</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47728</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_010&gt;</VoiceId>
       <JapaneseText>バカ言ってんじゃねぇっての</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cut the crap already.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47868</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_011&gt;</VoiceId>
       <JapaneseText>あひゃえ！　当たっただ！　図星だ！！
 こいつ、&lt;Mel&gt;&lt;Mel&gt;を狙ってる変態だーよ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahahaha! Bingo! We've got a winner! You're just a huge pervert after &lt;Mel&gt;-&lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43884</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47956</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_040_012&gt;</VoiceId>
       <JapaneseText>あのなぁ……そりゃ、おまえだろ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That coward...Blaming me for what HE is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>45560</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>271688,272688,272860</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271804,271964,272260,272440,272784</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271876,272088,272352,272580</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272152</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -81,12 +81,11 @@
       <PointerOffset>271692</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_001&gt;</VoiceId>
       <JapaneseText>ここが&lt;Red&gt;ユークリッド村&lt;White&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this place Euclid Village? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259128</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271808</PointerOffset>
@@ -94,71 +93,66 @@
       <JapaneseText>う～ん、
 ぼくの知ってる&lt;Red&gt;ユークリッド&lt;White&gt;は
 もっと賑やかだったけド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like that. Though the Euclid Village
+I knew was a lot more active. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259372</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271880</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_003&gt;</VoiceId>
       <JapaneseText>マジでここなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are we really in the correct place? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259616</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271968</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_004&gt;</VoiceId>
       <JapaneseText>場所は間違ってないから、
 たぶん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't feel this is the wrong place, so... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272092</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_005&gt;</VoiceId>
       <JapaneseText>んじゃ、ちゃんと
 来れたってことだな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then we're where we're supposed to be! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272092</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_006&gt;</VoiceId>
       <JapaneseText>よし、行こーぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok, let's move! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272156</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_007&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260204</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272264</PointerOffset>
@@ -166,24 +160,23 @@
       <JapaneseText>行こうって、きみ、
 &lt;Claus&gt;さん家の場所、
 知らないでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're telling us to go, but we don't even
+know where Mister &lt;Claus&gt;'s house is. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260772</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272356</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_009&gt;</VoiceId>
       <JapaneseText>んなのテキトーに探して、
 見つかるって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll just have to find it, then! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>261200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272444</PointerOffset>
@@ -191,23 +184,22 @@
       <JapaneseText>村の人に
 聞いてまわった方が
 いいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think we should also ask the people
+in the village for directions. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>261340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272584</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_012&gt;</VoiceId>
       <JapaneseText>じゃあ、それで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just leave it to me! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>261480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272692</PointerOffset>
@@ -215,36 +207,35 @@
       <JapaneseText>そんなに&lt;Dio&gt;、
 嬉しいのかな？
 その英雄？　に会うのが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Doesn't &lt;Dio&gt; look a bit way too happy? Are we
+going to meet with a Hero or something? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>262228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272788</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_014&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;は昔から、
 そういうお話好きだったから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; enjoys being in the past so much because
+he wants to see the people from his storybooks. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>262472</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_010_015&gt;</VoiceId>
       <JapaneseText>そっか
 ……そうだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I guess that's true... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <OldPtr>262612</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

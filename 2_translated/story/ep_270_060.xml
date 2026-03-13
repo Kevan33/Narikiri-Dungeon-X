@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>269584,269764,270040,270208</PointerOffset>
       <JapaneseText>ディオス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269692,269832,269920,270144</PointerOffset>
@@ -66,71 +66,66 @@
       <VoiceId>&lt;audio:VSM_270_060_001&gt;</VoiceId>
       <JapaneseText>……父ちゃん、母ちゃん、
 行ってくるよ……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>...Mom...Dad...I'll do it...</EnglishText>
+      <Notes>tl check</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>258160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269588</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_002&gt;</VoiceId>
       <JapaneseText>行って、絶対、仇を……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll do it, I'll get my revenge...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>258160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269696</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_003&gt;</VoiceId>
       <JapaneseText>何をやっている、ディオス！
 すぐに持ち場へつけ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you doing loitering about, Dios!
+Go back to your position at once!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>258540</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269768</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_004&gt;</VoiceId>
       <JapaneseText>はい！　父上……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, father...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>258848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269836</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_005&gt;</VoiceId>
       <JapaneseText>ディオス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dios!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259312</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269924</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_006&gt;</VoiceId>
       <JapaneseText>ようやく
 両親の仇を取れるな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're finally going to avenge your parents.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>259700</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270044</PointerOffset>
@@ -138,47 +133,44 @@
       <JapaneseText>いえ……父上の望まれる
 デリス・カーラーンの平和を
 手に入れるために</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No...I'm doing this for father's desire
+for a peaceful Derris Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>259840</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270148</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_008&gt;</VoiceId>
       <JapaneseText>平和……そうだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Peace... Yes, that's our goal.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270148</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_009&gt;</VoiceId>
       <JapaneseText>……行け！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, go!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270212</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_010&gt;</VoiceId>
       <JapaneseText>はっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes sir...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>260120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

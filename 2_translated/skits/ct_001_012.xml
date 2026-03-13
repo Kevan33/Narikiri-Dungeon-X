@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>48056,48476</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48136</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48256,48716,49136</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48352</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48600,48840,48944,49064</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,132 +50,118 @@
       <VoiceId>&lt;audio:VCT_001_012_001&gt;</VoiceId>
       <JapaneseText>うっはー！　この指輪すっげーな！
 炎が打てるなんてさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow! This ring is way past cool! I can fire so much fire!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>38052</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48140</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_002&gt;</VoiceId>
       <JapaneseText>クルール！　クルクルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru! Kurukuruuru!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>39160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48260</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_003&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　そんなむやみに打ったら、
 周りのもの、燃えちゃうでしょ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! If you keep shooting everywhere like a madman you'll burn everything around here!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39864</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48356</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_004&gt;</VoiceId>
       <JapaneseText>そうだよ。それに人に向けちゃダメだからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right! It'd be really awful if you shot another person!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>40676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48480</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_005&gt;</VoiceId>
       <JapaneseText>わかってるって、全然だいじょーぶ！
 燃えるもんなんて、そうそうないしさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I get it! No problem at all! Can't you see? I haven't burnt a thing, yet!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>41304</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48604</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_006&gt;</VoiceId>
       <JapaneseText>ほ、炎……簡単に、も、燃えてしまうだ……。
 おら、高級素材だから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>F-fire... So easy for me to get burnt... Why am I made of flammable materials...!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>42640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48720</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_007&gt;</VoiceId>
       <JapaneseText>アルベルトさんが怖がってるじゃない！
 必要のない時は打たないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister Albert, don't be scared! You'll never get burnt due to &lt;Dio&gt;'s recklessness!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>44260</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48844</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_008&gt;</VoiceId>
       <JapaneseText>燃える……、燃えるだ……
 真っ赤になって、パチパチ火の粉上げて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Burnt...I'll be burnt... Bright red fire will cover me fully. The wood shall crackle as it's consumed ...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <OldPtr>44896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48948</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_009&gt;</VoiceId>
       <JapaneseText>しまいにゃ、真っ黒になって、
 消し炭のように……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And in the end...only a black gross substance will be left and ready to be thrown out...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <OldPtr>45060</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49068</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_010&gt;</VoiceId>
       <JapaneseText>いやーーーー！　怖い！　炎、怖い、
 おら、燃えたくねぇだーー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nooo! I'm scared! I'm scared of fire! Please don't let me get burnt!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>45680</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49140</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_011&gt;</VoiceId>
       <JapaneseText>ア、アルベルトさん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>M-Mister Albert?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>47000</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

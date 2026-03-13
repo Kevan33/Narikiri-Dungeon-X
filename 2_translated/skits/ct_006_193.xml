@@ -5,39 +5,39 @@
     <Entry>
       <PointerOffset>53624,53836,53992,55372</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>53716,53920,55436</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>54088,54328,54476,54804,54932,55056,55304</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>54208,54548,55180</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>54624</PointerOffset>
       <JapaneseText>&lt;Mel&gt;＆エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;＆Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
@@ -49,212 +49,201 @@
       <PointerOffset>53628</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_001&gt;</VoiceId>
       <JapaneseText>やった！　できたぁ……！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Yay! We did it!</EnglishText>
+      <Notes>these are text from 192</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53720</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_002&gt;</VoiceId>
       <JapaneseText>どうしたの？　何かいいこと、あったの？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>What's wrong? Did something good happen?</EnglishText>
+      <Notes>these are text from 192</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53840</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_003&gt;</VoiceId>
       <JapaneseText>うん！　ずっと書きためてたコレクター図鑑が
 いっぱいになったんだ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Yep! We've managed to gather a LOT of entries
+in our Collector Compendium.</EnglishText>
+      <Notes>these are text from 192</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53924</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_004&gt;</VoiceId>
       <JapaneseText>すごいや、&lt;Mel&gt;！　おめでとう</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>That's pretty amazing, &lt;Mel&gt;! Congratulations!</EnglishText>
+      <Notes>these are text from 192</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53996</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_005&gt;</VoiceId>
       <JapaneseText>ありがと♪　えへへ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Hehe...Thank you~</EnglishText>
+      <Notes>these are text from 192</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54092</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_006&gt;</VoiceId>
       <JapaneseText>甘い！　甘いぜ！
 フルーツポンチくらい甘い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Easy! Super easy! So easy it's like
+throwing a rock!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40872</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54212</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_007&gt;</VoiceId>
       <JapaneseText>な、何ぃ！　貴様は&lt;Dio&gt;ッ！
 一体この図鑑のどこが甘いと言うんだぁー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>E-Easy!? &lt;Dio&gt;, when on earth was filling this
+picture book easy!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>42584</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54332</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_008&gt;</VoiceId>
       <JapaneseText>クックックッ……　わからんか。
 わからんか。わ・か・ら・ん・かァ～</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Heheheh...You don't know?
+You really don't know...You don't know huh~</EnglishText>
+      <Notes>can be reworded better</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>44276</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>54480</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_009&gt;</VoiceId>
       <JapaneseText>ならば教えてやろう！　その図鑑にはこのおれが
 幼少の頃に作った『万能高枝虫取り網』が無いのだぁ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Then allow me to explain! This compendium contains the
+all-powerful Legendary Peerless Insect Net.</EnglishText>
+      <Notes>can definitely be reworded better
+Need more context</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>46444</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>54552</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_010&gt;</VoiceId>
       <JapaneseText>な、なんだってー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A P-Peerless Insect Net!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>47692</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54628</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_011&gt;</VoiceId>
       <JapaneseText>……………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <OldPtr>48396</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54808</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_013&gt;</VoiceId>
       <JapaneseText>高いところに留まったセミなどを捕まえられる
 優れものよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O, high-grade cicadas who rests atop tall branches...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <OldPtr>48904</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54936</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_014&gt;</VoiceId>
       <JapaneseText>これならもうラクラク捕れます！
 もう高いからってあきらめる必要はありません！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With this net, catching you will be as easy as breathing!
+No long shall I weep once you move out of my reach!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>49248</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55060</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_015&gt;</VoiceId>
       <JapaneseText>さあ、この万能高枝虫取り網を使って、
 セミをたくさん手に入れましょう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, let us capture a lot of cicadas with
+this Legendary Peerless Insect Net,</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <OldPtr>50600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55184</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_016&gt;</VoiceId>
       <JapaneseText>効果には個人差があるのを気をつけないとね。
 でも、私にも捕れるかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh, I see. It's a net that lets anyone capture anything.
+Do you think I can also give it a whirl?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <OldPtr>51072</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55308</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_017&gt;</VoiceId>
       <JapaneseText>だーいじょうぶ！　長さも調節できるから安心！
 さあ、次はあなたの番です！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Naturally! The length of the net can be adjusted
+for anyone. Why don't you give it a shot?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <OldPtr>51552</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55376</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_018&gt;</VoiceId>
       <JapaneseText>……さ、行こっか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We should go...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <OldPtr>52264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55440</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_193_019&gt;</VoiceId>
       <JapaneseText>……そうだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Agreed...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <OldPtr>52436</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

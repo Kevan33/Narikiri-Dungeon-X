@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>272132,272592,272720</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272228,272352,272488</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272288,272412</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272656</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,26 +82,24 @@
       <VoiceId>&lt;audio:VSM_290_010_001&gt;</VoiceId>
       <JapaneseText>ここ……
 こんな感じのとこ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This place...There's a strange feeling about it...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272136</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_002&gt;</VoiceId>
       <JapaneseText>なんかどこかで
 見た記憶が……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It feels like I've been here in a far off memory...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272232</PointerOffset>
@@ -109,45 +107,42 @@
       <JapaneseText>&lt;Dio&gt;、何かが
 そこにいるって
 言ったよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, you said something
+would be inside of here, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>260952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272292</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_004&gt;</VoiceId>
       <JapaneseText>ああ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>261260</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272356</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_005&gt;</VoiceId>
       <JapaneseText>何がいるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Any idea what it is?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>261400</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272416</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_006&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>261700</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272492</PointerOffset>
@@ -157,7 +152,6 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>261848</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -170,30 +164,27 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>262212</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>272660</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_009&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>262564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272724</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_010_010&gt;</VoiceId>
       <JapaneseText>進もう……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's get moving...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>262884</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

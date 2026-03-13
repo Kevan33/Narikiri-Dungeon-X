@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>294212,294420</PointerOffset>
       <JapaneseText>謎の声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weird Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294288,295152</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294504</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294640</PointerOffset>
@@ -37,26 +37,26 @@
     <Entry>
       <PointerOffset>294700,295396</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294764</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294848,295052,295284,295472</PointerOffset>
       <JapaneseText>アスカ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aska</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -105,47 +105,45 @@
       <PointerOffset>294216</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_001&gt;</VoiceId>
       <JapaneseText>マザーコンピュータールームへようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WELCOME TO THE MASTER COMPUTER ROOM.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>279924</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294292</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_002&gt;</VoiceId>
       <JapaneseText>うぉっ！　でけー顔！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa! Now THAT is an ugly face!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>280120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294424</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_003&gt;</VoiceId>
       <JapaneseText>私は&lt;Red&gt;トール&lt;White&gt;シティの全機能をサポートする
 マザーコンピューターシステム・オズ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I AM &lt;Red&gt;THOR&lt;White&gt;'S ALL-PURPOSE ASSISTANT
+FOR THE OPERATION OF THE MASTER
+COMPUTER SYSTEM. I AM OZ.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>280384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294508</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_004&gt;</VoiceId>
       <JapaneseText>これで時間転移できる
 ってわけね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like we can time travel now!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>280684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294644</PointerOffset>
@@ -153,95 +151,96 @@
       <JapaneseText>時を犯そうとする愚か者よ、
 あなた方にここのシステムを
 使わせるわけにはいきません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Travel through time and space is not
+something to be taken lightly. I am
+afraid I cannot let you go any further.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>280824</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294704</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_006&gt;</VoiceId>
       <JapaneseText>誰……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who's there...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>281692</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294768</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_007&gt;</VoiceId>
       <JapaneseText>アスカ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's you, Aska...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <OldPtr>283192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294852</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_008&gt;</VoiceId>
       <JapaneseText>これは今の人の手には
 あまる技術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This technology is the legacy
+of an era long past.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>8</Id>
-      <OldPtr>283332</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295056</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_010&gt;</VoiceId>
       <JapaneseText>強引にでも使うというのであれば、
 私はそれを阻止します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As to prevent its misuse, I
+stand here as its protector.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <OldPtr>283472</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295156</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_011&gt;</VoiceId>
       <JapaneseText>あんたをぶっ倒せば、
 使ってもいいってことだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basically, we gotta beat the daylights
+out of you and then we get to time
+travel, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>283668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295288</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_012&gt;</VoiceId>
       <JapaneseText>なかなかいい覚悟です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's the type of resolution
+I wish to see, yes.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>283808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295288</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_013&gt;</VoiceId>
       <JapaneseText>しかし、あなた方に
 私を倒せるでしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, I must warn you...
+I shan't hold anything back
+as you attempt to defeat me.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>283808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295400</PointerOffset>
@@ -249,23 +248,22 @@
       <JapaneseText>倒します。
 わたしたちは自分の時代に
 戻らなきゃいけないから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll do it. We have to return
+home to our era at any cost!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <OldPtr>284004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295476</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_015&gt;</VoiceId>
       <JapaneseText>いいでしょう、来なさい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine, then! Come!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>14</Id>
-      <OldPtr>284144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

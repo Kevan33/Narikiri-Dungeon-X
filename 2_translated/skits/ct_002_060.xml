@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>42892,43036,43112,43280</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42972,43192</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,71 +26,62 @@
       <VoiceId>&lt;audio:VCT_002_060_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;のフニャフニャ、
 やわらかいのが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;'s bouncing things were so soft...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42976</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_060_002&gt;</VoiceId>
       <JapaneseText>……何、ぽーっとしてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What are you daydreaming for?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37576</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43040</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_060_003&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37728</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43116</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_060_004&gt;</VoiceId>
       <JapaneseText>いちっ……何すんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow! Hey what did I do now!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43196</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_060_005&gt;</VoiceId>
       <JapaneseText>ぼーっとしてたら、危ないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keep daydreaming and it could be dangerous.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39308</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43284</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_060_006&gt;</VoiceId>
       <JapaneseText>だからって殴るかよ、
 このゴツゴツ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are just mad because yours are plain!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

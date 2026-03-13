@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>277256,277688,279184,279396</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271384,271622,271687,271723,271794,271860,271899,271975,272046,272112,272123,272241,272327,272408,272484,272555,272621,272632,272801,272834,272845,272960,273070,273081,273208,273251,273436,274200,274211,274366,274474,274648,274724,274822,274928,274994,275047,275161,275358,275600,275665,275730,275795,276469,276810,277011,277400,277604,277836,278048,278320,278700,278912,279040,279812</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277480,279104,279272,279488,280040</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277908</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>278584</PointerOffset>
       <JapaneseText>好奇心旺盛の商人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Surprised Clerk</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,12 +89,11 @@
       <PointerOffset>277260</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_001&gt;</VoiceId>
       <JapaneseText>ここは？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's this place? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258628</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277404</PointerOffset>
@@ -102,24 +101,25 @@
       <JapaneseText>はっ、そったらことも知らねーだが？
 ここはお店で旅に役立つもんが
 いろいろ揃ってるだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hah, you really don't know anything, do you?
+This is a store where you can buy a variety
+of wares. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277484</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_003&gt;</VoiceId>
       <JapaneseText>へん！
 タンス野郎が偉そうに</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Heh! This dresser bastard sure likes to run his tongue! </EnglishText>
+      <Notes>Review: Maybe something less offensive.
+maybe "This dumb dresser sure like sto run his mouth!"</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259260</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>277608</PointerOffset>
@@ -127,24 +127,23 @@
       <JapaneseText>たたたた、た、たんすぅ～～!?
 ざけっでねーよ！
 おらをバカにすっかもう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-D-D-D-Dresser? What kind of showcase
+of stupidity is this! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277692</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_005&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;。
 アルベルトさんでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, his name is Mister Albert. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259752</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277840</PointerOffset>
@@ -152,23 +151,22 @@
       <JapaneseText>おーおーほほ、さすがは&lt;Mel&gt;&lt;Mel&gt;だ。
 おらのことをよーぐわがっでる。
 優しい娘っ子だなや～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohohoho! You're amazing &lt;Mel&gt;-&lt;Mel&gt;! You certainly 
+understand me! What a nice girl! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260172</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277912</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_007&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-What? "&lt;Mel&gt;-&lt;Mel&gt;"...? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260748</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278052</PointerOffset>
@@ -176,38 +174,37 @@
       <JapaneseText>そんな&lt;Mel&gt;&lt;Mel&gt;のために、
 ここはおらが買い物の仕方、
 手取り足取り教えてやるだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For &lt;Mel&gt;-&lt;Mel&gt;'s sake, I will explain the ways of
+shopping. I'll hold your hand or, if I need be,
+your leg. So, let the teaching begin! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278324</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_010&gt;</VoiceId>
       <JapaneseText>えーまんず、店の人間に
 ちゃんと挨拶するだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First we'll start by greeting the vendor. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278324</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_011&gt;</VoiceId>
       <JapaneseText>おい、おめんとこ商品
 買いに来てやったど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello! We're here to buy some wares! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
@@ -215,26 +212,24 @@
       <JapaneseText>わ、
 クローゼットが
 しゃべった！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the!? A talking closet!? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>262876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_013&gt;</VoiceId>
       <JapaneseText>いや……クローゼットでも
 お客様……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No...even if it's a closet it's still a customer...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>262876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
@@ -242,25 +237,23 @@
       <JapaneseText>いらっしゃいませ～♪
 道具屋『天地無用』へ
 ようこそ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to "This side up" item store! Nice to meet you! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>262876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_015&gt;</VoiceId>
       <JapaneseText>お探しの品は何でしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What items are you looking for? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>262876</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278704</PointerOffset>
@@ -268,12 +261,11 @@
       <JapaneseText>ええが？
 このショップ画面に入ったら、
 買いたい商品を選んで</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Right. Once you are in the store. Select the item you want to buy.</EnglishText>
+      <Notes>Review</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <OldPtr>263380</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>278916</PointerOffset>
@@ -286,7 +278,6 @@
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263672</OldPtr>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -295,13 +286,12 @@
       <JapaneseText>複数の商品が欲しい場合は
 まとめて買うことも
 できるっちゅー話だど</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>If you want more than one item, you can buy them all at once.</EnglishText>
+      <Notes>Review</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263672</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279044</PointerOffset>
@@ -309,47 +299,43 @@
       <JapaneseText>あー、商品買う前には、
 ガルドが足りてるかどうか
 きーっちり確認しとくだよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Uh, before you buy any items, make sure you have enough Gald.</EnglishText>
+      <Notes>Review</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <OldPtr>263964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279108</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_020&gt;</VoiceId>
       <JapaneseText>何してんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What're you doing?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <OldPtr>266492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279188</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_021&gt;</VoiceId>
       <JapaneseText>今、買ったモノを
 書いてるの</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Oh, I'm writing down everything we bought.</EnglishText>
+      <Notes>Review</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <OldPtr>266848</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279276</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_022&gt;</VoiceId>
       <JapaneseText>買ったもの全部
 そこに書くつもりか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Everything we bought, you're going to write it all down there?</EnglishText>
+      <Notes>TL Review</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
-      <OldPtr>266988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279400</PointerOffset>
@@ -357,12 +343,12 @@
       <JapaneseText>そ。いつ、どこで、誰と、
 何したか、こうして
 書いとけば思いだせるでしょ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>True but still... from now on let's remember every place 
+and person so we don't run into this problem again. </EnglishText>
+      <Notes>TL Review</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <OldPtr>267184</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>279492</PointerOffset>
@@ -370,12 +356,11 @@
       <JapaneseText>ふーん……
 めんどくせーこと
 してんのな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh... That sounds like a pain... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
-      <OldPtr>267436</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
@@ -383,13 +368,13 @@
       <JapaneseText>メニューのライブラリを開けば、
 &lt;Mel&gt;&lt;Mel&gt;が書いたメモが
 いつでも見られるだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the Library menu you can always check the
+Memos that &lt;Mel&gt;-&lt;Mel&gt; writes down. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>267960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
@@ -397,25 +382,23 @@
       <JapaneseText>これからの旅に
 色々と役立つ情報ばかりだで、
 こまめに確認するといいべよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a good idea to record everything you can from now on. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>267960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280044</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_020_030&gt;</VoiceId>
       <JapaneseText>さ、行こうぜ。
 困った人探しの続き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that that's settled, let's go help some people! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
-      <OldPtr>268200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

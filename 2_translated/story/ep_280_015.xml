@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>275672,275900,276700,278912</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>275744,278792</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>276144,276316,276636,276912,277104,277244,277492,277744,278024,278208,278676,279000,279132</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277024,277184,277416,277656</PointerOffset>
       <JapaneseText>ダオス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>279060</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -90,23 +90,21 @@
       <VoiceId>&lt;audio:VSM_280_015_001&gt;</VoiceId>
       <JapaneseText>ダオス、言ったよな、
 インネンがなんとかって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos said it was our fate...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258820</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275748</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_002&gt;</VoiceId>
       <JapaneseText>因縁を追え、だよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So we should chase after our fate.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275904</PointerOffset>
@@ -114,39 +112,37 @@
       <JapaneseText>ダオスと
 あの仮面のヤツって
 関係あんのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel Dhaos and the masked
+two are related, somehow...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259296</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275904</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_004&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;は、
 なんか心当たりないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you know of anything about this, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259296</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276148</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_006&gt;</VoiceId>
       <JapaneseText>あんな仮面してたら
 あいつらが誰かわかんないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really have no idea who those masked guys are.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276148</PointerOffset>
@@ -154,13 +150,13 @@
       <JapaneseText>それに……あいつ、
 肝心なこと、あんま
 話さなかったしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Plus, it's not like that guy...really talked
+much about important things.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276320</PointerOffset>
@@ -168,145 +164,143 @@
       <JapaneseText>それどころか、私が
 ほとんど一方的に
 話してた気がする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I seriously had to squeeze the information
+outta the guy. As I said, we had one-sided
+conversations.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260500</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276640</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_012&gt;</VoiceId>
       <JapaneseText>夢中になっていろいろ
 話した覚えはあるんだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I remember our many converstations,
+but they're hazy like a dream.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261532</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276640</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_013&gt;</VoiceId>
       <JapaneseText>あはは、肝心の話の中身が
 全然思い出せないや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I remember we talked about a lot of stuff.
+Though...ahaha, I can't really remember
+any of the important parts.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261532</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276704</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_014&gt;</VoiceId>
       <JapaneseText>なんだ、それ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow, that sucks.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>261672</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276916</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_015&gt;</VoiceId>
       <JapaneseText>あ、空の星には
 たくさんの種類があって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh...he said in the sky there
+are many other worlds...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276916</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_016&gt;</VoiceId>
       <JapaneseText>……ってこれ、
 ダオスがしてた話だし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or so he said.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276916</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_017&gt;</VoiceId>
       <JapaneseText>なんか、あいつのしてた話は
 よく覚えてんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For some reason, I remember our
+small talk more than anything.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>261812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277028</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_018&gt;</VoiceId>
       <JapaneseText>太陽の周りを回るアセリアは遊星、
 その周りを回るのが衛星だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aselia orbits around our great sun, in
+turn, a wandering planet orbits around
+Aselia. This is called a satellite.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <OldPtr>262752</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277108</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_019&gt;</VoiceId>
       <JapaneseText>デリス・カーラーンは衛星？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Derris Kharlan is a satellite planet?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <OldPtr>262892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277188</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_020&gt;</VoiceId>
       <JapaneseText>デリス・カーラーンは彗星だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Derris Kharlan is a comet.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
-      <OldPtr>263032</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277248</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_021&gt;</VoiceId>
       <JapaneseText>彗星？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A comet?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <OldPtr>263172</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277420</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_022&gt;</VoiceId>
       <JapaneseText>純然たるマナの塊星（かたまりぼし）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is a celestial body almost entirely
+composed of pure Mana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263312</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277420</PointerOffset>
@@ -314,62 +308,62 @@
       <JapaneseText>ガス化したマナは
 太陽から吹く風を受けて
 尾を引き、彗星になる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mana that becomes gas leaves a trail
+when it contacts solar wind. Therefore,
+it is considered a comet...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263312</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277496</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_024&gt;</VoiceId>
       <JapaneseText>へぇ……綺麗なんだろうね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow! That sounds so pretty!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <OldPtr>263452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277660</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_025&gt;</VoiceId>
       <JapaneseText>１００年に１度、我が母星は
 このアセリアに近づく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Every 100 years, my home world
+approaches Aselia's orbit.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263592</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277660</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_026&gt;</VoiceId>
       <JapaneseText>この星から見えるのは
 ５０年以上も先のことだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'll be able to see it from this
+planet in about 50 years.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263592</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277748</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_027&gt;</VoiceId>
       <JapaneseText>その頃、私、
 もうおばあちゃんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aw, but by that time I'll
+be a wrinkly old woman!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
-      <OldPtr>263732</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278028</PointerOffset>
@@ -377,26 +371,26 @@
       <JapaneseText>ダオスは初め全然、
 話してくれなくて、
 ずっと私だけが喋ってたけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At first Dhaos didn't talk at all and
+I had to do all the talking, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263928</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278028</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_029&gt;</VoiceId>
       <JapaneseText>少しずつ、本当に少しずつ
 自分のことを話すようになった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One step at a time...He gradually
+started opening up to me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263928</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278028</PointerOffset>
@@ -404,13 +398,14 @@
       <JapaneseText>デリス・カーラーンとか、
 『大いなる実り』とか、
 旅の苦難とかのことを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He talked about Derris Kharlan... His
+voyage to this planet, his suffering
+and how he needed the Mana Seed...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>263928</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278212</PointerOffset>
@@ -418,38 +413,39 @@
       <JapaneseText>その話を聞いて、
 私はダオスのために何か
 してあげたいって思った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was always so anxious for our next
+conversation. I'd have given anything
+to talk to him back then.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>264484</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278212</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_032&gt;</VoiceId>
       <JapaneseText>『大いなる実り』を、
 なんとかしてあげたかったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd have done anything to give him a Mana Seed...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>264484</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278680</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_038&gt;</VoiceId>
       <JapaneseText>ダオスと仮面の連中の話だったのに、
 つまんない話になっちゃったね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woops, there I go ranting. In short,
+I don't know how the masked guys
+and Dhaos are related.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
-      <OldPtr>265088</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278796</PointerOffset>
@@ -457,12 +453,12 @@
       <JapaneseText>いえ……いつかちゃんと
 ダオスに会って話が聞ければ
 ……いいですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, please...hearing about your
+talks with Dhaos has been nice.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <OldPtr>265532</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278916</PointerOffset>
@@ -470,46 +466,44 @@
       <JapaneseText>次、会って何も言わねーで
 逃げやがったら、オレらで
 とっ捕まえてやるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's catch him next time so
+we can get the full picture!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
-      <OldPtr>265728</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279004</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_041&gt;</VoiceId>
       <JapaneseText>ありがと、
 双子ちゃんはいい子だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You two really are a fair pair of twins!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
-      <OldPtr>265980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279064</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_042&gt;</VoiceId>
       <JapaneseText>……♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hehe~</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
-      <OldPtr>266232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279136</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_015_043&gt;</VoiceId>
       <JapaneseText>さっ、先に進もうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right, time to cut the
+chit chat and get going!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
-      <OldPtr>266428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

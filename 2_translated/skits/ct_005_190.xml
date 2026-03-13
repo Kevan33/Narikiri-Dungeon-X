@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>42720,42928,43148,43452,43620</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42820,43064,43260,43364,43516,43700</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -25,131 +25,122 @@
       <PointerOffset>42724</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_001&gt;</VoiceId>
       <JapaneseText>ずいぶん料理のレパートリーが増えたね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like our repertoire of recipes have increased.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42824</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_002&gt;</VoiceId>
       <JapaneseText>食うもんが増えんのはいいよな、
 もっと増やそうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Having more to eat is best. Let's find more.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42932</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_003&gt;</VoiceId>
       <JapaneseText>でも今は研究してるヒマないし、
 教えてもらわないとね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But we don't really have time to experiment new dishes,
+nor get someone to teach us more.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43068</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_004&gt;</VoiceId>
       <JapaneseText>でもさ、教えてくれるヤツいんだろ、
 あの……なんだっけ？　すばらしきワンダーシェフ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't there someone right here? Uhh...what's their
+name again...? The Wonderful Wonder Chef?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43152</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_005&gt;</VoiceId>
       <JapaneseText>『すばらしき味の世界』、でしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wasn't it the "wonderful world of flavors"?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38996</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43264</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_006&gt;</VoiceId>
       <JapaneseText>どっちでもいいけど、あいつら、
 変装して待ち伏せしてんなら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatever! Anyways, those guys are probably hiding
+somewhere in a disguise.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39372</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43368</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_007&gt;</VoiceId>
       <JapaneseText>一緒に来てくれればいいのに、
 オレらの料理番としてさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It'd be better if they joined us as a personal
+cook or something.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39704</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43456</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_008&gt;</VoiceId>
       <JapaneseText>……でも、歩きづらいかもしれない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...It might be hard to walk around with them...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43520</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_009&gt;</VoiceId>
       <JapaneseText>歩きづらい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43624</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_010&gt;</VoiceId>
       <JapaneseText>だって、あんな変装の人と
 街とか一緒に歩けないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't just expect us to walk around town
+with someone dressed like that, can you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43704</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_190_011&gt;</VoiceId>
       <JapaneseText>見た目よりうまい飯、だろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who cares, at least we'd have good food!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

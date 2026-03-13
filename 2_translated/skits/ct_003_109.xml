@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42384,42828</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42468,42760,43044</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42556,42664,42936,43120</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,108 +34,96 @@
       <VoiceId>&lt;audio:VCT_003_109_001&gt;</VoiceId>
       <JapaneseText>なんかヘンテコなとこに
 出ちゃったよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now we've come to a really weird place.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42472</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_002&gt;</VoiceId>
       <JapaneseText>不思議……空の上にいるみたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How perplexing...You can see the stars from here...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37736</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42560</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_003&gt;</VoiceId>
       <JapaneseText>この洞窟、
 どこまで続いてるの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where is this cave taking us to...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42668</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_004&gt;</VoiceId>
       <JapaneseText>一体……きみたち、どこまで
 行かなきゃいけないの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And yet...you will go no matter what, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42764</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_005&gt;</VoiceId>
       <JapaneseText>わかんないけど……
 ノルンがいるところまで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know about this place, but I'm sure Norn is just ahead.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42832</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_006&gt;</VoiceId>
       <JapaneseText>帰るか？　エト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to go back, Eto?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39664</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42940</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_007&gt;</VoiceId>
       <JapaneseText>行く……！！
 きみたちが行くなら、ぼくもどこまでも……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm going...! Wherever you two go I'll always be there!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40100</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43048</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_008&gt;</VoiceId>
       <JapaneseText>うん……帰るなんて言わないで……
 これが最後だから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...It's impossible to return now...This is where it all ends...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40768</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43124</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_109_009&gt;</VoiceId>
       <JapaneseText>……最後って、そんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Where it...ends...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41612</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

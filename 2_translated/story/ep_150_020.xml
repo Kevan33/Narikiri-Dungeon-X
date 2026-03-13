@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>293500,293840,294088,294344</PointerOffset>
       <JapaneseText>ルナ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293640,294432</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293760</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>293908,294248,294512</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294168,294576</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -90,25 +90,23 @@
       <VoiceId>&lt;audio:VSM_150_020_001&gt;</VoiceId>
       <JapaneseText>ようこそ、
 いらっしゃいました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are most welcome in my domain.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>277964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293504</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_002&gt;</VoiceId>
       <JapaneseText>私に何の用ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What exactly is your business?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>277964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293644</PointerOffset>
@@ -116,25 +114,25 @@
       <JapaneseText>魔界の扉を閉じるために、
 あなたの力を
 お借りしたいのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna, we need your powers once again.
+The Otherwordly Gate must be closed
+to prevent a monster rampage.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>278104</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293644</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_004&gt;</VoiceId>
       <JapaneseText>それと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One more thing...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>278104</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293764</PointerOffset>
@@ -142,35 +140,34 @@
       <JapaneseText>あ……あの、わたしたち、
 なくした精霊晶核を
 取り戻したいんですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Well... Our Elements' Pot broke and
+I would like to ask if there's any
+possibility it could be restored...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>278600</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293844</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_006&gt;</VoiceId>
       <JapaneseText>手ぶらで
 私に頼みごとですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're daring to ask this much while empty-handed?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>278956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293912</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_007&gt;</VoiceId>
       <JapaneseText>いえ、あの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, you see...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>279432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294092</PointerOffset>
@@ -178,81 +175,77 @@
       <JapaneseText>そのあなたたちの非礼、
 正してあげます。
 覚悟しなさい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How impudent! Your attitude must be
+corrected this instant. Prepare yourself!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>279572</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294172</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_010&gt;</VoiceId>
       <JapaneseText>ちょっ……
 いきなり何だよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woah! That escalated quickly!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <OldPtr>281296</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294252</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_011&gt;</VoiceId>
       <JapaneseText>ど、どうされたのですか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Why are you intent on fighting us?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>282684</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294348</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_012&gt;</VoiceId>
       <JapaneseText>どうもこうもありません！
 ……てか、逃げるな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've no need to explain...! You
+shall not escape your sins!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>282880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294436</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_013&gt;</VoiceId>
       <JapaneseText>ルナって、
 こんな精霊だったっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna, are you really the Summon
+Spirit we met once before?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>283020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294516</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_014&gt;</VoiceId>
       <JapaneseText>ち、違うと思うんですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She does seem rather different...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <OldPtr>283216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>294580</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_015&gt;</VoiceId>
       <JapaneseText>くそっ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is bad...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <OldPtr>283412</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

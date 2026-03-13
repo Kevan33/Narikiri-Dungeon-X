@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>272440,272580,272664,272884,273084,273212</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272512,272788,272984</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273148</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,46 +73,42 @@
       <PointerOffset>272444</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_000&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>258624</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272516</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_001&gt;</VoiceId>
       <JapaneseText>どうすんの、&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What will you do now, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>258940</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272584</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_002&gt;</VoiceId>
       <JapaneseText>どうしようか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's a good question...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272668</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_003&gt;</VoiceId>
       <JapaneseText>……うーん……
 どうしよう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really...don't know.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259784</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272792</PointerOffset>
@@ -120,24 +116,25 @@
       <JapaneseText>……マクスウェルのとこに
 精霊晶核が戻ってるかもって
 ルナは言ってたけド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna said we should go visit Maxwell
+to get the Atomism Cores back.
+That's a good lead.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>259980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272888</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_005&gt;</VoiceId>
       <JapaneseText>エトと&lt;Couleur&gt;とで、
 &lt;Red&gt;モーリア坑道&lt;White&gt;か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think you two should go to
+&lt;Red&gt;Moria Mine&lt;White&gt; without me...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272988</PointerOffset>
@@ -145,46 +142,43 @@
       <JapaneseText>やっぱり&lt;Dio&gt;が
 いた方がいいよね。
 男の子だもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew it. You'd rather
+be at &lt;Dio&gt;'s side, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273088</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_007&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;なんかいなくても
 ……平気だよ……うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure we'll pull through...without...&lt;Dio&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>260728</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273152</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_008&gt;</VoiceId>
       <JapaneseText>クルル！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>261816</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273216</PointerOffset>
       <VoiceId>&lt;audio:VSM_170_020_009&gt;</VoiceId>
       <JapaneseText>何……！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What..!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>263264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

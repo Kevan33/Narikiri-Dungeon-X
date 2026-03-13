@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>276392,276492,276680,276824</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -59,12 +59,13 @@
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;の街にも少しずつ
 人が戻り始め、元の賑わいを
 取り戻していました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The people of &lt;Red&gt;Valhalla&lt;White&gt; are slowly returning,
+and with that, the town reclaims its former
+prosperous, lively demeanor.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>261804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276496</PointerOffset>
@@ -72,50 +73,48 @@
       <JapaneseText>わたしたちは
 『なりきり士』のお仕事を
 始めました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We started our job as Roleplayers in this town.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>262768</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276684</PointerOffset>
       <VoiceId>&lt;audio:VSM_250_020_003&gt;</VoiceId>
       <JapaneseText>子どもの面倒みたりとか、
 犬のお散歩、とか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We do things like babysitting
+children or walking dogs.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>266668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276828</PointerOffset>
       <VoiceId>&lt;audio:VSM_250_020_004&gt;</VoiceId>
       <JapaneseText>あんまり『なりきり士』の
 力とは関係ないけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Things that have nothing to do with
+our Roleplayer powers, of course.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>267108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>276828</PointerOffset>
       <VoiceId>&lt;audio:VSM_250_020_005&gt;</VoiceId>
       <JapaneseText>……うん。
 なんとかやってます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Still, we have to do what we can.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>267108</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

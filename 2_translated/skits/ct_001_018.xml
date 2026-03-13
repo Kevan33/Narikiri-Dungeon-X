@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>42408,42616,42908,43324</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42484,42680,43252</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42776,43052,43404</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43160</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,132 +42,118 @@
       <VoiceId>&lt;audio:VCT_001_018_001&gt;</VoiceId>
       <JapaneseText>君たちは……エルフでは
 ないようだが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You guys aren't elves, are you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42488</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_002&gt;</VoiceId>
       <JapaneseText>はい、違いますけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We aren't, why do you ask...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42620</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_003&gt;</VoiceId>
       <JapaneseText>魔術を使えるのはエルフだけのはずだ。
 でも、君たちは魔術を使える。どうしてだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only those with elven blood can use magic...but you can use magic anyways. Why's that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42684</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_004&gt;</VoiceId>
       <JapaneseText>えっと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38224</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42780</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_005&gt;</VoiceId>
       <JapaneseText>そこが『なりきり士』の
 すごいところだぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's because of how amazing it is to be a "Roleplayer"!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42912</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_006&gt;</VoiceId>
       <JapaneseText>エルフでもないのに魔術を、か。
 『なりきり士』っていうのは得体の知れない力だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You aren't elves but can use magic, huh? The power of "Roleplaying" sounds quite surreal.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38764</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43056</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_007&gt;</VoiceId>
       <JapaneseText>あっ、もしかして料理人の服着れば、超一流の
 すげーうまい豪華料理を作って食えるんじゃねーの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah! Does that mean if we got some chef's clothes we would be able to prepare the best dishes ever?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39432</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43164</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_008&gt;</VoiceId>
       <JapaneseText>大工さんになったら、
 エトスハウスを新しく建て直せるかも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or if you were a carpenter we could turn Ethos' House into a huge mansion!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43256</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_009&gt;</VoiceId>
       <JapaneseText>家の修理も、豪華料理も
 材料が必要だよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Big meals and a great house are all you really want?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40964</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43328</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_010&gt;</VoiceId>
       <JapaneseText>君はリアリストだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're pretty down to the ground.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41412</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43408</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_011&gt;</VoiceId>
       <JapaneseText>っていうか、
 夢がないぜ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So you say. Now the dream has died.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>41636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

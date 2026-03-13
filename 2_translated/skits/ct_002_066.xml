@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>49596,50000,50684,50864</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49664,49908</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49744,50772,50952</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49840,50108,50424</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50228,50580</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50340</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -58,179 +58,161 @@
       <VoiceId>&lt;audio:VCT_002_066_001&gt;</VoiceId>
       <JapaneseText>オレらが牢屋に捕まってる間、
 のんびり温泉つかりやがって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's get this straight. While I was rotting in a cell you were ENJOYING THE SPA?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49668</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_002&gt;</VoiceId>
       <JapaneseText>クルルルルゥ～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuuru?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38556</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49748</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_003&gt;</VoiceId>
       <JapaneseText>&lt;Couleur&gt;に怒っても仕方ないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, there's no use getting mad with &lt;Couleur&gt; now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38948</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49844</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_004&gt;</VoiceId>
       <JapaneseText>そうそう。
 いい湯加減で気持ちよかったよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, plus, the water temperature was perfect, wouldn't you agree fur ball?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39388</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49912</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_005&gt;</VoiceId>
       <JapaneseText>クールール～ン♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuruuun!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50004</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_006&gt;</VoiceId>
       <JapaneseText>ロ、&lt;Rody&gt;まで
 オレらをほうって……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt; betrayed us too...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40652</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50112</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_007&gt;</VoiceId>
       <JapaneseText>だって、あの時は君たちが
 捕まってるなんて知らなかったし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I didn't know you were in prison at that time so I thought it'd be a waste not to!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41148</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50232</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_008&gt;</VoiceId>
       <JapaneseText>おらも温泉入りてぇだーよ。
 ふくろだぬきが入ったなんて許せないだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to go to the hot springs too! But even if we return I obviously can't take a dip. How unfair!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41536</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50344</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_009&gt;</VoiceId>
       <JapaneseText>うちのお湯は酸性なので、
 金具が錆びてしまうかもしれません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The waters inside my residence are quite acidic but the metal fittings never rust at all. I believe you'll be ok.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42580</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50428</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_010&gt;</VoiceId>
       <JapaneseText>それに湿気で腐っちゃうかもだしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case, let's get real wet!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50584</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_011&gt;</VoiceId>
       <JapaneseText>やんだやんだぁ。おらも&lt;Mel&gt;&lt;Mel&gt;と&lt;Rody&gt;たんと
 ミーたまと&lt;Suzu&gt;ちんと一緒に温泉入りてぇだ～よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's settled! I'll take a bath with &lt;Mel&gt;-&lt;Mel&gt;, Miss &lt;Rody&gt;, &lt;Mint&gt;y and Lil' &lt;Suzu&gt; with lots of love!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50688</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_012&gt;</VoiceId>
       <JapaneseText>だったら、腐ったまま、
 二度と湯からあがってくんな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if you enter there won't be space for anyone else and you'll drown like the pervert you are!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>45288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50776</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_013&gt;</VoiceId>
       <JapaneseText>そういう&lt;Dio&gt;こそ、
 入らないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why don't you take a bath with us instead?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>46916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50868</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_014&gt;</VoiceId>
       <JapaneseText>え？　オレは……遠慮しとく。
 あはは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? That's...I must go. Hahahahaha.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <OldPtr>47544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50956</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_015&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……
 お風呂が嫌いなんです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really do hate baths that much, huh?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <OldPtr>48444</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42928,43192,43364,43516,43608,43844</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42996,43672</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43096,43288,43452,43740</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,142 +34,127 @@
       <VoiceId>&lt;audio:VCT_001_013_001&gt;</VoiceId>
       <JapaneseText>論文燃やされたからあんなこと言うなんて
 やつあたりだよ……ひどい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That man said &lt;Claus&gt;'s thesis was burnt and that it made him to go mad...How cruel...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43000</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_002&gt;</VoiceId>
       <JapaneseText>クル～～ルゥ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37752</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43100</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_003&gt;</VoiceId>
       <JapaneseText>でも、&lt;Mel&gt;が髪飾り全部捨てられたら
 どうすんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When all your hair accessories were thrown away you didn't like it one bit either, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37864</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43196</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_004&gt;</VoiceId>
       <JapaneseText>確かに落ち込むけど、
 あんなこと言わないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I got really down due to it but... that's not the same type of bad things!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38240</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43292</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_005&gt;</VoiceId>
       <JapaneseText>育てた鉢植えや花壇の花、
 掘り返されたら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What about the potted plant and the flower you liked so much? They withered away, remember?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38604</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43368</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_006&gt;</VoiceId>
       <JapaneseText>それもイヤだよ、でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That was horrible too, but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43456</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_007&gt;</VoiceId>
       <JapaneseText>ポエム書いたノート、
 燃やされるとか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What about the notebook you wrote your poems got burnt?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39168</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43520</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_008&gt;</VoiceId>
       <JapaneseText>それも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That too was...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43612</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_009&gt;</VoiceId>
       <JapaneseText>え……？
 なんで、&lt;Dio&gt;、そのこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...? How do you know all these things...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>39448</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43676</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_010&gt;</VoiceId>
       <JapaneseText>クルール～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururuu?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43744</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_011&gt;</VoiceId>
       <JapaneseText>あ、やべっ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, crap...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>40480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_013_012&gt;</VoiceId>
       <JapaneseText>ひどーいっ！！　見たの！
 ちょっと！　待ちなさいっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You did all those things? You're terrible! Hold on! Wait right there!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>41132</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

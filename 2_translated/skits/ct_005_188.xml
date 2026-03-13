@@ -5,74 +5,74 @@
     <Entry>
       <PointerOffset>46324,46548</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46428,47016</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46668</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46764</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46884</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46952</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47128</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47200</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47280</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -81,131 +81,122 @@
       <PointerOffset>46328</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_001&gt;</VoiceId>
       <JapaneseText>おまえはもう料理すんな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, that's enough cooking for you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>38140</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46432</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_002&gt;</VoiceId>
       <JapaneseText>なんでさ。あたしだって、
 みんなの役に立ちたいのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's your problem!? Everyone's starving,
+you know! I want to be of use to them.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46552</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_003&gt;</VoiceId>
       <JapaneseText>役に立ちたいってんなら、お願いだから、
 おとなしく座っててくれ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not cooking will be of use to them! So please,
+can you just sit still and be quiet.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39408</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46672</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_004&gt;</VoiceId>
       <JapaneseText>&lt;Arche&gt;は他のところで、
 みんなの役に立ってくれてるからいいんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;, he's saying that you'd be more useful helping
+out somewhere else.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>40856</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46768</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_005&gt;</VoiceId>
       <JapaneseText>そ、そうですよ……
 ここは私たちに任せて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-Yes, he's right...Leave the cooking to us.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>41548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46888</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_006&gt;</VoiceId>
       <JapaneseText>どうだ、この本、面白いぞ、
 暇つぶしにちょうどいいから貸してやろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why don't you help me out by keeping me company
+while I read this book? It's really good for passing the time.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46956</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_007&gt;</VoiceId>
       <JapaneseText>私もご一緒します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Allow me to accompany you.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <OldPtr>42780</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47020</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_008&gt;</VoiceId>
       <JapaneseText>何よぉ、ブー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the hell...Hmph!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>43152</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47132</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_009&gt;</VoiceId>
       <JapaneseText>５人がかりで&lt;Arche&gt;さんを
 食事当番から引きずりおろした……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It took five people to pull &lt;Arche&gt; off of meal
+duty...That's insane!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <OldPtr>44892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47204</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_010&gt;</VoiceId>
       <JapaneseText>……すごい団結力だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What amazing solidarity...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>10</Id>
-      <OldPtr>45192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47284</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_188_011&gt;</VoiceId>
       <JapaneseText>……こんな団結力とかって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You call this solidarity...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>11</Id>
-      <OldPtr>45428</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

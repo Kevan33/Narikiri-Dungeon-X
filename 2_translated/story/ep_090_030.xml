@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>297732,297964,298196</PointerOffset>
       <JapaneseText>ウンディーネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Undine</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297840</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298048</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -74,12 +74,11 @@
       <VoiceId>&lt;audio:VSM_090_030_001&gt;</VoiceId>
       <JapaneseText>誰じゃ！
 わらわの眠りを妨げる者は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who goes there! Who dares disrupt my slumber!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>280852</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297844</PointerOffset>
@@ -87,61 +86,58 @@
       <JapaneseText>ウンディーネ！
 私だ！　先年、おまえと
 契約を結んだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Undine, it's me! I'm the person you
+sealed a pact with in the past...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>285924</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297968</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_003&gt;</VoiceId>
       <JapaneseText>また貴様か！
 一度ならず二度までも！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You...scum! You weren't content humiliating me
+once so you dare to attempt a second time!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>286064</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297968</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_004&gt;</VoiceId>
       <JapaneseText>もう許さぬ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll won't forgive this insolence!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>286064</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298052</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_005&gt;</VoiceId>
       <JapaneseText>待ってください、
 わたしたち……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please, wait! We just want...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>286316</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298200</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_006&gt;</VoiceId>
       <JapaneseText>待たぬ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will not!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>287280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298200</PointerOffset>
@@ -149,13 +145,14 @@
       <JapaneseText>わらわは命令されるのと
 眠りを妨げられるのが
 一番嫌いなのじゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I refuse to take orders from those
+who disrupted my slumber!
+I'll make you pay severely!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>287280</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>298504,299312</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298644,299036,299224,299508</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298832,298896</PointerOffset>
       <JapaneseText>シルフ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sylph</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298968,299140,299412,299728,299800</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>299624</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,23 +89,21 @@
       <PointerOffset>298508</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_018&gt;</VoiceId>
       <JapaneseText>よかった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We did it...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>279232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298648</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_020&gt;</VoiceId>
       <JapaneseText>か、軽ぃ軽ぃ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-Nothing to it...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>279476</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298836</PointerOffset>
@@ -113,105 +111,98 @@
       <JapaneseText>……いいでしょう。
 あなたたちに我が精霊晶核を
 お分けしましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You did well... Now I'll lend you my Atomism Core.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>279896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298900</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_023&gt;</VoiceId>
       <JapaneseText>それでは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, then...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>281916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298972</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_024&gt;</VoiceId>
       <JapaneseText>……まだ足りない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's...not enough...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>283408</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299040</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_025&gt;</VoiceId>
       <JapaneseText>足りないって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's not enough?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>283780</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299144</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_026&gt;</VoiceId>
       <JapaneseText>乙女のヒミツを覗くなんて、
 &lt;Dio&gt;くん、だいた～ん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Trying to expose a girl's secret, huh?
+&lt;Dio&gt;, you’re so bold!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>284228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299228</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_027&gt;</VoiceId>
       <JapaneseText>いや、そんなんと
 違くて……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-No I didn't mean to... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>284424</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299316</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_028&gt;</VoiceId>
       <JapaneseText>ちょっと、&lt;Dio&gt;、
 何やってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on, &lt;Dio&gt;! What are you up to?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>285036</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299416</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_029&gt;</VoiceId>
       <JapaneseText>ほら、他の精霊さんとこ、
 行ったりするんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, now! Shouldn't we focus on
+finding the rest of the Spirits?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>285596</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299512</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_030&gt;</VoiceId>
       <JapaneseText>そ、そうそう、それそれ！
 次はどこ行くんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-Yeah! What she said! Where to now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>285792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299628</PointerOffset>
@@ -219,35 +210,33 @@
       <JapaneseText>ここからだと
 この大陸を南に下がった
 &lt;Red&gt;精霊の洞窟&lt;White&gt;が一番近いな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we continue South from this continent, we should
+find the Cavern of Spirits. It's our fastest route.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <OldPtr>285988</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299732</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_032&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;精霊の洞窟&lt;White&gt;ってことは、
 ノームがいるところだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister Gnome is in the Cavern of Spirits, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <OldPtr>286912</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>299804</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_033&gt;</VoiceId>
       <JapaneseText>んじゃ、行ってみよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then, let's move!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <OldPtr>287716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

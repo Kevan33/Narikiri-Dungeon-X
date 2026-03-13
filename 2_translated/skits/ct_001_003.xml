@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>48600,48688,48876,49404</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48780,49076,49316,49488</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48960,49164</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49572</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,130 +42,116 @@
       <VoiceId>&lt;audio:VCT_001_003_001&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、ちゃんと必要なもの
 買ったね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;! You bought such beautiful wares!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37332</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48692</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_002&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、ほら、
 ボタン掛け違えてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, here! We need to visit some cloth button stores!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48784</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_003&gt;</VoiceId>
       <JapaneseText>エト助は、ふたりの保護者みたいだなや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto, you really do a good job taking care of these kids! Such honest love!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38692</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48880</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_004&gt;</VoiceId>
       <JapaneseText>そうだよ！
 ぼくはふたりのお母さんだもん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But of course! That's because I am their mother!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>40124</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48964</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_005&gt;</VoiceId>
       <JapaneseText>へん、エトが
 母ちゃんなもんかよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh, you'd need to be nuts to think Eto is our mother!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40724</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49080</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_006&gt;</VoiceId>
       <JapaneseText>あはは～～ん。
 おめぇ、ほんとはエト助のこと、大好きなんだべ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe! Don't act like you dislike Eto, because truth of the matter is you're a huge momma's boy!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49168</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_007&gt;</VoiceId>
       <JapaneseText>うるせー！　タンス野郎は黙ってろ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-what did you say!? Shut your trap, dresser bastard!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>43176</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49320</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_008&gt;</VoiceId>
       <JapaneseText>はぁん？　誰に向かってタンス言ってんだど！
 おめぇなんぞ、毛も生えてねぇ、ハゲぼうずのくせが！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Who are you calling a bastard? Look at that huge forehead, you are gonna become a beautiful bald kid in no time!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>44564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49408</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_009&gt;</VoiceId>
       <JapaneseText>ほら、ふたりともけんかしちゃだめ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! You two there! Stop fighting!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>46292</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49492</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_010&gt;</VoiceId>
       <JapaneseText>す……すまねーだ、母ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I'm sorry, mom.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>47312</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49576</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_011&gt;</VoiceId>
       <JapaneseText>あれ……アルベルトさんまで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Now even Mister Albert...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <OldPtr>47868</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>297048,297212,297348,297796</PointerOffset>
       <JapaneseText>ヴォルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Volt</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297148,297272,297724,297980,298252,298452</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297440,297632,297908,298160</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>297512,298080</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>298344</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,12 +89,11 @@
       <PointerOffset>297052</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_009&gt;</VoiceId>
       <JapaneseText>▼☆○◆～～～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>▼☆○◆〜〜〜 </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>278012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297152</PointerOffset>
@@ -102,68 +101,63 @@
       <JapaneseText>ヴォルト！
 オレらに“電気”の
 力を分けてくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Volt! Please give us the
+power of "electricity"!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>278208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297216</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_011&gt;</VoiceId>
       <JapaneseText>※★☆●～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>※★☆●〜 </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>278348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297276</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_012&gt;</VoiceId>
       <JapaneseText>あっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>278808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297352</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_013&gt;</VoiceId>
       <JapaneseText>◎×※※★□▼＄☆……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>◎×※※★□▼＄☆...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>280688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297444</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_014&gt;</VoiceId>
       <JapaneseText>え……南の……方の
 精霊が騒がしい……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Search for...the Spirit...south from here?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>281352</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297516</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_015&gt;</VoiceId>
       <JapaneseText>ん？　どういうこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm? Is something wrong?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>281908</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297636</PointerOffset>
@@ -171,58 +165,56 @@
       <JapaneseText>さあ、それは……。
 でも、ヴォルトの言ってる言葉が
 わかるみたいで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what it...it's nothing. I mean it
+seems no one understood it, anyways...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>282160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297728</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_017&gt;</VoiceId>
       <JapaneseText>精霊晶核もらったことと
 関係あんのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe you could understand him since
+he gave us the Atomism Core?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>283032</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297800</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_018&gt;</VoiceId>
       <JapaneseText>☆☆☆◎★★※▲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>☆☆☆◎★★※▲ </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>283424</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297912</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_019&gt;</VoiceId>
       <JapaneseText>えっと……その騒ぎのせいで、
 わたしたちを襲った……って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's because of a disturbance...
+that he attacked us...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>283676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297984</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_020&gt;</VoiceId>
       <JapaneseText>精霊が、騒がしい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Spirits are...disturbed...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>283932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298084</PointerOffset>
@@ -230,36 +222,35 @@
       <JapaneseText>もしかして、
 そこにエトちゃんがいる、
 とか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't think that...
+Miss Eto could be there!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <OldPtr>284336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298164</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_022&gt;</VoiceId>
       <JapaneseText>そう言えば
 ノームの時も……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right. Gnome said he
+was disturbed as well...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <OldPtr>284700</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298256</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_023&gt;</VoiceId>
       <JapaneseText>それだよ……！
 きっとそこにエトがいる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's it! She must be there!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <OldPtr>285172</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298348</PointerOffset>
@@ -267,36 +258,33 @@
       <JapaneseText>ここから
 南の大陸と言えば
 アーリィですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>South from here lies the continent of Arlee.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
-      <OldPtr>286008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298456</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_025&gt;</VoiceId>
       <JapaneseText>行ってみよーぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go look!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>286564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>298456</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_060_026&gt;</VoiceId>
       <JapaneseText>サンキュ、ヴォルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks a bunch, Volt!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>286564</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

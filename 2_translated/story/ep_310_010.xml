@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>270376,270564,270764</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270472,271564</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270700</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -75,24 +75,25 @@
       <JapaneseText>ここがダオスの城……？
 ダオス戦役んとき、
 時空の狭間にあったって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Dhaos's Castle...? During
+the war against him, it was
+inside a pocket dimension.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270476</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_002&gt;</VoiceId>
       <JapaneseText>そう、&lt;Cless&gt;たちが
 最後にダオスと戦った場所</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right. This is where the decisive fight
+of &lt;Cless&gt; and the others took place.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259332</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270568</PointerOffset>
@@ -100,24 +101,22 @@
       <JapaneseText>……オレらも、
 そこに乗り込もー
 ってか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...And we're marching inside now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>260080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270704</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_004&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260220</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270704</PointerOffset>
@@ -125,35 +124,33 @@
       <JapaneseText>……確かめたいことが
 あるって言ってたよね？
 ……なに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You said there was something you two
+had to be sure of... What did you mean?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260220</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270768</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_006&gt;</VoiceId>
       <JapaneseText>オレらは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260460</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271568</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_016&gt;</VoiceId>
       <JapaneseText>さ、行こうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

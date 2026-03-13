@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>48280,48480,48896</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48340,48968,49168,49392</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48400</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48552</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48692,48784,49092,49248</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -49,151 +49,135 @@
       <PointerOffset>48284</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_001&gt;</VoiceId>
       <JapaneseText>ね？　さっき変な声しなかった？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, didn't you listen to a weird voice just a while back?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48344</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_002&gt;</VoiceId>
       <JapaneseText>変な声？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A weird voice?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37816</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48404</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_003&gt;</VoiceId>
       <JapaneseText>クルール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_004&gt;</VoiceId>
       <JapaneseText>悲鳴みたいな、ちょっと変な声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It sounded like a scream. A strange voice.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38356</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48556</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_005&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;って耳いいよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;, are your ears all right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38808</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48696</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_006&gt;</VoiceId>
       <JapaneseText>その声は、奥へと立ち入ろうとして魔物に
 食い殺された数々の恨みを抱いた霊の数々の声……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unknowingly to them the voice belonged to a monster starving for human flesh. Barely hearable, the monster approaches...with its clicking, the voice approaches....</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39080</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48788</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_007&gt;</VoiceId>
       <JapaneseText>……ってあれ？　怖くないのか、&lt;Mel&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? You're not scared, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48900</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_008&gt;</VoiceId>
       <JapaneseText>幽霊とかウソですよね？
 だってここ変な感じとかしないですし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't ghosts just lies? Plus, I just think it's a weird feeling.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>42068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48972</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_009&gt;</VoiceId>
       <JapaneseText>へ、変な感じ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A-A weird feeling?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49096</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_010&gt;</VoiceId>
       <JapaneseText>そうでも、そういう時はきゃあとか
 怖がった方が可愛いぜ？　な？　&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aw that's a shame. I really wanted to listen you put a good old cute "kyaaa!" Right, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43140</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49172</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_011&gt;</VoiceId>
       <JapaneseText>え？　あ、ああ、うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-yeah... Totally...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <OldPtr>44180</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49252</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_012&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;は脅かしがいがないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt; really is hard to surprise, huh?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <OldPtr>45956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49396</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_013&gt;</VoiceId>
       <JapaneseText>え？　あ、ちょ、ちょっと、みんなどこ行ったんだ！
 ひ、ひとりにすんなよ、え？　あ、おい……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-hey! E-everyone?? Where did you go!? Don't leave me alone! Heeey!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <OldPtr>46196</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

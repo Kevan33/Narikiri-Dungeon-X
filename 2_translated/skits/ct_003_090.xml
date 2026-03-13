@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>40188,40296,40404,40516,40608,40712,40800,40884</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -18,96 +18,85 @@
       <VoiceId>&lt;audio:VCT_003_090_001&gt;</VoiceId>
       <JapaneseText>あの幻……あの子はどうして
 町の中をさまよって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that illusion...why was that girl wandering around the town...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40300</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_002&gt;</VoiceId>
       <JapaneseText>そうだ……捨てられたんだ……
 お母さんに、捨てられたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...She's been casted away...Her mother probably casted her away...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37132</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40408</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_003&gt;</VoiceId>
       <JapaneseText>戦争があって……それで、
 すごく長くて寒い冬があって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ever since the war began...There's been this prolonged, cold winter...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37740</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40520</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_004&gt;</VoiceId>
       <JapaneseText>もうこれ以上、お母さんは
 その子を育てることができなくて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In these conditions it might be impossible for her mother to raise a child...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38012</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40612</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_005&gt;</VoiceId>
       <JapaneseText>一番、いらない子だったわたしを捨てた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the first place, I'm an abandoned kid, too...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38420</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40716</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_006&gt;</VoiceId>
       <JapaneseText>……あれ？　なんでこんなこと、
 わたし知ってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait a minute...Why do I know so much about this?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40804</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_007&gt;</VoiceId>
       <JapaneseText>幻……？　もしかして幻じゃない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Was that really an illusion? That had to be real...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>38880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40888</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_090_008&gt;</VoiceId>
       <JapaneseText>……わかんない……わかんないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohh...I don't understand any of this...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39284</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>53316,53512,54160,54356,54568</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>53412,53628,53856,53972,54096,54828</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>53740,54292,54500,54712</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,178 +33,160 @@
       <PointerOffset>53320</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_001&gt;</VoiceId>
       <JapaneseText>ちょ、ちょ、ちょっと！　なんか言いなさいよ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait a second! Say something, you!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>39528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53416</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_002&gt;</VoiceId>
       <JapaneseText>あ～～、なんだぁ？　おら忙しいだーよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatcha want? I'm busy, make it short.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>40380</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53516</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_003&gt;</VoiceId>
       <JapaneseText>人の顔見て、ため息ついて。いったいなんなのよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You just show up on new people's faces without saying a word? What sort of weirdo does that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>41088</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53632</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_004&gt;</VoiceId>
       <JapaneseText>そったらことがえ？
 あんまりにも、期待外れだったもんでよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that what it looks like? Here's some news for you miss, this is the face of disappointment...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>41748</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53744</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_005&gt;</VoiceId>
       <JapaneseText>何に期待して、出てきたんだよ？
 前に会ったんじゃないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And what exactly where you expecting? You don't mean you met her before, do you?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>42468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53860</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_006&gt;</VoiceId>
       <JapaneseText>きらめきの塔の時は、
 おら&lt;Mel&gt;&lt;Mel&gt;の胸にうずもれてただ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh I've taken a peek back in Glimmer Spire while buried under &lt;Mel&gt;-&lt;Mel&gt;'s bosom.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>43048</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53976</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_007&gt;</VoiceId>
       <JapaneseText>もっと、こう元気印のハツラツな娘っ子だと
 思ってただーよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I thought I'd meet a lively charming young lady, full of energy and love for this world...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>43844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54100</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_008&gt;</VoiceId>
       <JapaneseText>それが、こ～んな女として
 魅力の欠片もねぇとんだすれっからしとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yet this excuse of a woman standing next to me isn't even a fraction of charming as what I had in mind...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>44772</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54164</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_009&gt;</VoiceId>
       <JapaneseText>ちょっと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait a sec—</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>45508</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54296</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_010&gt;</VoiceId>
       <JapaneseText>いい加減にしろ！　&lt;Arche&gt;のこと、
 何も知らないくせに勝手なこと、言うんじゃねぇ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok that's enough jabbering, pal! You don't know the first thing about &lt;Arche&gt; so do me a favor and shut that pie hole!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <OldPtr>46004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54360</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_011&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>48208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54504</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_012&gt;</VoiceId>
       <JapaneseText>確かにすぐに怒るし、おしゃべりだし、素直じゃ
 ないし、胸もない、料理も下手、だけどなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah she gets angry quickly, is a loudmouth, has no manners, is as flat as it gets, can't cook and so on but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <OldPtr>48400</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54572</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_013&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;のバカ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;, you idiot!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <OldPtr>50588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54716</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_014&gt;</VoiceId>
       <JapaneseText>……だけど、そういうところが悪くないって、
 言おうと思ったのに……オレってしまらねぇな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yet she's not a bad person at all...is what I wanted to say. Damn I screwed up...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <OldPtr>51264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54832</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_015&gt;</VoiceId>
       <JapaneseText>……ただの凶暴なオバハンだでよ……
 くわばら、くわばら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Sounds like a regular old grandma to me. Shame on you. Shame on you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <OldPtr>52228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

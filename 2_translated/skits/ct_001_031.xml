@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>44160</PointerOffset>
       <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; ＆ &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44284,44416,44560,44716,44856,45012,45144</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44344,44496,44636,44788,44936,45080,45232</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45316</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,180 +41,161 @@
       <PointerOffset>44164</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_001&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37244</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44288</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_003&gt;</VoiceId>
       <JapaneseText>あの、さ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, um...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37676</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44348</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_004&gt;</VoiceId>
       <JapaneseText>なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44420</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_005&gt;</VoiceId>
       <JapaneseText>……何怒ってんの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why are you angry, now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44500</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_006&gt;</VoiceId>
       <JapaneseText>別に。怒ってなんかねーって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nope. I'm not mad at all.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38448</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44564</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_007&gt;</VoiceId>
       <JapaneseText>……ゴメン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Sorry.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44640</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_008&gt;</VoiceId>
       <JapaneseText>怒ってねーってんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are YOU angry?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>38972</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44720</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_009&gt;</VoiceId>
       <JapaneseText>謝ってるのに、何で怒んの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm apologizing! Why are you angry now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44792</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_010&gt;</VoiceId>
       <JapaneseText>怒ってねーっての！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm NOT angry!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>39776</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44860</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_011&gt;</VoiceId>
       <JapaneseText>じゃあ、笑って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then smile.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>40016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44940</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_012&gt;</VoiceId>
       <JapaneseText>突然言われて、笑えるかって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just telling me to smile won't make me smile.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>40248</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45016</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_013&gt;</VoiceId>
       <JapaneseText>やっぱり、怒ってるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew it, you're mad!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>40496</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45084</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_014&gt;</VoiceId>
       <JapaneseText>……んだよ、もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>40664</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45148</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_015&gt;</VoiceId>
       <JapaneseText>気持ち悪い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's just creepy...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <OldPtr>41568</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45236</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_016&gt;</VoiceId>
       <JapaneseText>んだよ、どうすりゃいいってんだ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>God, what do you want me to do!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <OldPtr>42120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45320</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_017&gt;</VoiceId>
       <JapaneseText>乙女心は難しいんだよ、&lt;Dio&gt;くん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A young girl's heart is like a web of complexities, &lt;Dio&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
-      <OldPtr>42668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

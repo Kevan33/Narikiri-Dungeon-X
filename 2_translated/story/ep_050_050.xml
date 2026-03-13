@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>269468,270136</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269576,269752</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269640,270068,270284</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -74,12 +74,11 @@
       <VoiceId>&lt;audio:VSM_050_050_001&gt;</VoiceId>
       <JapaneseText>ここが……
 &lt;Red&gt;ヴァルハラ&lt;White&gt;……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is...Valhalla? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269580</PointerOffset>
@@ -87,23 +86,21 @@
       <JapaneseText>わたしたちの時代の
 &lt;Red&gt;ヴァルハラ&lt;White&gt;と
 ずいぶん違うね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our era's Valhalla is completely different from this... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269644</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_050_003&gt;</VoiceId>
       <JapaneseText>どうした？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What happened? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259504</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269756</PointerOffset>
@@ -111,49 +108,47 @@
       <JapaneseText>いえ……ずいぶん、
 小さな町……っていうか
 村なんだなって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing...everything's ok... It's just we didn't expect 
+this to be such a small town—I mean village. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259812</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270072</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_050_007&gt;</VoiceId>
       <JapaneseText>もともと差別で街を
 追い出された人や</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Originally there were a lot of people here, but... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270072</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_050_008&gt;</VoiceId>
       <JapaneseText>戦争で街をなくした人が
 急ごしらえで作った村だしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After a war it's only natural that
+most of them left the village. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259952</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270140</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_050_009&gt;</VoiceId>
       <JapaneseText>そうなんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's why... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>260092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270288</PointerOffset>
@@ -161,26 +156,24 @@
       <JapaneseText>とりあえず、
 私はバジルを
 呼んでくる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At any rate, I'll go call Basil. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270288</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_050_011&gt;</VoiceId>
       <JapaneseText>君たちは適当に
 村の中を見て回っててくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can take a look around here in the meantime. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260232</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

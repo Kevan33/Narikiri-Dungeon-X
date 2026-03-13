@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>41368,41932,42060</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41440,41692,41860</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41512</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41600,41764</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,107 +42,95 @@
       <VoiceId>&lt;audio:VCT_003_091_001&gt;</VoiceId>
       <JapaneseText>さっきのダオス、前に会った時と
 違った気がしたの……わたしだけ、かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That Dhaos we met a while ago...he felt very different from the Dhaos we knew. It's probably just my imagination...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37320</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41444</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_002&gt;</VoiceId>
       <JapaneseText>あ、ぼくもそう思った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Actually...I had that feeling too...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37636</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41516</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_003&gt;</VoiceId>
       <JapaneseText>クルッ、クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuru! Kururu!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37880</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41604</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_004&gt;</VoiceId>
       <JapaneseText>あれ、そっか？
 オレ、気付かなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, really? I felt nothing like that...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38200</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41696</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_005&gt;</VoiceId>
       <JapaneseText>前に比べてダオスの影が
 薄かったでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Didn't the Dhaos we met just now have a pretty thin shadow?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41768</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_006&gt;</VoiceId>
       <JapaneseText>え？　そうだったか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Really?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39088</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41864</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_007&gt;</VoiceId>
       <JapaneseText>観察力が足りないよ、&lt;Dio&gt;は。
 ね、&lt;Mel&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really &lt;Dio&gt;, you need to observe your surroundings more. Don't you think, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41936</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_008&gt;</VoiceId>
       <JapaneseText>あ、え、ええっと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, this might sound crazy...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40180</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42064</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_091_009&gt;</VoiceId>
       <JapaneseText>……前みたいに匂いがしなかった……
 なんて言って、わかってもらえる、かな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I think he had no smell, either...I say that but I can't really understand what it means...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>271748,271976,272376</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271868,272044,272452,273004</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272912</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -74,12 +74,12 @@
       <VoiceId>&lt;audio:VSM_110_020_001&gt;</VoiceId>
       <JapaneseText>マジで、こんなイナカに
 英雄が住んでんのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you telling me the great hero
+&lt;Cless&gt; lives here, out in the sticks?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259088</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271872</PointerOffset>
@@ -87,12 +87,12 @@
       <JapaneseText>&lt;Claus&gt;さんの
 住んでた&lt;Red&gt;ユークリッド&lt;White&gt;も、
 こういう感じだったでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, &lt;Claus&gt; lived in a village
+quite similar to this one, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271980</PointerOffset>
@@ -100,23 +100,22 @@
       <JapaneseText>&lt;Claus&gt;さんも確かに
 時空戦士だけど、
 &lt;Cless&gt;は違うんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right, but even though &lt;Claus&gt; might be an
+Eternal Hero, &lt;Cless&gt; is completely different.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259700</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272048</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_004&gt;</VoiceId>
       <JapaneseText>違うって何が？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Different?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>259896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272380</PointerOffset>
@@ -124,13 +123,12 @@
       <JapaneseText>&lt;Cless&gt;は
 時空戦士の
 筆頭剣士なんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt; is the Eternal Heroes' leading swordsman!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>260364</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272380</PointerOffset>
@@ -138,26 +136,26 @@
       <JapaneseText>エターナルソード持って、
 先頭に立って魔王ダオスに
 立ち向かったんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He wielded the Eternal Sword, fought in
+the war and faced off against Dhaos! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>260364</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272380</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_007&gt;</VoiceId>
       <JapaneseText>ダオス戦役の後は
 &lt;Red&gt;トーティス&lt;White&gt;遊撃隊の隊長やって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Before Dhaos's war began, he
+was the head guard of &lt;Red&gt;Totus&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>260364</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272380</PointerOffset>
@@ -165,61 +163,59 @@
       <JapaneseText>&lt;Red&gt;ユークリッド&lt;White&gt;騎士団や
 アルヴァニスタや、
 世界中で活躍したんだぜ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>He was also part of &lt;Red&gt;Euclid's&lt;White&gt; and Alvanista's
+Imperial Knights. Word of his accomplishments
+spread throughout the world.</EnglishText>
+      <Notes>Check please TL</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>260364</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272456</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_009&gt;</VoiceId>
       <JapaneseText>ふーん……
 詳しいんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm, how informative.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>261100</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272916</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_014&gt;</VoiceId>
       <JapaneseText>まぁ、それはいいとして</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's great to hear, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>261640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>272916</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_015&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんを探すんでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We should go search for &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>261640</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273008</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_020_016&gt;</VoiceId>
       <JapaneseText>マクスウェルの手がかりも
 見つけないと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's also be on the lookout
+for any clues about Maxwell.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>262288</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

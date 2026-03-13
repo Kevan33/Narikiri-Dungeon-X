@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>41284,41616,41852,42120</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41388,41944</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41504,41728,42028</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,111 +34,99 @@
       <VoiceId>&lt;audio:VCT_003_084_001&gt;</VoiceId>
       <JapaneseText>結局、ヴァルハラの魔術の暴走って
 魔科学兵器のせいだったんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who would have thought in reality it was a Magitech weapon what caused the Mana to go out of control?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37208</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41392</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_002&gt;</VoiceId>
       <JapaneseText>１５０年も前のものが
 今の時代にも残ってたなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's amazing it was intact for 150 years until the present...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37528</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41508</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_003&gt;</VoiceId>
       <JapaneseText>そんな危険なものの上で、
 みんな何も知らずに生活してたんだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Despite being such a dangerous object no one knew it was there all this time...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37760</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41620</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_004&gt;</VoiceId>
       <JapaneseText>もし&lt;Mel&gt;が発見しなかったら、
 ずっとあのままだったんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure if &lt;Mel&gt; hadn't discovered it someone else would, eventually.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38032</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41732</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_005&gt;</VoiceId>
       <JapaneseText>発見っていうか……
 わたしが原因で事故になったっていうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Discovered it? More like bumping into it by a horrible accident...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41856</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_006&gt;</VoiceId>
       <JapaneseText>だって、あれからヴァルハラで
 調査したら地面からたくさん出てきたんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure if we made a thorough research of Valhalla's landscape I'm sure we'd find a lot of undiscovered stuff.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>38888</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41948</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_007&gt;</VoiceId>
       <JapaneseText>そうだね、それって
 &lt;Mel&gt;のおかげだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't that so? I think it's good &lt;Mel&gt; found it, then.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39576</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42032</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_008&gt;</VoiceId>
       <JapaneseText>そっか……
 ……そうなのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really...? I guess that's sort of true...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>39980</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42124</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_084_009&gt;</VoiceId>
       <JapaneseText>ほんと、&lt;Mel&gt;って
 前向きになんねーのな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Man, nothing convinces this girl to move on.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40452</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

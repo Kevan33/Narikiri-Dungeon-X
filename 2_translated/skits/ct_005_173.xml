@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43028,43196,43356,43480</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43128,43288,43416,43540,43732</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43636</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,118 +33,108 @@
       <PointerOffset>43032</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_001&gt;</VoiceId>
       <JapaneseText>ごちそうさまっと……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phew... I'm stuffed!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37300</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43132</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_002&gt;</VoiceId>
       <JapaneseText>どこ行くの？
 食べたら片付けくらいしていってよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going? At least
+tidy up before you leave!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38172</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43200</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_003&gt;</VoiceId>
       <JapaneseText>後でやるってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll do it later.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39192</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43292</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_004&gt;</VoiceId>
       <JapaneseText>後でやるって
 いつもわたしがやってない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"I'll do it later" so... when exactly is this 'later'?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43360</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_005&gt;</VoiceId>
       <JapaneseText>今日はやるってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll tidy up today!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39920</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43420</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_006&gt;</VoiceId>
       <JapaneseText>本当？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Promise?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40436</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43484</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_007&gt;</VoiceId>
       <JapaneseText>マジマジ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Promise!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43544</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_008&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41068</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43640</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_009&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、そのやりとり、
 昨日もしてたよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;... you and &lt;Dio&gt; just had that exchange
+yesterday.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41496</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43736</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_173_010&gt;</VoiceId>
       <JapaneseText>だよね……
 たぶん、今日も私がやるんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right... I'll probably end up
+tidying today too.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>42228</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

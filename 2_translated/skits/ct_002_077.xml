@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>49380,49696,50184,50656</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49464</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49592,49832,49964,50280,50532,50804</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50100</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50396,50884</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,167 +50,150 @@
       <VoiceId>&lt;audio:VCT_002_077_001&gt;</VoiceId>
       <JapaneseText>すげー、すげーよなっ！
 あの時空戦士たちが、今ここに勢ぞろいってさ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is so damn awesome! I can't believe I'm fighting together with the Eternal Heroes!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49468</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_002&gt;</VoiceId>
       <JapaneseText>もう&lt;Dio&gt;、いい加減落ち着いてよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cool down a bit, &lt;Dio&gt;! You're making way too much of a fuss!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38740</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49596</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_003&gt;</VoiceId>
       <JapaneseText>そうだど、チビ助。&lt;Mel&gt;&lt;Mel&gt;の言う通りだ。
 テンション上げすぎだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just as &lt;Mel&gt;-&lt;Mel&gt; says, brat. You really are full of unresolved tension.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>39040</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49700</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_004&gt;</VoiceId>
       <JapaneseText>んだよ！　どんなにすげー事か、
 わかってなさすぎだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? Just because I find it cool you don't need to act so sour!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39968</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49836</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_005&gt;</VoiceId>
       <JapaneseText>あ～ん？　ミーたまと&lt;Suzu&gt;ちんは確かにかわいいだが、
 他のはただのぼんくらだぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, come on~. You sure find Miss &lt;Mint&gt;y and Lil &lt;Suzu&gt; are super cute. That other ordinary blockhead is nothing to write home about, though.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40436</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49968</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_006&gt;</VoiceId>
       <JapaneseText>野暮天にキツネ目、酔いどれオヤジに
 すれっからしだど？　どこがすごいだか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then you got hunter boy, Mister Booze and shameless parade. What do you find so cool about this?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>41608</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50104</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_007&gt;</VoiceId>
       <JapaneseText>う～ん、いろんな伝記に載ってるぐらいだからねぇ。
 後世に名が残るってすごいことだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Umm. Those are a lot of colorful descriptions. These surely are titles to be remembered by.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <OldPtr>43020</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50188</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_008&gt;</VoiceId>
       <JapaneseText>ほれ、みろ！　この書き割りが！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pretty biased ones if you ask me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>43828</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50284</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_009&gt;</VoiceId>
       <JapaneseText>へん！　おらだって、後世に名が残るだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mph, whatever. That's how they should be talked about anyways.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>44652</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50400</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_010&gt;</VoiceId>
       <JapaneseText>うソ！　アルベルトって、
 このあと何か偉大な功績残すつもりなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not true! Mister Albert, you know about all of the great things they've done for this world, right?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>45268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50536</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_011&gt;</VoiceId>
       <JapaneseText>もちろんだど。　時空戦士とおまけを従え
 世界を滅亡の淵から救ったってなぁ、おい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course. The Eternal Heroes and their nameless extras saved the world from its darkest moments.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>45792</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50660</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_012&gt;</VoiceId>
       <JapaneseText>従えって……、おまえ、いつもポケットの中で、
 戦ってねぇじゃんかよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So you think it was the extras. Speaking of which, you've been hiding in our pockets without fighting all this time. What does that make you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <OldPtr>47044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50808</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_013&gt;</VoiceId>
       <JapaneseText>自ら動かずして、世界を救った高名な策士として
 後世に名を馳せる、だぁ、だぁ、だぁ、だぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since I can't move I am nothing less than the tactician who helped to save the world. That's how I'll be remembered by. Yeah! Yeah! Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <OldPtr>47736</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50888</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_077_014&gt;</VoiceId>
       <JapaneseText>コバンザメみたい、だね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds closer to a suckerfish...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <OldPtr>48588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>45212,46132</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45328</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45396</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45540,45820,45980,46068,46256</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45676,45888</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,130 +50,116 @@
       <VoiceId>&lt;audio:VCT_001_024_001&gt;</VoiceId>
       <JapaneseText>ねぇ、そう言えば、アルベルトって、ぼくたちと一緒に
 食事してるけど、食べた物ってどうなってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, Albert? There's something I wanted to ask you for a while. You've had dinner with us before but how do you actually eat the food?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37468</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45332</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_002&gt;</VoiceId>
       <JapaneseText>お、それ、オレも気になってた！
 扉開けても、服しか出てこねーしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! That's right! It's been bothering me too! We've opened you several times but all we see is clothes!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>38024</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45400</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_003&gt;</VoiceId>
       <JapaneseText>クリュールゥ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruu?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45544</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_004&gt;</VoiceId>
       <JapaneseText>まぁ、おめぇらの薄っぺらい脳みそで考えたところで、
 ぜぇーったいわかるわけがねぇーだーよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Well, you have to consider your brains are extremely small. We don't really expect you to understand ANYTHING.</EnglishText>
+      <Notes>name issue</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38828</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45680</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_005&gt;</VoiceId>
       <JapaneseText>う～ん……わたしたちよりいっぱい食べてるのに、
 どこに行ってるのか不思議だよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister Albert... We were wondering if you'd be so kind to reveal us the secret where the food you eat goes....</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39824</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45824</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_006&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;が、おらに興味を持ってるなら、教えるだよ。
 実は、おらの体の中というのは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since &lt;Mel&gt;-&lt;Mel&gt; asked so kindly I'll reveal this wondrous secret! Let me tell you. What really is inside my body is...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40124</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_007&gt;</VoiceId>
       <JapaneseText>いうのは……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45984</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_008&gt;</VoiceId>
       <JapaneseText>体の中というのは…………実は…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Inside my body...actually...is...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41544</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46072</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_009&gt;</VoiceId>
       <JapaneseText>…………おらにもよくわからねぇだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't have the slightest idea.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>42932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46136</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_010&gt;</VoiceId>
       <JapaneseText>なにソレ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43660</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46260</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_011&gt;</VoiceId>
       <JapaneseText>ひとつだけ確かなのは、腹が減ったら、
 何か食べたくなるってことだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The only thing I'm sure of is that food passes through my stomach and I...well, eat.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43960</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

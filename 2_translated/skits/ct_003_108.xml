@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>41348,41424,41616,41768,41932</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41520,41692,41868,42000</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,106 +26,94 @@
       <VoiceId>&lt;audio:VCT_003_108_001&gt;</VoiceId>
       <JapaneseText>……そう言や、ここ来たのって、
 あいつらぶっ叩くためだっけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So here we are. We've been doing this all along to beat those two.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41428</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_002&gt;</VoiceId>
       <JapaneseText>オレ、すっかり忘れてた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm so calm I forgot about it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37440</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41524</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_003&gt;</VoiceId>
       <JapaneseText>するべきことが
 すっきりと見えたからかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't this something we had to do all along? I'm not nervous either.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>37668</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41620</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_004&gt;</VoiceId>
       <JapaneseText>んだな、それにあいつらにも
 もう怒ってないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I don't think those guys are mad, either.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38044</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41696</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_005&gt;</VoiceId>
       <JapaneseText>自分に怒っても仕方ないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if I tried to I couldn't be mad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41772</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_006&gt;</VoiceId>
       <JapaneseText>あいつらはオレらだもんな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They are us, after all.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41872</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_007&gt;</VoiceId>
       <JapaneseText>ふふ、なんか、&lt;Dio&gt;、
 すっきりした顔してるね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe! &lt;Dio&gt;, you really do have a relaxed face now!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>39592</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41936</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_008&gt;</VoiceId>
       <JapaneseText>おまえもな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40036</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42004</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_108_009&gt;</VoiceId>
       <JapaneseText>よし……行こ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok... Let's go!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40348</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

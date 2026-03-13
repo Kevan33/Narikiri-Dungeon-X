@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>43024</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43088</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43192,43308,43540</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43380,43464,43612,43692</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,106 +42,94 @@
       <VoiceId>&lt;audio:VCT_003_105_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;、
 ここちょっと見て……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Rody&gt; look at this!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37332</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43092</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_002&gt;</VoiceId>
       <JapaneseText>どれどれ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37844</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43196</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_003&gt;</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、大変！
 &lt;Mel&gt;が悪い子になっちゃった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, we have an emergency! &lt;Mel&gt; is becoming a bad kid!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38740</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43312</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_004&gt;</VoiceId>
       <JapaneseText>大人の人を呼び捨てにしたんだ！
 今までこんなことなかったのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She referred to an adult without using an honorific! It's the first time she's ever done such a thing...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <OldPtr>39516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43384</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_005&gt;</VoiceId>
       <JapaneseText>いや……あのなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uhm...That's, uh...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>40512</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43468</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_006&gt;</VoiceId>
       <JapaneseText>オレだって
 呼び捨てにしてるぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She refers to me without an honorific, you know.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <OldPtr>40820</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43544</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_007&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;はそういう子だもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you are still a kid!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <OldPtr>41264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43616</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_008&gt;</VoiceId>
       <JapaneseText>そういう子って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still...a kid...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41736</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43696</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_009&gt;</VoiceId>
       <JapaneseText>……『悪い子』って意味か！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So I AM A BAD KID?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41936</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

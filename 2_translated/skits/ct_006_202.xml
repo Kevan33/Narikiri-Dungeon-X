@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>46192,46264,46812,46884,47028,47268</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46332,46456,46592,46740,47120,47360</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -25,141 +25,132 @@
       <PointerOffset>46196</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_001&gt;</VoiceId>
       <JapaneseText>……この指輪……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...my ring...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37164</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46268</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_002&gt;</VoiceId>
       <JapaneseText>…………ダオス……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37584</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46336</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_003&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ms. &lt;Rody&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38024</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46460</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_004&gt;</VoiceId>
       <JapaneseText>ヒマワリというのは、太陽に向かって
 顔を上げているから美しいのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They say sunflowers are beautiful because they
+always kept facing the sun.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46596</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_005&gt;</VoiceId>
       <JapaneseText>今のあなたは、雨の日のヒマワリのように、
 あの美しさの全てを失ってしまっている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are like a sunflower under a rainy day,
+whose beauty has long been lost.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>38908</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46744</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_006&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さん、ヒマワリには太陽が必要なのです。
 私のように熱いハートを持った、灼熱の太陽が</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A sunflower needs the sun, Ms. &lt;Rody&gt;.
+Allow my passionate heart become your burning sun.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39548</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46816</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_007&gt;</VoiceId>
       <JapaneseText>………………う……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40756</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46888</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_008&gt;</VoiceId>
       <JapaneseText>……く…………ぶふっ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Guh...Buu...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <OldPtr>41092</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47032</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_009&gt;</VoiceId>
       <JapaneseText>あっははははは！　ダメ、ダメだってぇ～～～！
 あは、あは、はははははは！　ひー、ひー、苦しい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bwaahahahah! I can't! I really can't!
+Ahahahaha! Th-This is...so lame!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <OldPtr>41532</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47124</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_010&gt;</VoiceId>
       <JapaneseText>な、なにを、そんなに笑ってる、だか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-Is something funny?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <OldPtr>43004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47272</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_011&gt;</VoiceId>
       <JapaneseText>だは、だ、だって、全然似合って、ない、あはは！
 もうツボ、その喋り方、ツボすぎる！　ぎゃはは～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>B-B-Because! Ahihihi...Th-The way you spoke
+doesn't suit you at all! It's so sappy! Too sappy!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <OldPtr>43648</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47364</PointerOffset>
       <VoiceId>&lt;audio:VCT_006_202_012&gt;</VoiceId>
       <JapaneseText>作戦失敗だど……策士、策に溺れた……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>My strat...my strat didn't work...? My strat...
+Gonna go sulk now.</EnglishText>
+      <Notes>DEFINTIELY CAN BE WORDED BETTER</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <OldPtr>45084</OldPtr>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

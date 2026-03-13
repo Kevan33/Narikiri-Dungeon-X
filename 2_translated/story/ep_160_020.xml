@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>275268,275788</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>275356,275628</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>275524,275724,275868,275976</PointerOffset>
       <JapaneseText>バジル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,37 +73,35 @@
       <PointerOffset>275272</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_001&gt;</VoiceId>
       <JapaneseText>止まれ！　ブレイナー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold it! Brainer!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259828</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275360</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_002&gt;</VoiceId>
       <JapaneseText>バジルさん！
 バジルさんなのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister Basil! Mister Basil, is that you!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>261956</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275528</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_003Z&gt;</VoiceId>
       <JapaneseText>ばれたら、仕方がない。
 久しぶりだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No use hiding it anymore.
+Long time no see, &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275528</PointerOffset>
@@ -111,13 +109,13 @@
       <JapaneseText>しかし君たち、
 全く歳をとらないな。
 エルフでもないのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, you guys look the same after all
+this time. You aren't elves either...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275632</PointerOffset>
@@ -125,47 +123,46 @@
       <JapaneseText>……どうして……！
 なんでこんなこと
 してるんだよ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why are you doing this!?
+What could possibly drive
+you to do this!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <OldPtr>264008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275728</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_006Z&gt;</VoiceId>
       <JapaneseText>どうしてだって？
 アハハ、僕にもわからないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why you ask? Hahaha! Not
+even I know for sure, myself.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <OldPtr>264148</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275792</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_007&gt;</VoiceId>
       <JapaneseText>ふざけるな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't mess with us!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <OldPtr>264400</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275872</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_008Z&gt;</VoiceId>
       <JapaneseText>ふざけてるのは
 どっちだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>YOU should cut the crap!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>264632</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>275980</PointerOffset>
@@ -173,12 +170,12 @@
       <JapaneseText>僕の大切なものを
 すべて踏みにじったのは
 おまえたちだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the ones who destroyed
+everything I hold dear!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <OldPtr>265412</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

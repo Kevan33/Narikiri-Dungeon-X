@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>308128,308588</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>308204</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>308340,309020</PointerOffset>
       <JapaneseText>ノルン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Norn</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>308456,308724</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>308652,308788</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,182 +89,167 @@
       <PointerOffset>308132</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_049&gt;</VoiceId>
       <JapaneseText>力が入らない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm losing...strength...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>282340</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308208</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_050&gt;</VoiceId>
       <JapaneseText>大丈夫、&lt;Mel&gt;ちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you ok, &lt;Mel&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>283160</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308344</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_051&gt;</VoiceId>
       <JapaneseText>存在が消えかけている
 せいですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Their very existence is dissipating.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>284268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308344</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_052&gt;</VoiceId>
       <JapaneseText>しかし、まだ終りでは
 ありませんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, we cannot end this just yet.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>284268</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308460</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_053&gt;</VoiceId>
       <JapaneseText>エトと&lt;Mel&gt;は
 オレが守る……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will protect &lt;Mel&gt; and Eto...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>286008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308460</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_054&gt;</VoiceId>
       <JapaneseText>エトを離せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let Eto go!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>286008</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308592</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_055&gt;</VoiceId>
       <JapaneseText>……まだ、やれる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I can still fight.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>286892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308592</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_056&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;ひとりになんて……
 任せておけないもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't leave this up to just him!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>286892</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308656</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_057&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuru!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <OldPtr>291120</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308728</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_058&gt;</VoiceId>
       <JapaneseText>&lt;Couleur&gt;、おまえ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;...you...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <OldPtr>291384</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>308792</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_059&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuuru!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <OldPtr>292264</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>309024</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_060&gt;</VoiceId>
       <JapaneseText>そうですか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I see.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>292932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>309024</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_061&gt;</VoiceId>
       <JapaneseText>ふたりと接するうちに
 あなたも心を持ったのですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your travels have endeared them to you.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>292932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>309024</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_062&gt;</VoiceId>
       <JapaneseText>私と対峙するというなら、
 それもよいでしょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You would even face me. Very well, then.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>292932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>309024</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_063&gt;</VoiceId>
       <JapaneseText>ともに来なさい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come at me with all you have!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>3</BubbleId>
-      <OldPtr>292932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

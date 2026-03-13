@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>272936,273236</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273132,273308</PointerOffset>
@@ -29,10 +29,10 @@
     <Entry>
       <PointerOffset>273508</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,24 +82,23 @@
       <VoiceId>&lt;audio:VSM_200_030_001&gt;</VoiceId>
       <JapaneseText>忍びの掟を忘れたのですか？
 &lt;Red&gt;忍者の里&lt;White&gt;へ帰りましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you forgotten the laws of the ninja?
+Return to &lt;Red&gt;Ninja Village&lt;White&gt; immediately.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259376</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_002&gt;</VoiceId>
       <JapaneseText>黙れ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
@@ -107,97 +106,92 @@
       <JapaneseText>おまえこそ、
 ダオス様の崇高な
 理想がわからぬのか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't understand the noble
+dream of our great Lord Dhaos!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_004&gt;</VoiceId>
       <JapaneseText>邪魔だてすると
 言うなら死んでもらう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Little pests like you need
+to die to fulfill his wishes!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
-      <OldPtr>259516</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273240</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_005&gt;</VoiceId>
       <JapaneseText>……仕方がありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You leave me no choice.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>259656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273240</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_006&gt;</VoiceId>
       <JapaneseText>お覚悟を……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ready yourselves!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>259656</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273312</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_007&gt;</VoiceId>
       <JapaneseText>速すぎる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Too...fast...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>261520</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273380</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_008&gt;</VoiceId>
       <JapaneseText>無念……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Are...finished...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <OldPtr>261660</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273512</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_009&gt;</VoiceId>
       <JapaneseText>君は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>273512</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_010&gt;</VoiceId>
       <JapaneseText>あっ、ちょ、ちょっと待ってよ
 ……行っちゃったよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-Hey! Wait a minute...!
+She already got away.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263588</OldPtr>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

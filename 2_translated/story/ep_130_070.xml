@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>278032,278232,278396,278520,278584,279608,280008,280160,280284</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>278112,278300</PointerOffset>
@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>280068,280220,280348</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -98,35 +98,32 @@
       <VoiceId>&lt;audio:VSM_130_070_000&gt;</VoiceId>
       <JapaneseText>これ、どこへ
 持っていけばいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where should I leave these? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>259016</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278036</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_001&gt;</VoiceId>
       <JapaneseText>えっと……それは
 前から三番目の馬車へ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well... put it inside wagon number three. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>259156</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278116</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_002&gt;</VoiceId>
       <JapaneseText>俺、何すればいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, am I relieved of my duties or what? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>259864</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278236</PointerOffset>
@@ -134,35 +131,32 @@
       <JapaneseText>あ、んじゃあ、
 今夜、みんなが寝れるよう、
 道場の方の準備してくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right. Tell everyone to rest and meet at the dojo. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>260004</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278304</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_004&gt;</VoiceId>
       <JapaneseText>了解～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <OldPtr>260144</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278400</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_005&gt;</VoiceId>
       <JapaneseText>……みんな、なんで、
 自分で考えないんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why is it everyone is treating me so poorly? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>260900</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278524</PointerOffset>
@@ -170,45 +164,42 @@
       <JapaneseText>もしかして、&lt;Cless&gt;さんが
 なんでも指示するから、
 自分で何も考えないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could it be... they don't really think highly of &lt;Cless&gt; 
+either? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <OldPtr>261220</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_007&gt;</VoiceId>
       <JapaneseText>うーん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Umm... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>261472</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278664</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_008&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;様々だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our great mighty &lt;Cless&gt;, right? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>261612</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278744</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_009&gt;</VoiceId>
       <JapaneseText>いや、まったくです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, please. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>261932</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278916</PointerOffset>
@@ -216,13 +207,13 @@
       <JapaneseText>奴のおかげで、
 多くの騎士志願者も
 取り込める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Due to that brat's fault we've had a ridiculous number of 
+knight applicants. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278916</PointerOffset>
@@ -230,37 +221,35 @@
       <JapaneseText>あいつら、
 英雄の言うことなら
 なんでも聞くしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He'll do anything to hear people call him a hero. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263328</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279032</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_012&gt;</VoiceId>
       <JapaneseText>この調子で、うちの騎士団
 もっと大きくなればいいですな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's that way. He thinks he's the great thing in the 
+Imperial Knights. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <OldPtr>263524</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279136</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_013&gt;</VoiceId>
       <JapaneseText>ああ……そうなったら、
 他の国々も圧倒できる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...Other countries became overwhelmed. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <OldPtr>263664</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279276</PointerOffset>
@@ -268,25 +257,25 @@
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;のちんけな犯罪組織の
 鎮圧仕事など、バカバカしくて
 やってられません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The great duty of suppressing the criminal organization in 
+Valhalla...Tch. Only an i&lt;Dio&gt;t would take that mission. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
-      <OldPtr>263804</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279440</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_015&gt;</VoiceId>
       <JapaneseText>そう言うな。
 &lt;Cless&gt;様の持ってきた仕事だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you say, but the great almighty &lt;Cless&gt; decided to take 
+that job. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <OldPtr>263944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279440</PointerOffset>
@@ -294,37 +283,34 @@
       <JapaneseText>きっちりこなして、
 信頼を得なければ
 台無しだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If he loses his trust he won't be more than a spoiled brat. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <OldPtr>263944</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279528</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_017&gt;</VoiceId>
       <JapaneseText>そうですな、
 わっはっはっは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right...Hahahaha! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
-      <OldPtr>264140</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279612</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_018&gt;</VoiceId>
       <JapaneseText>……どーゆーことだよ、
 これ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The hell do they mean? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <OldPtr>264336</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279732</PointerOffset>
@@ -332,104 +318,95 @@
       <JapaneseText>さてと、そろそろ、
 &lt;Cless&gt;様にはちゃんと
 働いてもらわないとな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soon the almighty &lt;Cless&gt; will get no missions at all... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
-      <OldPtr>264476</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279832</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_020&gt;</VoiceId>
       <JapaneseText>な、なんだ、
 今の話聞いていたのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? Were you eavesdropping!? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <OldPtr>265480</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279932</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_021&gt;</VoiceId>
       <JapaneseText>こいつ……！
 &lt;Cless&gt;様の代理やってた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This kid! He's the representative of &lt;Cless&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
-      <OldPtr>265620</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280012</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_022&gt;</VoiceId>
       <JapaneseText>こいつら……
 許せない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't forgive you pair of freaks... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <OldPtr>265884</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280072</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_023&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
-      <OldPtr>266024</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280164</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_024&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さん！
 こいつら……ひどいんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt;! These...these guys are horrible! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <OldPtr>266716</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280224</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_025&gt;</VoiceId>
       <JapaneseText>いいんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
-      <OldPtr>267976</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280288</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_026&gt;</VoiceId>
       <JapaneseText>だって……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine!? But...! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
-      <OldPtr>268296</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280352</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_027&gt;</VoiceId>
       <JapaneseText>いいんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, it's fine. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>28</Id>
-      <OldPtr>268492</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

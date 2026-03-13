@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>43116</PointerOffset>
       <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; ＆ &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43256,43428,43604,43760</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43336,44048</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43496,43876</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43684,43956</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -49,129 +49,115 @@
       <PointerOffset>43120</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_001&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sigh*</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <OldPtr>37368</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43260</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_003&gt;</VoiceId>
       <JapaneseText>ふたりとも気もそぞろ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those two are really nervous...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <OldPtr>37896</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43340</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_004&gt;</VoiceId>
       <JapaneseText>まぁ、しょうがないだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, there's nothing we can do.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <OldPtr>38048</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43432</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_005&gt;</VoiceId>
       <JapaneseText>……よし、作戦会議だよ、
 双子ちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Ok! Twins! It's time for a strategy meeting!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <OldPtr>38216</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43500</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_006&gt;</VoiceId>
       <JapaneseText>作戦、会議……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strategy...meeting?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <OldPtr>39688</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43608</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_007&gt;</VoiceId>
       <JapaneseText>エトちゃんを取り戻す作戦だよ。
 名付けて奪還エックス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We need a strategy to get Miss Eto back. Its name...Operation Rescue X!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <OldPtr>39920</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43688</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_008&gt;</VoiceId>
       <JapaneseText>なんでエックスなんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What does the X mean?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <OldPtr>40608</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43764</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_009&gt;</VoiceId>
       <JapaneseText>カッコいいかなと思って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So we know it's cool!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <OldPtr>40720</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43880</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_010&gt;</VoiceId>
       <JapaneseText>エックスよりもウルトラローリングアタックの
 方がカッコイイぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since you used X, why not Ultra Rolling Attack?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <OldPtr>40916</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43960</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_011&gt;</VoiceId>
       <JapaneseText>技の名前じゃないんだから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not the name of an Arte...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <OldPtr>41604</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44052</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_025_012&gt;</VoiceId>
       <JapaneseText>……あれが&lt;Rody&gt;なりの
 気遣いか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Heh, &lt;Rody&gt; sure is a kind one...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <OldPtr>42476</OldPtr>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>
