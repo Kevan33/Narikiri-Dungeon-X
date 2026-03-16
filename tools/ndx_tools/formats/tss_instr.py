@@ -72,7 +72,7 @@ class Base:
     # Offset is now tracked from outside because calling
     # f.tell() 300 Million times is expensive, actually
     def parse(self, f: FileIO) -> Self:
-        # self.offset = f.tell()
+        self.offset = f.tell()
         v = self.consume_u32(f)
         self.opcode = v >> 0x18
         self.imm = v & 0xFFFFFF
@@ -91,24 +91,24 @@ class Base:
         return f"    {comment} {inst}"
 
     def consume_u32(self, f: FileIO) -> int:
-        # v = f.read(4)
+        v = f.read(4)
         self.size += 4
-        # self.bytes.extend(v)
-        # return int.from_bytes(v, "little")
+        self.bytes.extend(v)
+        return int.from_bytes(v, "little")
         return f.read_uint32()
 
     def consume_s32(self, f: FileIO) -> int:
-        # v = f.read(4)
+        v = f.read(4)
         self.size += 4
-        # self.bytes.extend(v)
-        # return int.from_bytes(v, "little", signed=True)
+        self.bytes.extend(v)
+        return int.from_bytes(v, "little", signed=True)
         return f.read_int32()
 
     def consume_f32(self, f: FileIO) -> float:
-        # v = f.read(4)
+        v = f.read(4)
         self.size += 4
-        # self.bytes.extend(v)
-        # return struct.unpack("<f", v)[0]
+        self.bytes.extend(v)
+        return struct.unpack("<f", v)[0]
         return f.read_single()
 
 @dataclass(slots=True)
@@ -435,4 +435,5 @@ class CalcInstr(Base):
         return self
 
     def get_as_string(self) -> str:
-        return f"CALC.{self.kind.name}"
+        k = self.Kind(self.kind)
+        return f"CALC.{k.name}"

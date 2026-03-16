@@ -24,7 +24,7 @@ NAMES = {
     "DIO": "Dio",
     "HIS": "Hisui",
     "INE": "Ines",
-    "KLA": "Claus",
+    "KLA": "Klarth",
     "KOH": "Kohaku",
     "KUL": "Couleur",
     "KUN": "Kunzite",
@@ -152,6 +152,9 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> str:
         b = buf[pos]
         pos += 1
 
+        if b < 0x20:
+            flush_run()
+
         match b:
             # Reached NUL terminator
             case 0x00:
@@ -178,8 +181,8 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> str:
                 val, pos = consume_param_buf(buf, pos)
                 finalText.append(f"<audio:{val}>")
             # # Linebreak
-            # case 0x0A:
-            #     finalText.append("\n")
+            case 0x0A:
+                finalText.append("\n")
             # Icons
             case 0x0B:
                 if buf[pos] == 0x28: # '(
