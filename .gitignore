@@ -352,3 +352,9 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 *.iso
+2_translated/massreplace.py
+2_translated/SpeakerExtraction.py
+2_translated/SpeakerInsertion.py
+2_translated/speakers.csv
+2_translated/translations.csv
+Extract.bat
