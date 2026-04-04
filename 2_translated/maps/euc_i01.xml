@@ -4,7 +4,6 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>268920,268984,269048,269496,269560,269624</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ビショップ」主人</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -13,7 +12,6 @@
     </Entry>
     <Entry>
       <PointerOffset>269112,269176,269240,269304,269368,269432</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>未来を憂う青年</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -66,10 +64,10 @@
     <Entry>
       <PointerOffset>278324</PointerOffset>
       <JapaneseText>武器屋　ビショップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weapon Shop Bishop</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -196,7 +194,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270464</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;博士が
+      <JapaneseText>&lt;Klarth&gt;博士が
 魔科学の禁止を
 唱えてるんだけど</JapaneseText>
       <EnglishText/>
@@ -220,7 +218,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270468</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;博士の
+      <JapaneseText>&lt;Klarth&gt;博士の
 魔科学禁止を後押ししてるのは
 アルヴァニスタなんだって</JapaneseText>
       <EnglishText/>

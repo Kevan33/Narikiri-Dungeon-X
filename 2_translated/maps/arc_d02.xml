@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>278932</PointerOffset>
       <JapaneseText>魔女の声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magician's Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -29,18 +29,18 @@
     <Entry>
       <PointerOffset>272960,273198,273263,273299,273370,273436,273475,273551,273622,273688,273699,273817,273903,273984,274060,274131,274197,274208,274377,274410,274421,274536,274646,274657,274784,274827,275012,275812,275823,275978,276086,276260,276336,276434,276540,276606,276659,276773,276970,277212,277277,277342,277407,278081,278422,278623,279017</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274897,275381,277064,277118,277174,277472,277520,277568,277622,277682,277736,277790,277893,277951,278980</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -56,10 +56,10 @@
     <Entry>
       <PointerOffset>278961</PointerOffset>
       <JapaneseText>きらめきの塔　３階</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glimmer Spire - 3F</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -68,24 +68,25 @@
       <PointerOffset>278936</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_020_001&gt;</VoiceId>
       <JapaneseText>帰るのじゃあ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Turn back! I'm warning you...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278936</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_020_002&gt;</VoiceId>
       <JapaneseText>帰らないと知らんぞぉ～
 怖いぞぉ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The smart ones already left~ If you
+keep going...prepare to meet your doom~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

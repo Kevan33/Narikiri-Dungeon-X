@@ -4,7 +4,6 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>268780,268844,268908</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「猫目」アルバイト</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -13,7 +12,6 @@
     </Entry>
     <Entry>
       <PointerOffset>268972,269036,269100,269164,269228,269292</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>荒くれの一員</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -66,10 +64,10 @@
     <Entry>
       <PointerOffset>277860</PointerOffset>
       <JapaneseText>道具屋　猫目</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop Cat's Eye</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

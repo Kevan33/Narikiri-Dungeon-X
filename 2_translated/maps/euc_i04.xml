@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>271780,271844,271908,271972,272036,272100,281121</PointerOffset>
       <JapaneseText>ミラルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Milard</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272164,272228,280873</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <JapaneseText>&lt;Klarth&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>274944,275182,275247,275283,275354,275420,275459,275535,275606,275672,275683,275801,275887,275968,276044,276115,276181,276192,276361,276394,276405,276520,276630,276641,276768,276811,276996,277760,277771,277926,278034,278208,278284,278382,278488,278554,278607,278721,278918,279160,279225,279290,279355,280029,280370,280571,280943</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -61,21 +61,21 @@
     <Entry>
       <PointerOffset>281012</PointerOffset>
       <JapaneseText>エルフの青年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Young Elf</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Place</Section>
     <Entry>
       <PointerOffset>280802</PointerOffset>
-      <JapaneseText>ユークリッド村　&lt;Claus&gt;の家</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>ユークリッド村　&lt;Klarth&gt;の家</JapaneseText>
+      <EnglishText>Euclid Village - &lt;Klarth&gt;'s House</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -93,7 +93,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272904</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;をよろしくね。
+      <JapaneseText>&lt;Klarth&gt;をよろしくね。
 役に立つかどうか
 わからないけど</JapaneseText>
       <EnglishText/>
@@ -185,7 +185,7 @@
     <Entry>
       <PointerOffset>272920</PointerOffset>
       <JapaneseText>何やってるのかって？
-&lt;Claus&gt;の研究の
+&lt;Klarth&gt;の研究の
 手伝いをちょっとね……</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>283972</PointerOffset>
       <JapaneseText>魔女の声</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magician's Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -56,10 +56,10 @@
     <Entry>
       <PointerOffset>284524</PointerOffset>
       <JapaneseText>きらめきの塔　５階</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glimmer Spire - 5F</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -69,12 +69,13 @@
       <VoiceId>&lt;audio:VSM_030_050_001&gt;</VoiceId>
       <JapaneseText>今度の今度こそ
 最後じゃあ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's it, dammit! This is the REAL
+last warning!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283976</PointerOffset>
@@ -82,12 +83,13 @@
       <JapaneseText>あ～もぉっ！
 本当にこれで最後、
 だかんね！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, whatever! This is where it ends
+and stuff. So just stop it already!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
