@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>279104</PointerOffset>
       <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
-      <EnglishText>&lt;Dio&gt; ＆ &lt;Mel&gt;</EnglishText>
+      <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -53,10 +53,10 @@
     <Entry>
       <PointerOffset>279164</PointerOffset>
       <JapaneseText>&lt;Cless&gt;＆アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt; &amp; Albert</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

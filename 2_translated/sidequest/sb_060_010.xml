@@ -5,7 +5,7 @@
     <Entry>
       <PointerOffset>279212</PointerOffset>
       <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
-      <EnglishText>&lt;Dio&gt; ＆ &lt;Mel&gt;</EnglishText>
+      <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>278232,278512,278676,280268,283120</PointerOffset>
       <JapaneseText>ステキな師範代</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Assistant Instructor</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>278300,278596,278780,278928,279036,280164</PointerOffset>
@@ -93,10 +93,10 @@
     <Entry>
       <PointerOffset>283245,283282,283319</PointerOffset>
       <JapaneseText>手伝いますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will You Help?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
