@@ -1,67 +1,12 @@
 <MenuText>
   <Strings>
-    <Section>Config2</Section>
+    <Section>Memo1</Section>
     <Entry>
-      <PointerOffset>96</PointerOffset>
-      <JapaneseText>【基本操作】
-&lt;icon:4620545&gt;決定ボタン
-物を調べる、人と話す、選択肢の決定、
-会話を進める等、次へ進む為のボタンです。
-&lt;icon:4620546&gt;キャンセルボタン
-前の画面に戻る、会話の早送り、
-&lt;icon:4620547&gt;メニューボタン
-各種データの確認、機能のカスタマイズ、
-戦闘を行なう為の準備ができる画面を開く
-ことができます。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5178</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>108</PointerOffset>
-      <JapaneseText>【特殊操作１】
-&lt;icon:4620548&gt;ソーサラーリング
-貴重品「ソーサラーリング」を入手すると
-正面に一発の炎を飛ばせます。
-仕掛けを動かす、敵シンボルと戦闘する等、
-様々な用途があります。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5179</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>120</PointerOffset>
-      <JapaneseText>【特殊操作２】
-&lt;icon:4620547&gt;メッセージのスキップ
-イベント会話中に押すことで、実行の確認
-をした後、そのイベントをスキップします。
-
-戦闘内でのチュートリアルも押し続けると
-その間、高速でメッセージが流れます。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5180</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>132,144</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>5181</Id>
-      <Status>To Do</Status>
-    </Entry>
-  </Strings>
-  <Strings>
-    <Section>Config1</Section>
-    <Entry>
-      <PointerOffset>8</PointerOffset>
+      <PointerOffset>8,2516</PointerOffset>
       <JapaneseText>項目名だみー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5182</Id>
+      <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -78,7 +23,7 @@
 ２０文字入ります。２０文字入りますよー！</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5183</Id>
+      <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -86,51 +31,1922 @@
       <JapaneseText>２０文字入ります。２０文字入りますよー！</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5184</Id>
+      <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>44</PointerOffset>
-      <JapaneseText>#define STR_BTN_CIRCLE "&lt;icon:2105857&gt;//!&lt; ○
-#define STR_BTN_CROSS "&lt;icon:2105858&gt;//!&lt; ×
-#define STR_BTN_TRI "&lt;icon:2105859&gt;//!&lt; △
-#define STR_BTN_SQUARE "&lt;icon:2105860&gt;//!&lt; □
-#define STR_BTN_L "&lt;icon:2105861&gt;//!&lt; L
-#define STR_BTN_R "&lt;icon:2105862&gt;//!&lt; R
-#define STR_BTN_SELECT "&lt;icon:2105863&gt;//!&lt; SELECT
-#define STR_BTN_START "&lt;icon:2105864&gt;//!&lt; START
+      <JapaneseText>#define STR_BTN_CIRCLE "&lt;icon:1&gt;" //!&lt; ○
+#define STR_BTN_CROSS "&lt;icon:2&gt;" //!&lt; ×
+#define STR_BTN_TRI "&lt;icon:3&gt;" //!&lt; △
+#define STR_BTN_SQUARE "&lt;icon:4&gt;" //!&lt; □
+#define STR_BTN_L "&lt;icon:5&gt;" //!&lt; L
+#define STR_BTN_R "&lt;icon:6&gt;" //!&lt; R
+#define STR_BTN_SELECT "&lt;icon:7&gt;" //!&lt; SELECT
+#define STR_BTN_START "&lt;icon:8&gt;" //!&lt; START
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5185</Id>
+      <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>56</PointerOffset>
       <JapaneseText>//
-#define STR_BTN_PAD "&lt;icon:2105872&gt;//!&lt; 十字キー
-#define STR_BTN_PAD_U "&lt;icon:2105873&gt;//!&lt; 十字キー↑
-#define STR_BTN_PAD_D "&lt;icon:2105874&gt;//!&lt; 十字キー↓
-#define STR_BTN_PAD_L "&lt;icon:2105875&gt;//!&lt; 十字キー←
-#define STR_BTN_PAD_R "&lt;icon:2105876&gt;//!&lt; 十字キー→
-#define STR_BTN_PAD_LR "&lt;icon:2105877&gt;//!&lt; 十字キー⇔
+#define STR_BTN_PAD "&lt;icon:16&gt;" //!&lt; 十字キー
+#define STR_BTN_PAD_U "&lt;icon:17&gt;" //!&lt; 十字キー↑
+#define STR_BTN_PAD_D "&lt;icon:18&gt;" //!&lt; 十字キー↓
+#define STR_BTN_PAD_L "&lt;icon:19&gt;" //!&lt; 十字キー←
+#define STR_BTN_PAD_R "&lt;icon:20&gt;" //!&lt; 十字キー→
+#define STR_BTN_PAD_LR "&lt;icon:21&gt;" //!&lt; 十字キー⇔
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5186</Id>
+      <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>68</PointerOffset>
       <JapaneseText>//
-#define STR_BTN_STICK "&lt;icon:2105888&gt;//!&lt; スティック
-#define STR_BTN_STICK_U "&lt;icon:2105889&gt;//!&lt; スティック↑
-#define STR_BTN_STICK_D "&lt;icon:2105890&gt;//!&lt; スティック↓
-#define STR_BTN_STICK_R "&lt;icon:2105891&gt;//!&lt; スティック→
-#define STR_BTN_STICK_L "&lt;icon:2105892&gt;//!&lt; スティック←</JapaneseText>
+#define STR_BTN_STICK "&lt;icon:32&gt;" //!&lt; スティック
+#define STR_BTN_STICK_U "&lt;icon:33&gt;" //!&lt; スティック↑
+#define STR_BTN_STICK_D "&lt;icon:34&gt;" //!&lt; スティック↓
+#define STR_BTN_STICK_R "&lt;icon:35&gt;" //!&lt; スティック→
+#define STR_BTN_STICK_L "&lt;icon:36&gt;" //!&lt; スティック←</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>5187</Id>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84</PointerOffset>
+      <JapaneseText>基本操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96</PointerOffset>
+      <JapaneseText>【基本操作】
+&lt;icon:1&gt;：決定ボタン
+物を調べる、人と話す、選択肢の決定、
+会話を進める等、次へ進む為のボタンです。
+&lt;icon:2&gt;：キャンセルボタン
+前の画面に戻る、会話の早送り、
+&lt;icon:3&gt;：メニューボタン
+各種データの確認、機能のカスタマイズ、
+戦闘を行なう為の準備ができる画面を開く
+ことができます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108</PointerOffset>
+      <JapaneseText>【特殊操作１】
+&lt;icon:4&gt;：ソーサラーリング
+貴重品「ソーサラーリング」を入手すると
+正面に一発の炎を飛ばせます。
+仕掛けを動かす、敵シンボルと戦闘する等、
+様々な用途があります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>120</PointerOffset>
+      <JapaneseText>【特殊操作２】
+&lt;icon:3&gt;：メッセージのスキップ
+イベント会話中に押すことで、実行の確認
+をした後、そのイベントをスキップします。
+
+戦闘内でのチュートリアルも押し続けると
+その間、高速でメッセージが流れます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132,144,196,208,220,284,296,372,424,436,448,500,512,524,588,600,664,676,728,740,752,804,816,828,880,892,904,956,968,980,1032,1044,1056,1108,1120,1132,1184,1196,1208,1260,1272,1284,1336,1348,1360,1412,1424,1436,1488,1500,1512,1588,1652,1664,1704,1716,1728,1740,1792,1804,1816,1868,1880,1892,1944,1956,1968,2020,2032,2044,2120,2172,2184,2196,2236,2248,2260,2272,2324,2336,2348,2400,2412,2424,2476,2488,2500,2540,2552,2564,2576,2640,2652,2692,2704,2716,2728,2768,2780,2792,2804,2844,2856,2868,2880,2920,2932,2944,2956,3032,3084,3096,3108,3148,3160,3172,3184,3224,3236,3248,3260,3312,3324,3336,3376,3388,3400,3412,3476,3488,3528,3540,3552,3564,3616,3628,3640,3680,3692,3704,3716,3756,3768,3780,3792,3832,3844,3856,3868,3908,3920,3932,3944,4060,4072,4084,4096,4136,4148,4160,4172,4200,4212,4224,4236,4248</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>160</PointerOffset>
+      <JapaneseText>戦闘操作１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>172</PointerOffset>
+      <JapaneseText>【戦闘操作】
+&lt;icon:1&gt;：攻撃ボタン１
+弱い攻撃を行います。
+&lt;icon:2&gt;：攻撃ボタン２
+術技画面でセットした強い攻撃を行います。
+&lt;icon:4&gt;：防御ボタン
+押している間、敵の攻撃を防御します。
+&lt;icon:16&gt;：移動ボタン
+&lt;icon:21&gt;で走り、&lt;icon:17&gt;でジャンプします。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>184</PointerOffset>
+      <JapaneseText>
+&lt;icon:3&gt;：メニューボタン
+アイテムを使う、装備を変更する、
+作戦や隊列を変更する、戦闘から逃げる、
+術技を準備する等の機能を使えるツールを
+呼び出します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>236</PointerOffset>
+      <JapaneseText>戦闘操作２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>248</PointerOffset>
+      <JapaneseText>【ボタンの組み合わせ】
+&lt;icon:16&gt;ボタンと同時に押すことで、
+同じ&lt;icon:1&gt;ボタンであっても別の攻撃動作
+を出すことが出来るキャラもいます。
+
+&lt;icon:1&gt;　　：通常技（振る攻撃）
+&lt;icon:1&gt;＋&lt;icon:17&gt;：通常技（振り上げる攻撃）
+&lt;icon:1&gt;＋&lt;icon:18&gt;：通常技（振り下ろす攻撃）
+&lt;icon:1&gt;＋&lt;icon:21&gt;：通常技（突く攻撃）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260</PointerOffset>
+      <JapaneseText>【攻撃ボタンの組み合わせ①】
+&lt;icon:2&gt;ボタンでも同様に、
+&lt;icon:16&gt;キーとの組み合わせがあります。
+
+&lt;icon:2&gt;　　：術技（設定した攻撃Ａ）
+&lt;icon:2&gt;＋&lt;icon:17&gt;：術技（設定した攻撃Ａ）
+&lt;icon:2&gt;＋&lt;icon:18&gt;：術技（設定した攻撃Ａ）
+&lt;icon:2&gt;＋&lt;icon:21&gt;：術技（設定した攻撃Ａ）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272</PointerOffset>
+      <JapaneseText>【移動ボタンの組み合わせ】
+&lt;icon:4&gt;ボタンを押しながら、&lt;icon:21&gt;で移動を行うと
+歩いている間に敵が攻撃してきた場合、
+自動的に防御してくれます。
+
+&lt;icon:4&gt;＋&lt;icon:21&gt;：警戒歩行</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312,388</PointerOffset>
+      <JapaneseText>戦闘操作&gt;応用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>324</PointerOffset>
+      <JapaneseText>【概略】
+ここでは、特定の操作同士を組み合わせると
+より効果的な行動が可能な操作について解説
+します。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>336</PointerOffset>
+      <JapaneseText>【攻撃同士を素早く繋ぐ方法】
+&lt;icon:1&gt;ボタンや&lt;icon:2&gt;ボタンを押すことで
+攻撃は行えますが、
+特定のルールで攻撃を行うとより素早く
+連続攻撃ができる「技の連携」が発生します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>348</PointerOffset>
+      <JapaneseText>【技の連携ルール①】
+各技は、大きく３つのカテゴリに分けられています。
+：「通常技」
+：「特技」
+：「奥義」
+これが技の連携を行うのにとても重要な意味を持ちます。
+&lt;R&gt;【アイコンの絵】&lt;/R&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>360</PointerOffset>
+      <JapaneseText>【技の連携ルール②】
+「通常技」→「特技」→「奥義」の順番であれば、
+攻撃後の隙を無くし、連続的に攻撃が続きます。
+これを使い、敵を一方的に攻撃することも可能です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>400</PointerOffset>
+      <JapaneseText>【概略】
+ここでは、魔女っ娘等の、空を飛べるキャラ
+の特殊な操作について解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>【空を飛ぶ】
+空を飛べるキャラは、重力を無視して&lt;icon:16&gt;キーを
+押した方向へふわふわと飛ぶことが出来ます。
+但し、一定の高さ以上になると飛ぶことができず、
+通常通り重力を受けることになります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>464</PointerOffset>
+      <JapaneseText>表示物&gt;基本</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>476</PointerOffset>
+      <JapaneseText>【概略】
+戦闘中、操作キャラクターに関わる表示物に
+ついて解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>488</PointerOffset>
+      <JapaneseText>【各表示物の意味】
+
+&lt;R&gt;【キャラステータスＧＵＩの絵】&lt;/R&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>540</PointerOffset>
+      <JapaneseText>表示物&gt;ＥＢＧ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>552</PointerOffset>
+      <JapaneseText>【概略】
+戦闘を行なう上で、とても重要な意味を持つ
+ＥＢＧ（エモーショナルブレイブゲージ）に
+ついて解説します。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>564</PointerOffset>
+      <JapaneseText>【ＥＢＧとは】
+各キャラ一つ持っているこのゲージは、あらゆる行動を行う上で
+消費するもので、常に１０％に戻る力が働いています。
+このゲージが１０％を切ると、素早く技を繋いだり
+きちんと防御したりすることが出来なくなってしまいます。
+このゲージは、
+敵にダメージを与える等でどんどん増やすことが出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>576</PointerOffset>
+      <JapaneseText>【減ったＥＢＧを回復する方法】
+行動することで減っていきますので、適度に増やす必要があります。
+アイテムや術技を使うことでも回復できますが、
+一番効率の良い方法は「通常技」を使い敵に攻撃を当てることです。
+「通常技」はＥＢＧを全く消費せずに攻撃出来る唯一の技です。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>616</PointerOffset>
+      <JapaneseText>表示物&gt;攻撃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>【概略】
+戦闘中、攻撃を当てる、受けることによって
+変化する数値について解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>640</PointerOffset>
+      <JapaneseText>【攻撃を当てる】
+戦闘で勝利する為には、画面内の全ての敵を倒す必要があります。
+敵を倒すには全てのキャラに１つずつ備わっている数値
+「ＨＰ（ヒットポイント）」を０にする必要があります。
+この数値は、敵に攻撃を当てること（ダメージを与える）で
+徐々に減っていきます。
+同時に、前述「ＥＢＧ」が増えていきます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652</PointerOffset>
+      <JapaneseText>【攻撃を受ける】
+逆に、敵に攻撃を受けてしまう（ダメージを受ける）と
+自分のＨＰが減ってしまいます。
+こちらのＨＰが０になると負けてしまうので、アイテムや術技で
+回復したり、敵の攻撃を避ける必要があります。
+ダメージを受けると、ＥＢＧも減ってしまいます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>表示物&gt;状態</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>704</PointerOffset>
+      <JapaneseText>【概略】
+戦闘中に受ける様々なボーナス、ペナルティ
+について解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>716</PointerOffset>
+      <JapaneseText>【ボーナスの種類】
+戦闘中に特定の行動を起こすことで、
+戦闘後に得られるものが増えます。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>768</PointerOffset>
+      <JapaneseText>表示物&gt;補足</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>780</PointerOffset>
+      <JapaneseText>【概略】
+戦闘中に表示される逃走ゲージ、ミニマップ
+使用した技名の表示等を解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>792</PointerOffset>
+      <JapaneseText>【表示物】
+
+&lt;R&gt;【各種ＧＵＩ絵】&lt;/R&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>844</PointerOffset>
+      <JapaneseText>戦闘終了操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>856</PointerOffset>
+      <JapaneseText>【概略】
+戦闘に勝利した後の画面の表示物について、
+解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>868</PointerOffset>
+      <JapaneseText>【表示物について】
+戦闘に勝利すると、戦闘結果報告画面（リザルト画面）に移動します。
+ここでは、下記のような情報を確認できます。
+ＭＡＸ　ＤＡＭＡＧＥ：　その戦闘での最大累積ダメージ
+ＭＡＸ　ＨＩＴ：　その戦闘での最高連続攻撃回数
+ＥＸＰ：　手に入れた経験値
+ＧＡＬＤ：　手に入れたお金
+ＧＲＡＤＥ：　その戦闘をいかにうまく戦ったかの評価値
+ＣＰ：　手に入れたコスチュームを入手する為に使うポイント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>920</PointerOffset>
+      <JapaneseText>オーバーブレイブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>932</PointerOffset>
+      <JapaneseText>【概略】
+全ての仲間は、
+ＥＢＧ（エモーショナルブレイブゲージ）を
+溜めることで一時的に凄い力を発揮すること
+が出来ます。
+その方法について解説します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>944</PointerOffset>
+      <JapaneseText>【オーバーブレイブとは】
+オーバーブレイブとは、ＥＢＧを１００％以上に溜めてから、
+Ｌトリガー押下で一時的に凄い力を発揮出来る状態になることです。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>996</PointerOffset>
+      <JapaneseText>秘奥義</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1008</PointerOffset>
+      <JapaneseText>【概略】
+一部の仲間が持つ、最強の攻撃技です。
+オーバーブレイブという全力を出している時
+に発動することが可能です。
+その方法について解説します。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>【秘奥義】
+秘奥義とは、一部のキャラが持つ、最強の技のことです。
+キャライラストと共に強力な攻撃が繰り出せます。
+秘奥義を使用するには、オーバーブレイブ状態になっている時に
+敵に何か攻撃を当て、その間にＬトリガーを押す必要があります。
+秘奥義終了後、オーバーブレイブ状態が解除されます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1072</PointerOffset>
+      <JapaneseText>クルールの特技①</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>【概略】
+クルールは唯一、モンスターを捕獲すること
+が可能な特技を持っています。
+その方法について解説します。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1096</PointerOffset>
+      <JapaneseText>【捕獲について】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1148</PointerOffset>
+      <JapaneseText>クルールの特技②</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1160</PointerOffset>
+      <JapaneseText>【概略】
+クルールはディオ、メルに「なりきる」こと
+ができます。
+その方法について解説します。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1172</PointerOffset>
+      <JapaneseText>【チェインパートナー】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1224</PointerOffset>
+      <JapaneseText>料理システム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1236</PointerOffset>
+      <JapaneseText>【概略】
+メニュー上で使える、料理システムについて
+解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1248</PointerOffset>
+      <JapaneseText>【料理使用の条件】
+料理は強い効果を持ちますが、一度食べると
+戦闘を行なう、ダンジョンから出る、等を行わない限り再度食べること
+が出来ません。
+そして、料理を作るには食材というアイテムが必要になります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1300</PointerOffset>
+      <JapaneseText>属性&gt;基本</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1312</PointerOffset>
+      <JapaneseText>【概略】
+敵の属性の弱点を突くことで、戦闘を有利に
+進めることが可能です。
+その方法について解説します。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1324</PointerOffset>
+      <JapaneseText>【属性の優劣】
+
+&lt;R&gt;【属性相関図】&lt;/R&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1376</PointerOffset>
+      <JapaneseText>属性&gt;コンボ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1388</PointerOffset>
+      <JapaneseText>【概略】
+敵の属性の弱点を突くことで、戦闘を有利に
+進めることが可能です。
+ここでは、属性を使った一撃必殺を狙う方法
+について解説します。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1400</PointerOffset>
+      <JapaneseText>【エレメンタルアーツ】
+この術技をうまく使うことで敵を一瞬で葬り去ることが出来ます。
+但し、成功させるにはエレメンタルアーツ持続中に様々な属性の攻撃
+を行う必要があります。
+その属性の種類が多ければ多いほど、成功率は高くなります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1452</PointerOffset>
+      <JapaneseText>連携攻撃&gt;基本</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1464</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボ数を稼ぐ方法
+についての応用テクニックを解説します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1476</PointerOffset>
+      <JapaneseText>【上級テクニック】
+先に「通常技」→「特技」→「奥義」の連携ルールについて触れました
+がより難度の高い一例を紹介します。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1528</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用①</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1540</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボ数を稼ぐ方法
+についての応用テクニックを解説します。
+ここでは、敵味方の特定状態を狙った、
+やや難易度の高い連携について触れます。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1552</PointerOffset>
+      <JapaneseText>【敵の背後を突く】
+敵を背後から攻撃することで、通常より長く固めることが出来ます。
+コレを利用すると、普段繋がらない技同士のコンボを狙えます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1564</PointerOffset>
+      <JapaneseText>【ダウンした敵を強制的に起こす】
+ダウンした敵は通常、起き上がるまで
+こちらの攻撃を受け付けません。
+ですが、特定の攻撃を当てることによって強制的に立たせることが
+可能です。
+立たせた後は、更に連続で攻撃を打ち込めます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1576</PointerOffset>
+      <JapaneseText>【オーバーブレイブによる連携ルールの初期化を狙う】
+オーバーブレイブ状態になると、連携ルール通りでなくとも
+素早く攻撃を行うことが出来ます。
+同じ名称の術技同士も連続で出せるので、
+様々な連携攻撃を組み立てることが出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1604</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用②</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1616</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボを稼ぐ方法に
+ついての応用テクニックを解説します。
+ここでは、メニュー上で設定することで有利
+になる機能について触れます。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1628</PointerOffset>
+      <JapaneseText>【特技のヒミツ】
+術技メニュー画面で、特技名の右側に○○●とついているものが
+あると思います。
+これは、特技のレベルを表しており、この○が多いほどレベルの高い
+特技となっています。
+これは、ＳＴＡＲＴボタンを押すことで意図的に下げることが可能です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1640</PointerOffset>
+      <JapaneseText>【特技のヒミツ】
+下げることで、弱い術技になってしまいますが、実は
+設定した特技を●○○→○●○→○○●と順番に出すことで
+特技同士を素早く連携することが可能です！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1680</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用③</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1692</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボを稼ぐ方法に
+ついての応用テクニックを解説します。
+ここでは、より難易度の高い上級者向きの
+操作について触れます。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1756</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用④</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1768</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボを稼ぐ方法に
+ついての応用テクニックを解説します。
+ここでは、テクニカルスマッシュという特定
+の状況を生み出すことで戦闘後にボーナスを
+得られる機能について触れます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1780</PointerOffset>
+      <JapaneseText>【テクニカルスマッシュ】
+テトラスラッシュ
+ヘキサスラッシュ
+オクトスラッシュ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1832</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用⑤</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1844</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボを稼ぐ方法に
+ついての応用テクニックを解説します。
+ここでは、オーバースマッシュという、
+多量のコンボを狙うことが可能となる操作に
+ついて触れます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1856</PointerOffset>
+      <JapaneseText>【オーバースマッシュ】
+敵のＨＰが０になっても強制的に攻撃を続ける行動です。
+コンボ数、最大累積ダメージ等の高記録を目指すのに
+とても役に立ちます。
+敵が倒れてしまうと終了となります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1908</PointerOffset>
+      <JapaneseText>連携攻撃&gt;応用⑥</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1920</PointerOffset>
+      <JapaneseText>【概略】
+攻撃を素早く繋ぐ方法、コンボを稼ぐ方法に
+ついての応用テクニックを解説します。
+ここでは、空中戦闘について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>【エアリアル】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1984</PointerOffset>
+      <JapaneseText>上級操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1996</PointerOffset>
+      <JapaneseText>【概略】
+戦闘中、攻撃を防御する以外でもダメージを
+減らすことが可能です。
+そうそう狙って出来るものではありませんが
+攻撃相殺、無敵状態、弾の迎撃について解説
+します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2008</PointerOffset>
+      <JapaneseText>【その他の挙動について】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2060</PointerOffset>
+      <JapaneseText>状態異常</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2072</PointerOffset>
+      <JapaneseText>【概略】
+状態の異常や変化にかかってしまうと、
+とても不利な状態となります。
+アイテムや術を使うことで回復できます。
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084</PointerOffset>
+      <JapaneseText>【戦闘内での状態異常効果】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2096</PointerOffset>
+      <JapaneseText>【マップ上での状態異常効果】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2108</PointerOffset>
+      <JapaneseText>【状態異常回復・予防について】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2136</PointerOffset>
+      <JapaneseText>状態異常対策</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2148</PointerOffset>
+      <JapaneseText>【概略】
+状態の異常や変化を打ち消す方法として、
+アイテムや術を使う方法がありますが、
+特定のボタン操作でもそれが可能です。
+ここでは、その方法について触れます。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2160</PointerOffset>
+      <JapaneseText>【ボタンガチャガチャ】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2212</PointerOffset>
+      <JapaneseText>アイテム入手方法</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2224</PointerOffset>
+      <JapaneseText>【概略】
+お店で物を買う、宝箱を開ける、敵を倒す、
+敵から盗む等、アイテムを入手する方法は
+沢山あります。
+ここでは、アイテムの入手方法について
+詳しく触れます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2288</PointerOffset>
+      <JapaneseText>メニュー操作①</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2300</PointerOffset>
+      <JapaneseText>【概略】
+コスチューム項目でのコスチュームとスキル
+の取得方法について説明します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2312</PointerOffset>
+      <JapaneseText>【コスチューム取得方法】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2364</PointerOffset>
+      <JapaneseText>マップ操作①</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2376</PointerOffset>
+      <JapaneseText>【概略】
+マップ上を徘徊している敵シンボルについて
+アプローチ出来る各種行動を説明します。
+
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2388</PointerOffset>
+      <JapaneseText>【敵シンボルの色と違い】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2440</PointerOffset>
+      <JapaneseText>メニュー&gt;コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2452</PointerOffset>
+      <JapaneseText>【概略】
+危険なダンジョンで裸になるわけには
+いきません。
+コスチュームは着替えることが可能な場所が
+限られています。
+コスチュームを着替えるルールについて
+説明します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2464</PointerOffset>
+      <JapaneseText>【コスチュームを着替える】
+コスチュームは、ダンジョン内では着替えられなくなります。
+ダンジョン内で着替えたい場合、
+アイテム「簡易着替え室」を使うか
+ダンジョン内に存在するセーブポイントに乗る必要があります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2528</PointerOffset>
+      <JapaneseText>【概略】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2592</PointerOffset>
+      <JapaneseText>移動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2604</PointerOffset>
+      <JapaneseText>【ワールドマップと通常マップ】
+街やダンジョンが点在する「ワールドマッ
+プ」と街やダンジョンの内部「通常マップ
+」がある。
+これらを行き来してゲームを進めていこう。
+なお、通常マップ上を歩いている「魔物」
+と接触すると戦闘となる。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2616</PointerOffset>
+      <JapaneseText>【ダンジョンの仕掛け】
+ダンジョンには様々な「仕掛け」があり、
+それを解かなければ先に進めないようにな
+っている。
+主な仕掛けは「ソーサラーリングを使う「
+装置を起動させる」「物を動かす」ような
+ものだが複数の手順が必要な難解なものも
+ある。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2628</PointerOffset>
+      <JapaneseText>【サブイベント】
+サブイベントとは、シナリオ本編を進める
+ことに関わらないボーナスイベントのこと
+で、特定の条件を満たすと発生する。
+その内容は様々で、より深く物語を知る為
+の裏話や、アイテムを入手出来るものもあ
+る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2668</PointerOffset>
+      <JapaneseText>メインメニュー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2680</PointerOffset>
+      <JapaneseText>【メニュー項目】
+メインメニューは、マップ移動中に△ボタン
+を押すと開く画面。
+各種情報の確認や設定が行える。
+ゲームを進める上で何度も利用する画面なの
+でどんなことが出来るかよく覚えておこう。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2744</PointerOffset>
+      <JapaneseText>アイテム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2756</PointerOffset>
+      <JapaneseText>【アイテムの種類】
+アイテムは、道具や武器等「○つのカテゴリ
+」に分かれていて、それぞれ効果や使い方が
+異なる。
+これらのうち、実際にアイテム画面で使える
+のは一部の道具と貴重品だけで、「武器」「
+防具」「装飾品」を選ぶとキャラクターに装
+備させることが出来、「食材」は確認のみが
+行える。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2820</PointerOffset>
+      <JapaneseText>コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2832</PointerOffset>
+      <JapaneseText>【コスチュームとは】
+ディオとメルは「なりきり士」という服（コ
+スチューム）を着替えることで様々な力を発
+揮できる職種。
+ゲームを進める過程で、色々なコスチューム
+を手に入れることができるので、頑張って集
+めよう。
+コスチュームを着替えることで、姿が変わり
+使える術技やキャラクターの能力傾向が変化
+する。
+出現する敵の特性に応じて使い分けよう。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2896</PointerOffset>
+      <JapaneseText>料理</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2908</PointerOffset>
+      <JapaneseText>【料理について】
+メインメニューの「料理」で必要な食材を満
+たした料理を一度だけ作ることが出来る。
+戦闘を行なうか、ダンジョンを抜けることで
+再度食べられるようになる。
+パーティメンバー全員に効果がある。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2972</PointerOffset>
+      <JapaneseText>パーティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2984</PointerOffset>
+      <JapaneseText>【キャラクターの能力】
+メインメニューでカーソルをキャラクターに
+合わせて選ぶか「ライブラリ」のステータス
+を選ぶと、そのキャラクターのステータスを
+確認できる。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2996</PointerOffset>
+      <JapaneseText>【能力値一覧】
+画像</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3008</PointerOffset>
+      <JapaneseText>【称号】
+画像</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3020</PointerOffset>
+      <JapaneseText>【コスチューム】
+画像</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3048</PointerOffset>
+      <JapaneseText>戦闘①</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3060</PointerOffset>
+      <JapaneseText>【戦闘の流れ】
+戦闘画面では、敵と味方が同時に移動や攻撃
+を行って、基本的にどちらかが全滅するまで
+戦う。
+自分で操作するキャラクターは基本一人で、
+味方は設定した作戦に従って自動的に行動し
+てくれる。
+勝利すると経験値やガルド、アイテムを入手
+できる。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3072</PointerOffset>
+      <JapaneseText>【戦闘の基本操作】
+戦闘中は方向キーで移動させて、○ボタンで
+攻撃、□ボタンで防御を行う。
+基本戦法は敵に近づいて攻撃し、敵の反撃を
+移動か防御でかわす。
+慣れてきたら術技やそれを連続で当てる「コ
+ンボ」を使っていこう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3124</PointerOffset>
+      <JapaneseText>戦闘②</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3136</PointerOffset>
+      <JapaneseText>【オーバーブレイブゲージ】
+戦闘中に攻撃や術技を行うには、「オーバー
+ブレイブゲージ（ＢＧ）」が深く関わる。
+基本的に攻撃を行うと減り、それによってダ
+メージを与えると回復する。
+また、行動によりＢＧの消費量が異なり、Ｂ
+Ｇが１０％以上あるうちはコンボを行うこと
+ができる。
+○ボタンで出る通常攻撃、方向キーの移動は
+ＢＧを消費しない行動となっている。
+なお、ゲージが多いと攻撃力が、ゲージが少
+ないと防御力が高まる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3200</PointerOffset>
+      <JapaneseText>戦闘③</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3212</PointerOffset>
+      <JapaneseText>【術技】
+術技は、各キャラクターが使える特殊な技の
+こと。
+使うには、メインメニューか戦闘メニューか
+ら「術技」を選び、使いたい術技をセットし
+ておく必要がある。
+いづれも多くのＢＧを消費するが、敵に大ダ
+メージを与えたり、味方を回復したりと色々
+な効果を持っている。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3276</PointerOffset>
+      <JapaneseText>戦闘④</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3288</PointerOffset>
+      <JapaneseText>【オーバーブレイブ】
+戦闘中にダメージを与えるとＥＢＧが溜まっ
+ていく。
+そして、ゲージが１００％を超えて輝くと、
+「オーバーブレイブ」という全力を出せるモ
+ードを発動できる。
+使い方はＬトリガーを押すだけ。
+それまでに溜めたゲージを少しずつ消費しな
+がら倍速で動けるようになる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3300</PointerOffset>
+      <JapaneseText>【秘奥義】
+このオーバーブレイブモード中に敵に攻撃を
+当てた時にＬトリガーを押し続けると、一方
+的に大ダメージを与えられる「秘奥義」を発
+動することができる。
+但し、秘奥義を覚えていないと発動しないの
+で注意が必要だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3352</PointerOffset>
+      <JapaneseText>戦闘⑤</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>【コンボ】
+敵に素早く連続で攻撃を与えることを「コン
+ボ」といい、成功させると画面右上にヒット
+数を表す「○○ＨＩＴＳ」という数字が表示
+される。
+コンボで攻撃すればこちら側の攻撃後のスキ
+を減らせ、ヒット数に応じて経験値が余分に
+もらえる特典がつく。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3428</PointerOffset>
+      <JapaneseText>戦闘詳細１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3440</PointerOffset>
+      <JapaneseText>【エモーショナルブレイブゲージを知る】
+戦闘中、何か行動を起こす時には「エモーシ
+ョナルブレイブゲージ（ＥＢＧ）」が深く関
+わります。
+ＥＢＧの消費量は、○ボタンで出せる通常技
+なら無し、術技「魔神剣」なら２％、術技「
+魔王炎撃波」なら１０％と行動によって異な
+る。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3452</PointerOffset>
+      <JapaneseText>
+ＥＢＧが足りない時に術技を出そうとすると
+通常攻撃が変わりに出る。
+まずはＥＢＧの消費の少ない術技でダメージ
+を与え、ＥＢＧが溜まったら消費の大きな技
+でトドメを刺すのが基本となるだろう。
+この時、ＥＢＧが１０％以上維持されていて
+決まったルールで攻撃を組み合わせると行動
+後のスキを消しつつ連続で攻撃が行える。
+これを「行動の連携」という。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3464</PointerOffset>
+      <JapaneseText>【決まったルール】
+「術技」はＥＢＧの消費量に応じて、「特技
+」と「奥義」に分類される。
+「特技」は消費ＥＢＧ量が０〜１０％未満の
+ものを指し、比較的気軽に使える技となって
+いる。
+「奥義」とは、消費ＥＢＧ量が１０％以上の
+ものを指し、そのキャラの切り札とも言える
+強力な技が揃っている。
+連携が成立するルールは、
+「通常技」→「特技」→「奥義」
+となっており、この組み合わせで攻撃すると
+より素早く攻撃が行える。
+なお、通常技はキャラによっては複数回連続
+で繋ぐことができる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3504</PointerOffset>
+      <JapaneseText>戦闘詳細２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3516</PointerOffset>
+      <JapaneseText>【能力値】
+キャラクターの能力値は全部で７種類あり、
+それぞれが別の意味を持っている。
+また、攻撃力、防御力、術攻撃力、術防御力
+をメインステータスと呼び、これらはレベル
+アップにより上がっていく。
+残りの３つはサブステータスで装備アイテム
+等によって数値が変化する。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3580</PointerOffset>
+      <JapaneseText>戦闘詳細３</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3592</PointerOffset>
+      <JapaneseText>【属性】
+属性は「斬」「打」「射」「火」「水」「風
+」「地」「雷」「光」「闇」と全１０種類。
+キャラクター自身の装備品と術技、敵の技に
+備わっている「攻撃属性」と、キャラクター
+や敵が持っている「体属性」との相性によっ
+てダメージが大きく変化する。
+なお、キャラクターの攻撃属性は通常技につ
+く属性を表しており、術技を使った場合、そ
+の攻撃属性が優先される。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3604</PointerOffset>
+      <JapaneseText>【弱点と耐性による変化】
+攻撃側の攻撃属性が攻撃を受ける側の弱点属
+性を突くと、ダメージが上がる他クリティカ
+ルも発生しやすくなる。
+反対に耐性属性だけだとダメージが下がる他
+敵が仰け反る時間も短くなる。
+その為、基本的に敵の耐性属性は避け、可能
+ならば</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3656</PointerOffset>
+      <JapaneseText>戦闘詳細４</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3668</PointerOffset>
+      <JapaneseText>【操作モード】
+自分が操作するキャラクターの操作モードは
+初期状態では「セミオート」だが、メニュー
+画面から術技画面を開いてＳＥＬＥＣＴボタ
+ンを押すと下記の３種類から選べる。
+セミオートだとお手軽に戦闘を楽しめるが、
+より自由に戦いたい人にはマニュアルをオス
+スメする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3732</PointerOffset>
+      <JapaneseText>戦闘詳細５</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3744</PointerOffset>
+      <JapaneseText>【ターゲット変更】
+ターゲットとは攻撃対象のこと。
+通常は特定の敵を常にターゲットし続けるが
+Ｒトリガーを軽く押すことで最寄りの敵にタ
+ーゲットを切り替えることが可能。
+Ｒトリガーを押しながら方向キーの左右を押
+せば任意の敵にターゲットを変更することも
+可能だ。
+Ｒトリガーを押しながら○ボタンでモード変
+更が出来、「オート」モードにすれば、常に
+最寄りの敵を自動で狙ってくれるようにする
+こともできる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3808</PointerOffset>
+      <JapaneseText>戦闘詳細６</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3820</PointerOffset>
+      <JapaneseText>【戦闘メニューでできること】
+戦闘中に△ボタンを押すと戦闘メニューが開
+く。
+ここでは「術技」「装備」「アイテム」「作
+戦」「逃走」を利用できる。
+アイテムを使うのに、ＥＢＧは消費しないが
+「消費系アイコン」のついた道具しか使えな
+い。
+また、メニュー表示中にＬトリガーを押すと
+操作キャラクターを変更でき、Ｒトリガーを
+押すとカメラモードを変更できる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3884</PointerOffset>
+      <JapaneseText>戦闘詳細７</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3896</PointerOffset>
+      <JapaneseText>【移動アクションで間合いを調整】
+戦闘でまずやるべきことは、移動アクション
+で敵との間合いを調整することだ。
+攻撃の届くところまで走ったり、敵の攻撃を
+後ろへ下がって避けたりが出来る。
+なお、操作モードがセミオートの場合は、攻
+撃が届くところまで自動で走ってくれたりする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3960</PointerOffset>
+      <JapaneseText>戦闘詳細８</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3972</PointerOffset>
+      <JapaneseText>【チェインパートナー】
+チェインパートナーは、
+ディオとクルール、又はメルとクルールで
+行うことが出来る二人同時操作モードです。
+チェインパートナーを行うと、クルールは
+パートナーであるディオかメルの姿になり、
+３０秒の間モノマネを始めます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3984</PointerOffset>
+      <JapaneseText>【開始条件】
+チェインパートナーを発動する条件として、
+以下の３つの手順を踏む必要があります。
+
+①ディオかメルと、クルールが戦闘に参加
+②クルールが術技「チャネリング」を覚え
+　ている
+③ディオかメルを操作キャラにして、
+　クルールに術技「チャネリング」を使わ
+　せる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3996</PointerOffset>
+      <JapaneseText>【チェインパートナーの性能】
+変身したクルールは、
+通常は操作キャラの術技と同じものを使い
+まるで操作キャラが分身したかのような
+行動を行います。
+
+クルールとターゲットしている敵を挟み込
+むとシンメトリーな動きを行うようになり
+ます。　この状態では、敵が真上へ打ち上
+がるようになり、空中コンボが決めやすく
+なります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4008</PointerOffset>
+      <JapaneseText>【チェインパートナーの終了条件】
+以下の条件を満たすと、
+チェインパートナーは終了となります。
+
+①３０秒経つ
+②操作キャラでオーバーブレイブを行う
+③秘奥義を撃つ
+
+但し、例外としてオーバーブレイブを行う
+時にクルールもＥＢＧが１００％以上溜まっ
+ていた場合、チェインパートナーを維持し
+たままオーバーブレイブ状態になる、
+「ダブルオーバーブレイブ」を行うことが
+出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4020</PointerOffset>
+      <JapaneseText>【合体秘奥義】
+前述した、ダブルオーバーブレイブ状態で
+Ｌボタンを押すと、「合体秘奥義」となり
+より強力な技を発動出来ます。
+
+合体秘奥義終了でオーバーブレイブは解け、
+チェインパートナーも解除されます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4036</PointerOffset>
+      <JapaneseText>ＥＢＧって何？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4048</PointerOffset>
+      <JapaneseText>エモーショナルブレイブゲージ（ＥＢＧ）は
+戦闘中に行動するために必要なゲージです。
+このゲージが10％未満だと通常攻撃以外の
+攻撃が行えず、バックステップなどの行動も
+出来ません。
+
+
+敵にダメージを与えてどんどんゲージを増や
+しましょう。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4112</PointerOffset>
+      <JapaneseText>ミニマップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4124</PointerOffset>
+      <JapaneseText>ミニマップで戦闘中の全味方と敵の位置を
+確認できます。
+
+
+　　：操作キャラクター
+　　：味方キャラクター
+　　：ターゲットしている敵
+　　：ターゲット以外の敵</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4188</PointerOffset>
+      <JapaneseText>戦闘詳細１１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
