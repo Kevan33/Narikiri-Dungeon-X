@@ -214,11 +214,11 @@
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%dガルド手に入れた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acquired %d Gald!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -226,11 +226,15 @@
 %s
 %sを
 戦闘メンバーに加えてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please add 
+%s,
+%s,
+%s,
+to the battle party.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -837,12 +841,13 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>％○＊＃◎◆￥※▲↑
  ◇☆＠＝□▽＋■？！＆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>％○＊＃◎◆￥※▲↑
+ ◇☆＠＝□▽＋■？！＆</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -869,11 +874,12 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText> はい 
  いいえ </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes 
+No </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -897,11 +903,11 @@
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%dガルドを手に入れただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acquired %d Gald!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -910,11 +916,15 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Parted ways with
+%s,
+%s,
+%s,
+%s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>74</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -922,11 +932,13 @@
 %s
 %sが
 仲間になっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s,
+%s,
+%s joined the party!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -934,113 +946,124 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Parted ways with
+%s,
+%s,
+%s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%s
 %sが
 仲間になっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s  
+joined the party!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Parted ways with
+%s and %s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>78</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sが
 仲間になっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s joined the party!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>79</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sと
 別れただ！　　　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Parted ways with %s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>80</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sは%sを
 習得しただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s learned
+%s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>81</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sは&lt;DarkBlue&gt;&lt;WhiteOutline&gt;%s&lt;White&gt;&lt;NoOutline&gt;の
 コスチュームを手に入れただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s just obtained the
+&lt;DarkBlue&gt;&lt;WhiteOutline&gt;%s&lt;White&gt;&lt;NoOutline&gt; costume!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>82</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sは『%s』の
 称号を手に入れただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s just obtained the
+"%s" title!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>83</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sを失っただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You lost %s!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>84</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>&lt;Rody&gt;たんの装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>&lt;Rody&gt; got nothing equipped, so
+make sure to set her up properly!
+</EnglishText>
+      <Notes>Need to make sure to adapt the rody tan later</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>85</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>いまはブレイナーとか言うの
 探すんだべ？
 臆病風にでも吹かれたか、あーん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you’re looking for this “Brynhildr” guy now, huh?
+What, getting cold feet or something?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1049,11 +1072,15 @@
 ノルン様からご褒美があるだで、
 エトスハウスの
 例の部屋に行ってみるだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, look at that. You’ve managed to
+collect quite a few medals. Nice work.
+Seems Lady Norn has a reward waiting
+for you, so go check the usual room
+in Ethos’ house.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1063,11 +1090,17 @@
 新しくなっているみたいだーよ。
 この時代でちょっと寄り道して
 準備万端にするのもありだべ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, I know you’re eager, but are
+you actually ready!? Looks like the
+shops in Valhalla have some new
+stock. Might be worth taking a
+little detour while you’re in this
+era and making sure you’re fully
+prepared.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>88</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1075,21 +1108,25 @@
 バッチリ準備して駆けつけてくれたみたいだなや～
 前とはまるで強さが違うみてぇだから、
 一度確認しておくとええだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-These new Heroes of Time...looks like
+they showed up fully prepared. They’re
+way stronger than last time, so...it’s a
+good idea to check them out.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>89</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>ここにいるのは危険だーよ
 とっととズラかるだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It’s dangerous to stay here,
+so get moving fast!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1100,71 +1137,82 @@
 ちなみに青い記憶陣は
 ＨＰも回復するだ。
 おらの耳寄り情報に感謝せぇ～よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This here is a save point. You can record
+your journey, and even if monsters are
+around, they can’t touch you while you’re
+standing on it. I pop out too so you can
+change clothes. By the way, the blue save
+points also restore your HP. Consider that
+a tip from me, appreciate it.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>そんなに……
 お金……
 持って無いだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don’t...have that much money...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>92</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>なーんも反応しないべな……
 やっぱりここも着替えが必要なんだべか？
 とっとと調べろこのボケナス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing’s happening... Guess you need
+to change costumes here too, huh?
+Go check it already, you numbskull!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>みんなと別れただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We parted ways with everyone!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>94</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>むお？反応しないべ……
 ほったら先に進むしかねぇべな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Nothing’s happening... Looks like 
+you’ll just have to move on then.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>アイテムが足りないだよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don’t have enough items!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>96</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>エネルギー切れで
 うまく作動できないようだべな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like it can’t work 
+properly...probably out 
+of energy...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1182,21 +1230,25 @@
       <JapaneseText>カギがかかってて開かないだな～
 そのうち開くときがあるかもしんね。
 気長に待つだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It’s locked and won’t open...
+Maybe it’ll open eventually.
+Just wait patiently.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>99</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>カギがついてて開かないだ
 こういうのは中身が気になるべ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It’s locked and won’t open...
+Makes you wanna see what’s
+inside, doesn’t it?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1241,11 +1293,18 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+%s,
+%s,
+%s,
+%s,
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>104</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1256,11 +1315,17 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+%s,
+%s,
+%s,
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>105</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1270,11 +1335,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+%s,
+%s,
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>106</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1283,11 +1353,15 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+%s,
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>107</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1295,22 +1369,27 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>108</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>パーティがいっぱいだったので
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party’s full, so...
+%s,
+had to head over to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>109</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1504,11 +1583,12 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes 
+No </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>126</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1534,11 +1614,12 @@
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>………(´・ω・｀)</JapaneseText>
-      <EnglishText/>
+      <EnglishText>..........(´・ω・｀)(｡･ω･｡)ﾉ
+Life Bottle was Here</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>129</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1553,11 +1634,12 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>はい 
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes 
+No </EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>131</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1623,11 +1705,12 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>はい
 いいえ　　　　　　　　</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes 
+No </EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>138</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1643,11 +1726,12 @@
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>はい 
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes 
+No </EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>140</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
