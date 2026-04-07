@@ -4,57 +4,51 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>269432,269496,269560</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ほっかむり」の主</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Bonnet" Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269624,269688</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>曖昧な言葉の女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Vague-Speaking Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269752,269816,269880</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ベイビー」の主</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Baby" Owner</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>269944,270008,270072,270136,270200,270264</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>過言でないおじいさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No-Exaggeration Old Man</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270328,270392,270456</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ほっかむり」な主</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Bonnet" Owner</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270520,270584,270648,270712,270776,270840</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>実は騎士の男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Off-Duty Knight</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -102,18 +96,18 @@
     <Entry>
       <PointerOffset>280640</PointerOffset>
       <JapaneseText>道具屋　ほっかむり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop Bonnet</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280659</PointerOffset>
       <JapaneseText>道具屋　ベイビー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop Baby</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -360,7 +354,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272740</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;博士の研究は
+      <JapaneseText>&lt;Klarth&gt;博士の研究は
 このユークリッドから
 始まったのじゃ</JapaneseText>
       <EnglishText/>
@@ -384,7 +378,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272744</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;はわしらが町が
+      <JapaneseText>&lt;Klarth&gt;はわしらが町が
 育てたといっても
 過言ではない</JapaneseText>
       <EnglishText/>

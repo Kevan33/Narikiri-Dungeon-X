@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>282996</PointerOffset>
       <JapaneseText>このダンジョンから脱出しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to exit this dungeon?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -56,10 +56,10 @@
     <Entry>
       <PointerOffset>283100</PointerOffset>
       <JapaneseText>追憶の歪み</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Distortion of Memories</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -580,11 +580,12 @@
       <PointerOffset>283029</PointerOffset>
       <JapaneseText>            はい              
             いいえ             </JapaneseText>
-      <EnglishText/>
+      <EnglishText>            Yes              
+            No             </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

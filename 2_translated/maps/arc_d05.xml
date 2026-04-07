@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>278134</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -56,10 +56,10 @@
     <Entry>
       <PointerOffset>278080</PointerOffset>
       <JapaneseText>きらめきの塔　最上階</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glimmer Spire - Top Floor</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -572,11 +572,11 @@
       <PointerOffset>278141</PointerOffset>
       <JapaneseText>まあとりあえず
 ガンバってね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, anyway, Do your best~</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

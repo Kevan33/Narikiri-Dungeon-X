@@ -4,16 +4,16 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>267924,267988,268052</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」の主人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"No Restrictions" Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>268116,268180,268244,268308,268372,268436</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>売店のサッチ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -22,16 +22,16 @@
     </Entry>
     <Entry>
       <PointerOffset>268500,268564,268628</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」店員</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"No Restrictions" Clerk</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>268692,268756,268820,268884,268948,269012</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>開拓者魂あふれる男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -84,10 +84,10 @@
     <Entry>
       <PointerOffset>278771</PointerOffset>
       <JapaneseText>道具屋　天地無用</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop No Restrictions</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>

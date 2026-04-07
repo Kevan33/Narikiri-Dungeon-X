@@ -766,10 +766,10 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2528</PointerOffset>
       <JapaneseText>セージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sage</EnglishText>
       <Notes/>
       <Id>2368</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2588</PointerOffset>
@@ -782,8 +782,7 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2592</PointerOffset>
       <JapaneseText>滋養強壮の効果がある薬草</JapaneseText>
-      <EnglishText>A medicinal herb
-with strong nutrients.</EnglishText>
+      <EnglishText>A medicinal herb with strong nutrients.</EnglishText>
       <Notes/>
       <Id>2370</Id>
       <Status>Editing</Status>
@@ -1501,7 +1500,7 @@ The book has written down how to use "Marunomi Fire".</EnglishText>
     <Entry>
       <PointerOffset>5108</PointerOffset>
       <JapaneseText>「獣破轟衝斬」を覚える</JapaneseText>
-      <EnglishText>Learn "Roaring Beast Edge"</EnglishText>
+      <EnglishText>Learn "Stampede Strike"</EnglishText>
       <Notes/>
       <Id>2453</Id>
       <Status>Editing</Status>
@@ -3961,10 +3960,11 @@ by warriors in a distant land.</EnglishText>
       <PointerOffset>13344</PointerOffset>
       <JapaneseText>威圧感たっぷりの巨大な戦斧。
 柄の長いものは正規軍にも採用されている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A massive battle axe that radiates a formidable presence.
+Variants with long-handles are used by the army.</EnglishText>
       <Notes/>
       <Id>2727</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13364</PointerOffset>
@@ -3972,7 +3972,7 @@ by warriors in a distant land.</EnglishText>
       <EnglishText>Undine</EnglishText>
       <Notes/>
       <Id>2728</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>13424</PointerOffset>
@@ -3988,10 +3988,11 @@ Water Property</EnglishText>
       <PointerOffset>13428</PointerOffset>
       <JapaneseText>蒼く輝く美しき戦斧。
 ウンディーネの力が宿っている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A beautiful battle axe that shines blue.
+It is imbued with Undine's power.</EnglishText>
       <Notes/>
       <Id>2730</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13448</PointerOffset>
@@ -4013,10 +4014,11 @@ Water Property</EnglishText>
       <PointerOffset>13512</PointerOffset>
       <JapaneseText>多くの軍隊で採用される万能斧。
 様々な使い方ができるが、熟練には時間を要する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A versatile axe use in most military armies.
+It has many uses, but mastering it takes time.</EnglishText>
       <Notes/>
       <Id>2733</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13532</PointerOffset>
@@ -4024,7 +4026,7 @@ Water Property</EnglishText>
       <EnglishText>Sylph</EnglishText>
       <Notes/>
       <Id>2734</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>13592</PointerOffset>
@@ -4040,10 +4042,11 @@ Wind Property</EnglishText>
       <PointerOffset>13596</PointerOffset>
       <JapaneseText>羽が生えたように軽い戦斧。
 シルフの力が宿っている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A battle axe as light as a feather.
+It is imbued with Sylph's power.</EnglishText>
       <Notes/>
       <Id>2736</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13616</PointerOffset>
@@ -4064,10 +4067,10 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>13680</PointerOffset>
       <JapaneseText>三日月型の刃を取りつけた戦斧</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A battle axe fitted with a crescent-shaped blade.</EnglishText>
       <Notes/>
       <Id>2739</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13700</PointerOffset>
@@ -4088,10 +4091,10 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>13764</PointerOffset>
       <JapaneseText>強い衝撃にも耐えられるように設計された戦斧</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A battle axe designed to withstand heavy strikes.</EnglishText>
       <Notes/>
       <Id>2742</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13784</PointerOffset>
@@ -4113,10 +4116,11 @@ Wind Property</EnglishText>
       <PointerOffset>13848</PointerOffset>
       <JapaneseText>美しさと凶悪さを併せ持つ戦斧。
 数多の命を刃に吸いあげ、更に輝くことだろう</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A battle axe that embodies both beauty and brutality.
+Siphoning countless lives will make its blade shine even brighter.</EnglishText>
+      <Notes>Need a double check of the second sentence. Is it that it already siphoned the lives, or that by siphoning lives?</Notes>
       <Id>2745</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>13868</PointerOffset>
@@ -4138,10 +4142,11 @@ Wind Property</EnglishText>
       <PointerOffset>13932</PointerOffset>
       <JapaneseText>巨竜の死骸から出てきたとされる斧。
 その重量故に並の者では扱えない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An axe said to have originated from the carcass of a dragon.
+It's so heavy that the average man can't wield it.</EnglishText>
       <Notes/>
       <Id>2748</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13952</PointerOffset>
@@ -4165,10 +4170,10 @@ Water Property</EnglishText>
       <PointerOffset>14016</PointerOffset>
       <JapaneseText>水の力を凝縮し、
 精霊の手によって生み出された貴重な武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A precious weapon forged by the hands of spirits which has condensed the power of water.</EnglishText>
       <Notes/>
       <Id>2751</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14036</PointerOffset>
@@ -4270,7 +4275,7 @@ Nothing but a simple spear.</EnglishText>
       <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>2763</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>14432</PointerOffset>
@@ -4324,7 +4329,7 @@ weight is even, but the edge is rough.</EnglishText>
       <EnglishText>Gnome</EnglishText>
       <Notes/>
       <Id>2769</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>14600</PointerOffset>
@@ -4814,10 +4819,10 @@ have the ability to raise the dead.</EnglishText>
       <PointerOffset>16116</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 大陸東方で噂になっていた幻の書物</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A magical book legendary for being the subject of rumors in the eastern part of the continent.</EnglishText>
       <Notes/>
       <Id>2825</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16136</PointerOffset>
@@ -4867,10 +4872,10 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16284</PointerOffset>
       <JapaneseText>魔術書の一つ。　呪文をとある団体の
 スケジュール表でカモフラージュして記した書物</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A magical book in which the recorded spells are camouuflaged as the schedule of a certain organization.</EnglishText>
       <Notes/>
       <Id>2831</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16304</PointerOffset>
@@ -4892,10 +4897,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16368</PointerOffset>
       <JapaneseText>千里の道も一歩から、
 まずはアリの行列を観察してみよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Every journey begins with a single step, so let's
+start by observing this line of ants!</EnglishText>
       <Notes/>
       <Id>2834</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16388</PointerOffset>
@@ -4917,10 +4923,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16452</PointerOffset>
       <JapaneseText>子猫からライオンまで、
 獣系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From kittens to lions, this encyclopedia contains
+information on all Beast-type monsters.</EnglishText>
       <Notes/>
       <Id>2837</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16472</PointerOffset>
@@ -4941,10 +4948,10 @@ of the highest quality on its pages.</EnglishText>
     <Entry>
       <PointerOffset>16536</PointerOffset>
       <JapaneseText>昆虫系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An encyclopedia containing information on Insect-type monsters.</EnglishText>
       <Notes/>
       <Id>2840</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16556</PointerOffset>
@@ -4965,10 +4972,10 @@ of the highest quality on its pages.</EnglishText>
     <Entry>
       <PointerOffset>16620</PointerOffset>
       <JapaneseText>鳥系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>An encyclopedia containing information on Avian-type monsters.</EnglishText>
+      <Notes>Is it Avian or Bird? Need to establish monster type.</Notes>
       <Id>2843</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>16640</PointerOffset>
@@ -4990,10 +4997,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16704</PointerOffset>
       <JapaneseText>魔法で動くゴーレムやゼリー状の魔物等、
 生物かどうか微妙な魔物が載っている図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An encyclopedia featuring monsters whose classification
+as living beings is in debate, such as magic-powered golems and jelly-like creatures.</EnglishText>
       <Notes/>
       <Id>2846</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16724</PointerOffset>
@@ -5015,10 +5023,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16788</PointerOffset>
       <JapaneseText>魔物の中でも特に危険な
 竜系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An encyclopedia containing information on Dragon-type monsters,
+which are among the most dangerous of monsters.</EnglishText>
       <Notes/>
       <Id>2849</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16808</PointerOffset>
@@ -5040,10 +5049,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16872</PointerOffset>
       <JapaneseText>ジャンルを問わず幅広く、
 魔物の生態について情報を網羅した図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An encyclopedia containing comprehensive information
+on Daemon-type monsters.</EnglishText>
       <Notes/>
       <Id>2852</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16892</PointerOffset>
@@ -5065,10 +5075,11 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16956</PointerOffset>
       <JapaneseText>未知の生命体から異界の魔物まで、
 様々な情報を網羅した図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An encyclopedia containing information ranging from
+unknown forms of life to otherworldly monsters.</EnglishText>
       <Notes/>
       <Id>2855</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16976</PointerOffset>
@@ -5089,10 +5100,10 @@ of the highest quality on its pages.</EnglishText>
     <Entry>
       <PointerOffset>17040</PointerOffset>
       <JapaneseText>料理レシピについての情報が載っている図鑑</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cookbook containing information on recipes.</EnglishText>
       <Notes/>
       <Id>2858</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17060</PointerOffset>
@@ -5142,10 +5153,11 @@ that stand for water all over it.</EnglishText>
       <PointerOffset>17208</PointerOffset>
       <JapaneseText>強力なボウガン。
 かなりの命中精度を誇るが、重い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A powerful crossbow that boasts high accuracy but
+is extremely heavy.</EnglishText>
       <Notes/>
       <Id>2864</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17228</PointerOffset>
@@ -5167,10 +5179,10 @@ that stand for water all over it.</EnglishText>
       <PointerOffset>17292</PointerOffset>
       <JapaneseText>強力なバネを採用し、
 矢を鋭く高速で打ち出すことが可能になったボウガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A crossbow with a powerful spring that enables it to fire precisely and at high speeds.</EnglishText>
       <Notes/>
       <Id>2867</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17312</PointerOffset>
@@ -5184,10 +5196,10 @@ that stand for water all over it.</EnglishText>
       <PointerOffset>17376</PointerOffset>
       <JapaneseText>しなやかな木材を用いて作ることで、
 飛距離に優れたボウガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Made out of elastic wood, this crossbow boasts exceptional range.</EnglishText>
       <Notes/>
       <Id>2869</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17396</PointerOffset>
@@ -5211,10 +5223,10 @@ Wind Property</EnglishText>
       <PointerOffset>17460</PointerOffset>
       <JapaneseText>音速に例えられる程に高速で矢を打ち出せるボウガン。
 音と風の精霊の加護が宿る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A crossbow said to be capable of firing arrows as fast as the speed of sound. It is imbued with the blessings of the spirits of sound and wind.</EnglishText>
       <Notes/>
       <Id>2872</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17480</PointerOffset>
@@ -5236,10 +5248,10 @@ Wind Property</EnglishText>
       <PointerOffset>17544</PointerOffset>
       <JapaneseText>クロスボウの性能が向上したもの。
 あらゆる点で改良がほどこされている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An enhanced version of the crossbow. It has been improved in all aspects.</EnglishText>
       <Notes/>
       <Id>2875</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17564</PointerOffset>
@@ -5261,10 +5273,11 @@ Wind Property</EnglishText>
       <PointerOffset>17628</PointerOffset>
       <JapaneseText>体重をかけることでようやく弦を引き上げることが
 出来る程、強烈な反発力を備えたボウガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A crossbow with a cocking device so tough one must
+apply their full body weight to pull back the string.</EnglishText>
       <Notes/>
       <Id>2878</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17648</PointerOffset>
@@ -5288,10 +5301,11 @@ Light Property</EnglishText>
       <PointerOffset>17712</PointerOffset>
       <JapaneseText>まばゆい光の力が宿るボウガン。
 その矢は光線となって目標を正確に射抜く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A crossbow imbued with the power of light. Its arrows manifest
+as beams of light that pierce their targets with precision.</EnglishText>
       <Notes/>
       <Id>2881</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17732</PointerOffset>
@@ -5313,10 +5327,11 @@ Light Property</EnglishText>
       <PointerOffset>17796</PointerOffset>
       <JapaneseText>人が作りし最高のボウガン。
 威力もさることながら、矢の装填にかかる時間が短い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The finest crossbow ever made by human hands.
+It is not only powerful, but also reloads quickly.</EnglishText>
       <Notes/>
       <Id>2884</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17816</PointerOffset>
@@ -5340,10 +5355,11 @@ Recover HP on Critical</EnglishText>
       <PointerOffset>17880</PointerOffset>
       <JapaneseText>弓の名手「オデュセア」が手にしたとされる、
 神話にのみ名を残す幻のボウガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A legendary, mythical crossbow said to have been
+wielded by the master archer Odysseus, </EnglishText>
       <Notes/>
       <Id>2887</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17900</PointerOffset>
@@ -5365,10 +5381,11 @@ Recover HP on Critical</EnglishText>
       <PointerOffset>17964</PointerOffset>
       <JapaneseText>発砲音を聞いた者に幸運を与える、
 お祝いの席で使われる銃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A gun used at celebrations to bestow good
+fortune upon those who hear its shots.</EnglishText>
       <Notes/>
       <Id>2890</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17984</PointerOffset>
@@ -5389,10 +5406,10 @@ Recover HP on Critical</EnglishText>
     <Entry>
       <PointerOffset>18048</PointerOffset>
       <JapaneseText>真っすぐに長い砲身を備えた長銃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A firearm equipped with a straight, long gunbarrel.</EnglishText>
       <Notes/>
       <Id>2893</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18068</PointerOffset>
@@ -5444,10 +5461,11 @@ Effect: EBG costs reduced to 90%</EnglishText>
       <PointerOffset>18216</PointerOffset>
       <JapaneseText>古代遺跡より発掘された、不思議な銃。
 持つ者に勇気と活力を与える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mysterious gun unearthed from ancient ruins.
+It bestows courage and vitality upon its user.</EnglishText>
       <Notes/>
       <Id>2899</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18236</PointerOffset>
@@ -5469,10 +5487,11 @@ Effect: EBG costs reduced to 90%</EnglishText>
       <PointerOffset>18300</PointerOffset>
       <JapaneseText>蛇の名を冠する蒼き長銃。
 狙った獲物を的確に捉える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A long, blue rifle bearing the name of a snake.
+It will strike its target with precision.</EnglishText>
       <Notes/>
       <Id>2902</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18320</PointerOffset>
@@ -5495,10 +5514,11 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>18384</PointerOffset>
       <JapaneseText>衝撃で爆発する特殊弾を使える、砲身の太い銃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A gun with a thick barrel capable of firing rounds
+that explode upon impact.</EnglishText>
       <Notes/>
       <Id>2905</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18404</PointerOffset>
@@ -5520,10 +5540,11 @@ Fire Property</EnglishText>
       <PointerOffset>18468</PointerOffset>
       <JapaneseText>改良を重ね、不発率を下げた銃。物語「不倫とロック」
 の劇中で初使用されこの名がついたとか？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A gun that has undergone multiple enhancements to reduce its
+misfiring rate. It's said to have gotten its name by being used in the story "Adultery and Rock".</EnglishText>
+      <Notes>Need help with the second sentence - is that the story's name?</Notes>
       <Id>2908</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>18488</PointerOffset>
@@ -5545,10 +5566,11 @@ Fire Property</EnglishText>
       <PointerOffset>18552</PointerOffset>
       <JapaneseText>発砲音が小気味良く連続で響くことから名が付いた銃。
 連射性能に優れる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A gun named for the crisp, rapid rhythm of shots it fires.
+Its rate of fire is where it excels.</EnglishText>
       <Notes/>
       <Id>2911</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18572</PointerOffset>
@@ -5572,10 +5594,11 @@ Wind Property</EnglishText>
       <PointerOffset>18636</PointerOffset>
       <JapaneseText>豪華な装飾のあしらわれた高価な銃。
 風を利用する最新の技術が組み込まれている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An expensive gun adorned with opulent decorations.
+It utilizes the latest technology to harness the power of wind.</EnglishText>
       <Notes/>
       <Id>2914</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18656</PointerOffset>
@@ -5597,7 +5620,7 @@ Wind Property</EnglishText>
       <PointerOffset>18720</PointerOffset>
       <JapaneseText>騎士見習いが修練用に使用する細身剣。
 威力は期待できない</JapaneseText>
-      <EnglishText>A slender sword used for training knight
+      <EnglishText>A narrow sword used for training knight
 apprentices. Not that powerful.</EnglishText>
       <Notes/>
       <Id>2917</Id>
@@ -5622,10 +5645,10 @@ apprentices. Not that powerful.</EnglishText>
     <Entry>
       <PointerOffset>18804</PointerOffset>
       <JapaneseText>鋭い突き攻撃を目的とした細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword designed for swift, thrusting attacks.</EnglishText>
       <Notes/>
       <Id>2920</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18824</PointerOffset>
@@ -5649,10 +5672,11 @@ Water Property</EnglishText>
       <PointerOffset>18888</PointerOffset>
       <JapaneseText>氷の封印の名を冠した細身剣。
 その昔、赤竜退治の切り札とされたもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword bearing the name of "Ice Seal". Long ago, it
+was considered the trump card in the battle against the Red Dragon.</EnglishText>
       <Notes/>
       <Id>2923</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18908</PointerOffset>
@@ -5673,10 +5697,10 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>18972</PointerOffset>
       <JapaneseText>とても軽くバランスの取れた、扱いやすい細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A light and well-balanced narrow sword that is easy to handle.</EnglishText>
       <Notes/>
       <Id>2926</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18992</PointerOffset>
@@ -5698,10 +5722,11 @@ Water Property</EnglishText>
       <PointerOffset>19056</PointerOffset>
       <JapaneseText>由緒ある細身剣。
 とある高名な貴族が所持していたという</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A historical narrow sword said to have once belonged
+to a certain renowned nobleman.</EnglishText>
       <Notes/>
       <Id>2929</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19076</PointerOffset>
@@ -5723,10 +5748,11 @@ Water Property</EnglishText>
       <PointerOffset>19140</PointerOffset>
       <JapaneseText>とある騎士団で使われていた細身剣。
 店売りの安物とは段違いの切れ味を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword said to have been used by a certain order.
+Its sharpness is far superior than any cheap, off-the-shelf swords.</EnglishText>
       <Notes/>
       <Id>2932</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19160</PointerOffset>
@@ -5749,10 +5775,10 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19224</PointerOffset>
       <JapaneseText>至高神の祝福を受けた光の聖剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The holy sword of light, blessed by the God Most High.</EnglishText>
       <Notes/>
       <Id>2935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19244</PointerOffset>
@@ -5773,10 +5799,11 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19308</PointerOffset>
       <JapaneseText>突くことに特化した、針のような刀身を持つ細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A narrow sword with a needle-like blade designed
+specifically for thrusting.</EnglishText>
       <Notes/>
       <Id>2938</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19328</PointerOffset>
@@ -5800,10 +5827,11 @@ CAST + 10</EnglishText>
       <PointerOffset>19392</PointerOffset>
       <JapaneseText>純粋な力の結晶というべき風格ある剣。
 すべてに動じない精神力を与えてくれる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A sword of such stature it could be considered the embodiment of power.
+It bestows a fortitude that is unshaken by all.</EnglishText>
       <Notes/>
       <Id>2941</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19412</PointerOffset>
@@ -5826,10 +5854,11 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>19476</PointerOffset>
       <JapaneseText>聖別された剣先が鮮やかに敵を貫く高貴な細身剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An exalted, narrow sword whose consecrated blade
+will pierce through enemies with precision.</EnglishText>
       <Notes/>
       <Id>2944</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19496</PointerOffset>
@@ -5853,18 +5882,18 @@ Earth Property</EnglishText>
       <PointerOffset>19560</PointerOffset>
       <JapaneseText>大地を統べた龍の牙を穂先として使用した剣。
 その威力はまさに龍のひと噛み</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A sword whose blade was fashioned from the fang of a dragon that once ruled the Earth. Its power is as strong as a dragon's bite.</EnglishText>
       <Notes/>
       <Id>2947</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19580</PointerOffset>
       <JapaneseText>オリジナルブレード</JapaneseText>
-      <EnglishText>Original Blade</EnglishText>
-      <Notes/>
+      <EnglishText>Origin Blade</EnglishText>
+      <Notes>While literally Original Blade, I think Origin Blade fits better. Please confirm that this is related to Origin, the Spirit.</Notes>
       <Id>2948</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>19640</PointerOffset>
@@ -5880,10 +5909,11 @@ MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
       <PointerOffset>19644</PointerOffset>
       <JapaneseText>精霊王の力により生み出された精霊の剣。
 大地の力を宿し、敵に圧倒的な威圧感を与える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A divine blade forged with the power of the King of Spirits. It harnesses
+the power of Earth and overwhelms its foes with dread.</EnglishText>
       <Notes/>
       <Id>2950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19664</PointerOffset>
@@ -5905,10 +5935,11 @@ MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
       <PointerOffset>19728</PointerOffset>
       <JapaneseText>数々の伝説打法が生み出された
 万人に愛される木製武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wooden weapon that has given rise to countless
+legendary techniques and is loved by all.</EnglishText>
       <Notes/>
       <Id>2953</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19748</PointerOffset>
@@ -6042,10 +6073,10 @@ Fire Property</EnglishText>
       <PointerOffset>20148</PointerOffset>
       <JapaneseText>炎の力を凝縮し、
 精霊の手によって生み出される貴重な武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A precious weapon forged by the hands of spirits which has condensed the power of fire.</EnglishText>
       <Notes/>
       <Id>2968</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20168</PointerOffset>
@@ -6092,10 +6123,10 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20316</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A beautiful broom embellished with a silver inlay.</EnglishText>
       <Notes/>
       <Id>2974</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20336</PointerOffset>
@@ -6116,10 +6147,11 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20400</PointerOffset>
       <JapaneseText>別世界からやってきた魔女が乗っていたホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A broom ridden by a witch who had come from
+another world.</EnglishText>
       <Notes/>
       <Id>2977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20420</PointerOffset>
@@ -6143,10 +6175,11 @@ Wind Property</EnglishText>
       <PointerOffset>20484</PointerOffset>
       <JapaneseText>風の精霊の力が宿った素早く飛べるホウキ。
 スピードが命なあなたに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A broom imbued with the power of Sylph that lets one fly as
+swift as the wind. It for those whom speed is everything...</EnglishText>
       <Notes/>
       <Id>2980</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20504</PointerOffset>
@@ -6167,10 +6200,11 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20568</PointerOffset>
       <JapaneseText>楽器のような飛行音がする不思議で楽しいホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mysterious yet delightful broom that makes sounds
+like a musical instrument.</EnglishText>
       <Notes/>
       <Id>2983</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20588</PointerOffset>
@@ -6191,10 +6225,10 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20652</PointerOffset>
       <JapaneseText>流れ星のような軌跡を残す魔法のホウキ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A magic broom that leaves a trail like a shooting star.</EnglishText>
       <Notes/>
       <Id>2986</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20672</PointerOffset>
@@ -6216,10 +6250,11 @@ Wind Property</EnglishText>
       <PointerOffset>20736</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なスプーン……
 飛んでみたらいいよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A beautiful spoon made of silver...
+Why not give it a try!</EnglishText>
       <Notes/>
       <Id>2989</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20756</PointerOffset>
@@ -6240,10 +6275,11 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20820</PointerOffset>
       <JapaneseText>クマの手を模して作られた打撃戦用の篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets designed to imitate a bear's claws for
+close combat.</EnglishText>
       <Notes/>
       <Id>2992</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20840</PointerOffset>
@@ -6264,10 +6300,10 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20904</PointerOffset>
       <JapaneseText>打撃力を強化した革の篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leather gauntlets that enhance one's striking power.</EnglishText>
       <Notes/>
       <Id>2995</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20924</PointerOffset>
@@ -6288,10 +6324,11 @@ Wind Property</EnglishText>
     <Entry>
       <PointerOffset>20988</PointerOffset>
       <JapaneseText>鉄製の突起物を付けて殺傷能力を増した篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets fitted with iron spikes to boost their
+killing capabilities.</EnglishText>
       <Notes/>
       <Id>2998</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21008</PointerOffset>
@@ -6315,10 +6352,11 @@ Effect: Regenerate HP</EnglishText>
       <PointerOffset>21072</PointerOffset>
       <JapaneseText>八百万の魔物の魂が封じられた篭手。
 使う者を鼓舞しスタミナを与える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets that have sealed the souls of eight million monsters.
+They invigorate its user and give them stamina.</EnglishText>
       <Notes/>
       <Id>3001</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21092</PointerOffset>
@@ -6342,10 +6380,11 @@ Earth Property</EnglishText>
       <PointerOffset>21156</PointerOffset>
       <JapaneseText>ダイヤを加工して作られた爪を備える篭手。
 とてつもない強度を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets fitted with talons crafted from diamonds.
+They boast incredible power.</EnglishText>
       <Notes/>
       <Id>3004</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21176</PointerOffset>
@@ -6369,10 +6408,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21240</PointerOffset>
       <JapaneseText>毒薬を塗りこんだ革で覆われた
 格闘家精神に反すると非難を浴びた篭手</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gauntlets covered in poison-soaked leather that have
+been criticized for going against the spirit of martial arts.</EnglishText>
       <Notes/>
       <Id>3007</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21260</PointerOffset>
@@ -6394,10 +6434,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21324</PointerOffset>
       <JapaneseText>初代チャンピオンが愛用していたとされる、
 由緒あるナックル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A prestigious brass knuckle said to have been used
+by the first champion.</EnglishText>
       <Notes/>
       <Id>3010</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21344</PointerOffset>
@@ -6419,10 +6460,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>21408</PointerOffset>
       <JapaneseText>神の兵器と名付けられたナックル。
 輝く拳は全ての悪を打ち砕く</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A knuckle christened as the weapon of god.
+Its shining fist shatters all evil.</EnglishText>
+      <Notes>Capital g?</Notes>
       <Id>3013</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21428</PointerOffset>
@@ -6446,10 +6488,11 @@ Light Property</EnglishText>
       <PointerOffset>21492</PointerOffset>
       <JapaneseText>星の力を秘めた輝きの篭手。
 その光は悪しきものを退ける</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A radiant gauntlets that conceals the power of the stars.
+Its light wards off evil.</EnglishText>
       <Notes/>
       <Id>3016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21512</PointerOffset>
@@ -6470,7 +6513,7 @@ Light Property</EnglishText>
     <Entry>
       <PointerOffset>21576</PointerOffset>
       <JapaneseText>なめし皮で作られた一般的な脚甲</JapaneseText>
-      <EnglishText>Common leg armor made of leather.</EnglishText>
+      <EnglishText>Common leg guards made of leather.</EnglishText>
       <Notes/>
       <Id>3019</Id>
       <Status>Editing</Status>
@@ -6496,10 +6539,10 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>21660</PointerOffset>
       <JapaneseText>火の精霊の力を宿した、熱き魂の脚甲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fiery leg guards imbued with the power of a fire spirit</EnglishText>
       <Notes/>
       <Id>3022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>21680</PointerOffset>
@@ -6520,7 +6563,7 @@ Fire Property</EnglishText>
     <Entry>
       <PointerOffset>21744</PointerOffset>
       <JapaneseText>鋼鉄で作られた重厚な脚甲。使いこなすには熟練を要する</JapaneseText>
-      <EnglishText>Leg armor made of steel. The craftsman
+      <EnglishText>Leg guards made of steel. The craftsman
 is obviously skilled!</EnglishText>
       <Notes/>
       <Id>3025</Id>
@@ -6951,10 +6994,11 @@ Effect: EBG gain from attacks increased</EnglishText>
       <PointerOffset>23172</PointerOffset>
       <JapaneseText>慟哭の権標。
 持つとなぜだか悲しくなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A symbol of lamentation. For some reason, carrying it will fill
+its holder with sadness.</EnglishText>
       <Notes/>
       <Id>3076</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23192</PointerOffset>
@@ -6976,10 +7020,11 @@ Effect: EBG gain from attacks increased</EnglishText>
       <PointerOffset>23256</PointerOffset>
       <JapaneseText>お気楽極楽美少女ステッキ。
 なんとかなるでしょ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The wand of a blissful, carefree, and beautiful girl.
+It'll all work out somehow!</EnglishText>
       <Notes/>
       <Id>3079</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23276</PointerOffset>
@@ -7081,10 +7126,11 @@ Wind Property</EnglishText>
       <PointerOffset>23592</PointerOffset>
       <JapaneseText>東風の名を冠する王錫。
 かつて国を守った神風伝説は有名</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A khakkhara named after the god of the East Wind.
+The legend of divine wind that once protected the country is well known.</EnglishText>
+      <Notes>Check if it's a khakkhara.</Notes>
       <Id>3091</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>23612</PointerOffset>
@@ -7134,10 +7180,11 @@ Effect: EBG Gain Up</EnglishText>
       <PointerOffset>23760</PointerOffset>
       <JapaneseText>自らを呑み込む大蛇の杖。
 犠牲の代償に得られる力とは？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The staff of the great serpent that devoured itself.
+What sort of power was exchanged for its sacrifice?</EnglishText>
       <Notes/>
       <Id>3097</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23780</PointerOffset>
@@ -7187,10 +7234,11 @@ Effect: Poison</EnglishText>
       <PointerOffset>23928</PointerOffset>
       <JapaneseText>神の伝令をつたえたとされる神秘の杖。
 神の毒は敵に速やかな死をもたらす</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A staff that was once used to convey the will of the gods.
+Its poison from the gods brought a swift death to any threat.</EnglishText>
+      <Notes>Could delete the second "from the gods" since it's already implied in the first sentence.</Notes>
       <Id>3103</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>23948</PointerOffset>
@@ -7240,10 +7288,10 @@ mysterious, glowing blue ore.</EnglishText>
       <PointerOffset>24096</PointerOffset>
       <JapaneseText>マクスウェル愛用の杖。
 精霊の魔力が満ち溢れている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maxwell's favorite staff. It is brimming with magical power from the Spirits.</EnglishText>
       <Notes/>
       <Id>3109</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>24116</PointerOffset>
@@ -14316,7 +14364,7 @@ the ultra-tall ancient city of Thor.</EnglishText>
       <JapaneseText>闇の神殿内の全てのマップを
 明るく照らすことができるキャンドル</JapaneseText>
       <EnglishText>The candle which can illuminate all maps
-inside the sanctuary of the darkness.</EnglishText>
+inside the Temple of Darkness.</EnglishText>
       <Notes/>
       <Id>3934</Id>
       <Status>Editing</Status>
@@ -14738,7 +14786,7 @@ caves of the burning sand.</EnglishText>
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>3982</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>50136</PointerOffset>
@@ -14751,7 +14799,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50156</PointerOffset>
       <JapaneseText>剣豪</JapaneseText>
-      <EnglishText>Skilled Swordsman</EnglishText>
+      <EnglishText>Blademaster</EnglishText>
       <Notes/>
       <Id>3984</Id>
       <Status>Editing</Status>
@@ -14775,10 +14823,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56264,52064,51224,56600,50972,53744,54164,54668,51896,50300</PointerOffset>
       <JapaneseText>防御属性『闇』（耐性：物　弱点：光）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Dark (Resist: Physical, Weak: Light)</EnglishText>
       <Notes/>
       <Id>3987</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50304</PointerOffset>
@@ -14943,10 +14991,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52484,50888,55676,52988,55760,56096,54836,55256,53828,50216,51140</PointerOffset>
       <JapaneseText>防御属性『風』（耐性：雷　弱点：地）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Wind (Resist: Lightning, Weak: Earth)</EnglishText>
       <Notes/>
       <Id>4008</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51144</PointerOffset>
@@ -15119,7 +15167,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52004</PointerOffset>
       <JapaneseText>魔物使い</JapaneseText>
-      <EnglishText>Hell Master</EnglishText>
+      <EnglishText>Monster Tamer</EnglishText>
       <Notes/>
       <Id>4030</Id>
       <Status>Editing</Status>
@@ -15175,10 +15223,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>51644,50468,56516,55340,52904,50804,55172,52316</PointerOffset>
       <JapaneseText>防御属性『物』（耐性：光　弱点：闇）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Physical (Resist: Light, Weak: Dark)</EnglishText>
       <Notes/>
       <Id>4037</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52320</PointerOffset>
@@ -15199,10 +15247,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>53912,55508,52652,56012,50636,51392,54920,52400</PointerOffset>
       <JapaneseText>防御属性『光』（耐性：闇　弱点：物）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Light (Resist: Dark, Weak: Physical)</EnglishText>
       <Notes/>
       <Id>4040</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52404</PointerOffset>
@@ -15279,7 +15327,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52760</PointerOffset>
       <JapaneseText>破壊戦士</JapaneseText>
-      <EnglishText>Depraved Warrior</EnglishText>
+      <EnglishText>Barbarian</EnglishText>
       <Notes/>
       <Id>4050</Id>
       <Status>Editing</Status>
@@ -15335,10 +15383,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50552,55088,51476,54584,51728,54332,55592,55928,53072</PointerOffset>
       <JapaneseText>防御属性『水』（耐性：火　弱点：雷）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Water (Resist: Fire, Weak: Lightning)</EnglishText>
       <Notes/>
       <Id>4057</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53076</PointerOffset>
@@ -15359,10 +15407,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>50132,53240,57020,50048,53408,53324,53660,53492,56684,56852,53576,56768,56936,53156</PointerOffset>
       <JapaneseText>防御属性『無』（耐性：--　弱点：--）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: None (Resist: --, Weak: --)</EnglishText>
       <Notes/>
       <Id>4060</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53160</PointerOffset>
@@ -15434,7 +15482,7 @@ caves of the burning sand.</EnglishText>
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>4069</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>53664</PointerOffset>
@@ -15503,10 +15551,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52148,51560,55424,52568,51056,55004,56432,53996</PointerOffset>
       <JapaneseText>防御属性『地』（耐性：風　弱点：火）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Earth (Resist: Wind, Weak: Fire)</EnglishText>
       <Notes/>
       <Id>4078</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54000</PointerOffset>
@@ -15527,10 +15575,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>51980,50720,56348,54500,52820,52232,55844,54080</PointerOffset>
       <JapaneseText>防御属性『雷』（耐性：水　弱点：風）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Lightning (Resist: Water, Weak: Wind)</EnglishText>
       <Notes/>
       <Id>4081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54084</PointerOffset>
@@ -15599,10 +15647,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>51812,54248,51308,54752,56180,50384,52736,54416</PointerOffset>
       <JapaneseText>防御属性『火』（耐性：地　弱点：水）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attribute: Fire (Resist: Earth, Weak: Water)</EnglishText>
       <Notes/>
       <Id>4090</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54420</PointerOffset>
@@ -15823,7 +15871,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>55532</PointerOffset>
       <JapaneseText>歌姫</JapaneseText>
-      <EnglishText>Singer</EnglishText>
+      <EnglishText>Diva</EnglishText>
       <Notes/>
       <Id>4118</Id>
       <Status>Editing</Status>
@@ -15903,7 +15951,7 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>55952</PointerOffset>
       <JapaneseText>セントバード</JapaneseText>
-      <EnglishText>Saint Bard</EnglishText>
+      <EnglishText>Bard Saint</EnglishText>
       <Notes/>
       <Id>4128</Id>
       <Status>Editing</Status>

@@ -29,10 +29,10 @@
     <Entry>
       <PointerOffset>272385,272869,274552,274606,274662,274960,275008,275056,275110,275170,275224,275278,275381,275439,276336</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -552,11 +552,12 @@
     <Entry>
       <PointerOffset>276348</PointerOffset>
       <JapaneseText>どこかで、扉のロックが外れた音がした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You heard the sound of a door
+unlocking somewhere</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

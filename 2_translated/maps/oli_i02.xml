@@ -4,16 +4,14 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>272144,272208,272272,273104,273168,273232</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「サーロイン」の店主</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Sirloin" Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272336,272400,272464,272528,272592,272656</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>時を越えた女性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -22,7 +20,6 @@
     </Entry>
     <Entry>
       <PointerOffset>272720,272784,272848,272912,272976,273040</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>考える男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -31,16 +28,14 @@
     </Entry>
     <Entry>
       <PointerOffset>273296,273360,273424</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「サーロイン」の女主人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Sirloin" Proprietress</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273488,273552,273616,273680,273744,273808</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>魅惑のウェイトレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -49,7 +44,6 @@
     </Entry>
     <Entry>
       <PointerOffset>273872,273936,274000,274064,274128,274192</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>怒れる男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,16 +52,14 @@
     </Entry>
     <Entry>
       <PointerOffset>274256,274320,274384</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「サーロイン」のバイト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Sirloin" Part-Timer</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274448,274512,274576,274640,274704,274768</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>かたことな少女</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -76,7 +68,6 @@
     </Entry>
     <Entry>
       <PointerOffset>274832,274896,274960,275024,275088,275152</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>勇者になりたい男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -126,18 +117,18 @@
     <Entry>
       <PointerOffset>287280,287417</PointerOffset>
       <JapaneseText>鼻つまみの商人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unpopular Merchant</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>287350</PointerOffset>
       <JapaneseText>仕事を請けますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will You Take the Job?</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -145,10 +136,10 @@
     <Entry>
       <PointerOffset>287240</PointerOffset>
       <JapaneseText>食材屋　サーロイン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grocery Store Sirloin</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

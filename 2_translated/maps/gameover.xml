@@ -48,7 +48,7 @@
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -561,11 +561,12 @@
       <PointerOffset>273783</PointerOffset>
       <JapaneseText>タイトルへ戻る
 データをロードする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Title Screen
+Load Save</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>286440,286678,286743,286779,286850,286916,286955,287031,287102,287168,287179,287297,287383,287464,287540,287611,287677,287688,287857,287890,287901,288016,288126,288137,288264,288307,288492,289256,289267,289422,289530,289704,289780,289878,289984,290050,290103,290217,290414,290656,290721,290786,290851,291525,291866,292067,297181</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -664,11 +664,12 @@ use their powers. Catch my drift?</EnglishText>
       <JapaneseText>魔物を捕獲するためには、
 メニューのコスチュームから、
 魔物使いの格好に着替えるだーよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>To catch monsters, just go to the "Costumes" 
+menu and change into the Monster Tamer outfit!</EnglishText>
+      <Notes>gotta check with the costume name to make sure it's accurate</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>

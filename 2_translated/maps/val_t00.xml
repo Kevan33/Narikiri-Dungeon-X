@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>357380,357464</PointerOffset>
       <JapaneseText>ワンダーシェフ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wonder Chef</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>362200</PointerOffset>
       <JapaneseText>屈強の男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Brawny Man</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>360380,360592</PointerOffset>
       <JapaneseText>悲しい目をした女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorrowful Woman</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>360840</PointerOffset>
@@ -37,14 +37,14 @@
     <Entry>
       <PointerOffset>367392,367620,367796,367976,370218</PointerOffset>
       <JapaneseText>助ける男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Helping Man</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>324764,324828,324892,324956,325020,325084</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>泣いていた子ども</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,56 +54,56 @@
     <Entry>
       <PointerOffset>325148,325212,325276,325340,325404,325468,369762</PointerOffset>
       <JapaneseText>声のごつい男</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tough Man's Voice</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>325532,325596,325660,325724,325788,325852,369819</PointerOffset>
       <JapaneseText>声のでかい女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scary Lady's Voice</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>325916,325980,326044,326108,326172,326236,369953</PointerOffset>
       <JapaneseText>お兄ちゃん好きの男の子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Little Kid</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>326300,326364,326428,326492,326556,326620,369882</PointerOffset>
       <JapaneseText>悲しみを背負った母親</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sad Mother</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>326684,326748,326812,326876,326940,327004</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>元気のない老婆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Frail Old Woman</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>327068,327132,327196,327260,327324,327388</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>元気のない老人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Frail Old Man</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>327452,327516,327580,327644,327708,327772</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>村に詳しい男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -112,7 +112,7 @@
     </Entry>
     <Entry>
       <PointerOffset>327836,327900,327964,328028,328092,328156</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>美人すぎる女性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <PointerOffset>328220,328284,328348,328412,328476,328540</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>空元気の奥さん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <PointerOffset>328604,328668,328732,328796,328860,328924</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>戻ってきた男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -139,7 +139,7 @@
     </Entry>
     <Entry>
       <PointerOffset>328988,329052,329116,329180,329244,329308</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>金の匂いを嗅ぐ女性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,7 +148,7 @@
     </Entry>
     <Entry>
       <PointerOffset>329372,329436,329500,329564,329628,329692</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>傍観する老人</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <PointerOffset>329756,329820,329884,329948,330012,330076</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>囚われだった老婆</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <PointerOffset>330140,330204,330268,330332,330396,330460</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>テンション高めの少年</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <PointerOffset>330524,330588,330652,330716,330780,330844</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>悲しみに暮れる男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -184,7 +184,7 @@
     </Entry>
     <Entry>
       <PointerOffset>330908,330972,331036,331100,331164,331228</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>元住民のおばさん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -193,7 +193,7 @@
     </Entry>
     <Entry>
       <PointerOffset>331292,331356,331420,331484,331548,331612</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>鉱山開発の富豪</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -202,7 +202,7 @@
     </Entry>
     <Entry>
       <PointerOffset>331676,331740,331804,331868,331932,331996</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>耳ざとい旅人</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <PointerOffset>332060,332124,332188,332252,332316,332380</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>飛ばされた男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -237,10 +237,10 @@
     <Entry>
       <PointerOffset>351180,351418,351483,351519,351590,351656,351695,351771,351842,351908,351919,352037,352123,352204,352280,352351,352417,352428,352597,352630,352641,352756,352866,352877,353004,353047,353232,353987,353998,354153,354261,354435,354511,354609,354715,354781,354834,354948,355145,355387,355452,355517,355582,356256,356597,356798,369462,369623,370181,370318,370406,370502,370600,370684,370768</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -277,18 +277,18 @@
     <Entry>
       <PointerOffset>370096</PointerOffset>
       <JapaneseText>バジル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>370116</PointerOffset>
       <JapaneseText>水精石を１０個、渡しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hand Over 10 Stone of Undine?</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -296,10 +296,10 @@
     <Entry>
       <PointerOffset>369152</PointerOffset>
       <JapaneseText>道具屋　天地無用</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop No Restrictions</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>369313</PointerOffset>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
+  <FriendlyName>World Map</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -21,10 +22,10 @@
     <Entry>
       <PointerOffset>268272,268510,268575,268611,268682,268748,268787,268863,268934,269000,269011,269129,269215,269296,269372,269443,269509,269520,269689,269722,269733,269848,269958,269969,270096,270139,270324,271079,271090,271245,271353,271527,271603,271701,271807,271873,271926,272040,272237,272479,272544,272609,272674,273348,273689,273890,274140,274279,274478</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -555,11 +556,16 @@
 行きたい場所はアイコンを選択すれば、
 そこに入る事ができるだーよ。
 メニューでも確認できるから、活用すれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This here’s the world map. Just pick
+the icon for wherever you wanna go,
+and you’ll head right on in. You can
+check it from the menu too, so don’t
+forget to make use of it.
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274290</PointerOffset>
@@ -568,11 +574,16 @@
 あとは、ダンジョンとかにある、
 記憶陣でもできるだ。
 こまめにセーブする事をオススメするだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, right, that reminds me, there’s one more
+important thing. You can save anytime while
+you’re on the world map. You can also save
+at those save points you find in dungeons.
+Best to save often, I’d say.
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274489</PointerOffset>
@@ -582,11 +593,16 @@ HPが全回復するだーよ。
 ぜーんぶスッキリ治るだ。
 ただ、EBGだけはリセットされちまうで、
 気をつけておくだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, when you go to the world map, your
+HP gets fully restored. Any status effects
+too, all cleared up nice and clean. Just
+watch it, though, your EBG gets reset,
+so don’t go forgetting that.
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

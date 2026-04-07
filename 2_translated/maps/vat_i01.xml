@@ -5,14 +5,14 @@
     <Entry>
       <PointerOffset>270672,270736,270800,271248,271312,271376,281957,282029</PointerOffset>
       <JapaneseText>好奇心旺盛の商人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Surprised Clerk</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270864,270928,270992,271056,271120,271184</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>お金を持った坊ちゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -21,16 +21,16 @@
     </Entry>
     <Entry>
       <PointerOffset>271440,271504,271568,271632,271696,271760</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」な商人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"No Restrictions" Merchant</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271824,271888,271952,272016,272080,272144</PointerOffset>
-      <MaxLen>48</MaxLen>
+      <MaxLength>48</MaxLength>
       <JapaneseText>キレている女性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -80,10 +80,10 @@
     <Entry>
       <PointerOffset>282082</PointerOffset>
       <JapaneseText>下ばかり見てる青年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Downcast Young Man</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -91,10 +91,10 @@
     <Entry>
       <PointerOffset>281929</PointerOffset>
       <JapaneseText>道具屋　天地無用</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop - No Restrictions</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>

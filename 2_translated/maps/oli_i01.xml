@@ -4,17 +4,15 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>270196,270324,271156,271284</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ガーリック」の売り子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Garlic" Salesperson</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>270260,271220,271412,272372</PointerOffset>
-      <MaxLen>48</MaxLen>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -22,7 +20,6 @@
     </Entry>
     <Entry>
       <PointerOffset>270388,270452,270516,270580,270644,270708</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>うつろな吟遊詩人</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -31,34 +28,30 @@
     </Entry>
     <Entry>
       <PointerOffset>270772,270836,270900,270964,271028,271092</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>話が長い女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Talkative Woman</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271348,271476,272308,272436</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>「ガーリック」店番</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Garlic" Shopkeeper</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271540,271604,271668,271732,271796,271860</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>&lt;Arche&gt;ファン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fan of &lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>271924,271988,272052,272116,272180,272244</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>早耳の女性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,7 +60,6 @@
     </Entry>
     <Entry>
       <PointerOffset>272500,272564,272628,272692,272756,272820</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>バジリスクを想う少年</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -76,7 +68,6 @@
     </Entry>
     <Entry>
       <PointerOffset>272884,272948,273012,273076,273140,273204</PointerOffset>
-      <MaxLen>48</MaxLen>
       <JapaneseText>語り伝える男性</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -129,10 +120,10 @@
     <Entry>
       <PointerOffset>285884</PointerOffset>
       <JapaneseText>武器屋　ガーリック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weapon Shop Garlic</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
