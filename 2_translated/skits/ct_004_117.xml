@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
   <Speakers>
     <Section>Speaker</Section>
@@ -25,58 +26,54 @@
       <VoiceId>&lt;audio:VCT_004_117_001&gt;</VoiceId>
       <JapaneseText>か、勝てね～……んだよ、アイツ……
 インチキだろ、あの強さ</JapaneseText>
-      <EnglishText>I can't beat him...What's with this guy?
-They've gotta be cheating!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>1</Id>
       <SpeakerId>1</SpeakerId>
-      <Status>Editing</Status>
+      <Id>1</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42268</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_117_002&gt;</VoiceId>
       <JapaneseText>うん……すごーく強いね……
 全然、勝てないし……</JapaneseText>
-      <EnglishText>Yeah, way too strong. I can't even touch
-them!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>2</Id>
       <SpeakerId>2</SpeakerId>
-      <Status>Editing</Status>
+      <Id>2</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42372</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_117_003&gt;</VoiceId>
       <JapaneseText>んにゃろ～今度こそ！
 こてんぱんにのしてやっからな！</JapaneseText>
-      <EnglishText>Ngh! I'll beat you to a pulp this time,
-just you wait!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>3</Id>
       <SpeakerId>1</SpeakerId>
-      <Status>Editing</Status>
+      <Id>3</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42512</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_117_004&gt;</VoiceId>
       <JapaneseText>そのためにはグミやボトルをしっかりそろえて、
 なりきる職業もしっかり選んでおかなきゃ！</JapaneseText>
-      <EnglishText>Make sure we've got the right items on
-hand. And run the right jobs, too!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>4</Id>
       <SpeakerId>2</SpeakerId>
-      <Status>Editing</Status>
+      <Id>4</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42596</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_117_005&gt;</VoiceId>
       <JapaneseText>だな！　おーしっ！　待ってろよ～</JapaneseText>
-      <EnglishText>Right! Okay, you stay right there!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>5</Id>
       <SpeakerId>1</SpeakerId>
-      <Status>Editing</Status>
+      <Id>5</Id>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
 </SceneText>

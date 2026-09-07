@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
   <Speakers>
     <Section>Speaker</Section>
@@ -32,66 +33,62 @@
       <PointerOffset>40860</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_001&gt;</VoiceId>
       <JapaneseText>ふふふ、オレら、すっげー強くなったよな</JapaneseText>
-      <EnglishText>He he he~ We've gotten a LOT stronger,
-haven't we, sis?</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>1</Id>
       <SpeakerId>1</SpeakerId>
-      <Status>Editing</Status>
+      <Id>1</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>40948</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_002&gt;</VoiceId>
       <JapaneseText>そう、かな……あんまり実感ないけど</JapaneseText>
-      <EnglishText>I suppose so? I can't really say it feels
-all that different, though.</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>2</Id>
       <SpeakerId>2</SpeakerId>
-      <Status>Editing</Status>
+      <Id>2</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41088</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_003&gt;</VoiceId>
       <JapaneseText>いいや、マジで強いって。『&lt;Dio&gt;と
 &lt;Mel&gt;は　もう　じゅうぶんに　つよい』ってヤツだ！</JapaneseText>
-      <EnglishText>Nah, I'm feeling it!! They'll say "Those two
-are strong as bricks!"</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>3</Id>
       <SpeakerId>1</SpeakerId>
-      <Status>Editing</Status>
+      <Id>3</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41160</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_004&gt;</VoiceId>
       <JapaneseText>？　なに、それ……</JapaneseText>
-      <EnglishText>Huh? Bricks?</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>4</Id>
       <SpeakerId>2</SpeakerId>
-      <Status>Editing</Status>
+      <Id>4</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41256</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_005&gt;</VoiceId>
       <JapaneseText>でも慢心は禁物だよ！　少しの油断が命取りって</JapaneseText>
-      <EnglishText>Careful now. You know what they say
-comes before a fall.</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>5</Id>
       <SpeakerId>3</SpeakerId>
-      <Status>Editing</Status>
+      <Id>5</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41316</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_006&gt;</VoiceId>
       <JapaneseText>そうだね</JapaneseText>
-      <EnglishText>Yeah. A brick in the dirt.</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <Id>6</Id>
       <SpeakerId>2</SpeakerId>
-      <Status>Editing</Status>
+      <Id>6</Id>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
 </SceneText>
